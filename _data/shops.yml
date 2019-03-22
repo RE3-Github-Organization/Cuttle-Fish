@@ -1,12 +1,18 @@
 - name: Psotify
   url:
+  icon: fa fa-spotify
 - name: CampBand
   url:
+  icon: fa fa-bandcamp
 - name: CloudSound
   url:
-- name: Geezer
+  icon: fa fa-soundcloud
+- name: IFumes
   url:
-- name: Dital
+  icon: fa fa-apple
+- name: Youtube
   url: 
+  icon: fa fa-youtube-play
 - name: Napster
   url:
+  icon: fa fa-drupal

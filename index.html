@@ -78,7 +78,7 @@ layout: default
 							<div class="row gtr-uniform">
 {% for shop in site.data.shops %}
 								<section class="col-4 col-6-medium col-12-xsmall">
-									<span class="icon alt major fa-area-chart"></span>
+									<span class="icon alt major {{ shop.icon}}"></span>
 									<a href="{{ shop.link }}" target=""><h3>{{ shop.name }}</h3></a>
 								</section>
 {% endfor %}

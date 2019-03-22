@@ -1,0 +1,21 @@
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# mousepad shit #
+*.*~
+
+# jekyll no need to push #
+_site
+_site/*
+_data/.~lock.*.csv#
+
+# no heavy files in here
+*.mp3

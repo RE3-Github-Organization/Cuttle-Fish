@@ -1,1 +1,111 @@
-Hello world
+---
+title: YKHM
+description: Rappeur francophonien pour kaukaze des bois de la haute montagne.
+image: /images/hero.png
+image-2: /images/tagueule.png
+layout: default
+---
+			<!-- Banner -->
+      <section id="banner" style="background-color:rgba(240, 242, 255, 0.25);background-image: url({{ page.image }});background-size:cover;background-repeat:no-repeat;">
+        <div class="content">
+          <header>
+            <h2>{{ page.title }}</h2>
+            <p>{{ page.description }}</p>
+          </header>
+          <span class="image"><img src="/images/pauvrecoude.jpg" alt="" class="editable" /></span>
+        </div>
+        <a href="#one" class="goto-next scrolly">Next</a>
+      </section>
+			<!-- One -->
+      <section id="one" class="spotlight style1 bottom">
+        <span class="image fit main"><img src="{{ page.image-2 }}" alt="" /></span>
+        <div class="content">
+          <div class="container">
+            <div class="row">
+              <div class="col-4 col-12-medium">
+                <header>
+                  <h2 class="editable">Odio faucibus ipsum integer consequat</h2>
+                  <p class="editable">Nascetur eu nibh vestibulum amet gravida nascetur praesent</p>
+                </header>
+              </div>
+              <div class="col-4 col-12-medium">
+                <p class="editable">Feugiat accumsan lorem eu ac lorem amet sed accumsan donec.
+                Blandit orci porttitor semper. Arcu phasellus tortor enim mi
+                nisi praesent dolor adipiscing. Integer mi sed nascetur cep aliquet
+                augue varius tempus lobortis porttitor accumsan consequat
+                adipiscing lorem dolor.</p>
+              </div>
+              <div class="col-4 col-12-medium">
+                <p class="editable">Morbi enim nascetur et placerat lorem sed iaculis neque ante
+                adipiscing adipiscing metus massa. Blandit orci porttitor semper.
+                Arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer
+                mi sed nascetur cep aliquet augue varius tempus. Feugiat lorem
+                ipsum dolor nullam.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </section>
+{% for sortie in site.sorties %}
+			<!-- Two -->
+				<section id="two" class="spotlight style2 right">
+					<span class="image fit main"><img src="{{ sortie.image }}" alt="" /></span>
+					<div class="content">
+						<header>
+							<h2>{{ sortie.title}}</h2>
+							<p>{{ sortie.description }}</p>
+						</header>
+						<p>{{ sortie.content | truncate: 120 }}</p>
+						<ul class="actions">
+							<li><a href="{{ sortie.url }}" class="button">Zy-va Kaucaze!</a></li>
+						</ul>
+					</div>
+
+        </section>
+{% endfor %}
+
+
+			<!-- Four -->
+				<section id="four" class="wrapper style1 special fade-up">
+					<div class="container">
+						<header class="major">
+							<h2 class="editable">Disponible partout, Tentend?</h2>
+							<p class="editable">Payes ta musique Kaukaze. Respect aux pirates! Tu sais ou te fournir!</p>
+						</header>
+						<div class="box alt">
+							<div class="row gtr-uniform">
+{% for shop in site.data.shops %}
+								<section class="col-4 col-6-medium col-12-xsmall">
+									<span class="icon alt major fa-area-chart"></span>
+									<a href="{{ shop.link }}" target=""><h3>{{ shop.name }}</h3></a>
+								</section>
+{% endfor %}
+							</div>
+						</div>
+						<footer class="major">
+							<ul class="actions special">
+								<li><a href="#" class="button">Magna sed feugiat</a></li>
+							</ul>
+						</footer>
+					</div>
+				</section>
+
+			<!-- Five -->
+				<section id="five" class="wrapper style2 special fade">
+					<div class="container">
+						<header>
+							<h2 class="editable">Done ton nom Kaukaze</h2>
+							<p class="editable">Promis y sera bien prononocer"</p>
+						</header>
+						<form method="post" action="#" class="cta">
+							<div class="row gtr-uniform gtr-50">
+								<div class="col-8 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Ton courriel tentends?" /></div>
+								<div class="col-4 col-12-xsmall"><input type="submit" value="Envois Bwoy" class="fit primary" /></div>
+							</div>
+						</form>
+					</div>
+				</section>
+
+
+

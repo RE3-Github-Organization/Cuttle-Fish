@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-
 			<!-- Main -->
 				<div id="main" class="wrapper style1">
 					<div class="container">
@@ -20,3 +18,43 @@ layout: default
 					</div>
 				</div>
 
+			<!-- Four -->
+      <section id="four" class="wrapper style1 special fade-up">
+        <div class="container">
+          <header class="major">
+            <h2 class="editable">{{ page.title }} est Disponible partout, Tentend?</h2>
+            <p class="editable">Payes ta musique Kaukaze. Respect aux pirates! Tu sais ou te fournir!</p>
+          </header>
+          <div class="box alt">
+            <div class="row gtr-uniform">
+{% for shop in page.shops %}
+              <section class="col-4 col-6-medium col-12-xsmall">
+                <span class="icon alt major {{ shop.icon }}"></span>
+                <a href="{{ shop.url }}" target=""><h3>{{ shop.name }}</h3></a>
+              </section>
+{% endfor %}
+            </div>
+          </div>
+        </div>
+      </section>
+
+    <!-- Five -->
+      <section id="five" class="wrapper style2 special fade">
+        <div class="container">
+          <header>
+            <h2 class="editable">Done ton nom Kaukaze</h2>
+            <p class="editable">
+              Promis y sera bien prononocer
+            </p>
+          </header>
+          <form method="post" action="{{ site.baseurl }}/contact-success/" class="cta">
+            <input type="hidden" name="_to" value="public@sakrecoer.com" />
+            <input type="text" name="_gotcha" style="display: none;" />
+            <div class="row gtr-uniform gtr-50">
+              <div class="col-8 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Ton courriel tentends?" /></div>
+              <div class="col-4 col-12-xsmall"><input type="submit" value="Envois Umain" class="fit primary" /></div>
+            </div><br />
+            <div class="col-4 col-12-xsmal"><input type="checkbox" name="love" value="love" id="love"><label for="love"> Check si tu consent et que t'en veux encore!</label></div>
+          </form>
+        </div>
+      </section>

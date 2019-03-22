@@ -4,11 +4,14 @@ date: 2016-02-29 00:00:00
 description: Dix-huit titres gravés sur un CD travesti en vinyle, glissé dans une pochette de 45 tours.
 image: /images/ykhm.jpg
 shops:
-  - name:
-    link:
-  - name: 
-    link:
+  - name: Bandcamp
+    link: https://pauvrecoude.bandcamp.com/album/youvoi-kartel-haute-montagne
+  - name: Spotiface
+    link: 
 ---
+
+Dix-huit titres gravés sur un CD travesti en vinyle, glissé dans une pochette de 45 tours. Dépliée, celle-ci est une affiche en papier kraft recto verso, sérigraphié et réalisé par les bons soins de Kakakids Records. 
+
 Produit par Pauvre Coude. Tous les titres ont été enregistrés et mixés par Pauvre Coude au Studio Reduit Prod.
 
 Excepté: Air du temps, enregistré par Jean Vance et Noventa / Le commando est prêt, enregistré par Récalcitrant Serge.

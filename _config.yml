@@ -51,6 +51,7 @@ collections:
   sorties:
     output: true
     permalink: /:path/
+    layout: release
 
 # defaults
 timezone: Europe/Stockholm

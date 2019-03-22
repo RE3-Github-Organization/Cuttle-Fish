@@ -101,11 +101,14 @@ layout: default
 								Promis y sera bien prononocer
 							</p>
 						</header>
-						<form method="post" action="#" class="cta">
+            <form method="post" action="{{ site.baseurl }}/contact-success/" class="cta">
+              <input type="hidden" name="_to" value="public@sakrecoer.com" />
+              <input type="text" name="_gotcha" style="display: none;" />
 							<div class="row gtr-uniform gtr-50">
 								<div class="col-8 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Ton courriel tentends?" /></div>
 								<div class="col-4 col-12-xsmall"><input type="submit" value="Envois Bwoy" class="fit primary" /></div>
-							</div>
+              </div><br />
+              <div class="col-4 col-12-xsmal"><input type="checkbox" name="love" value="love" id="love"><label for="love"> Check si tu conscend et que t'es content!</label></div>
 						</form>
 					</div>
 				</section>

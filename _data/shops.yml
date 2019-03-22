@@ -2,7 +2,7 @@
   url:
   icon: fa fa-spotify
 - name: CampBand
-  url:
+  url: https://pauvrecoude.bandcamp.com/
   icon: fa fa-bandcamp
 - name: CloudSound
   url:
@@ -11,7 +11,7 @@
   url:
   icon: fa fa-apple
 - name: YouLube
-  url: 
+  url: https://www.youtube.com/channel/UCdg56swaiV1loqRDjpVOpjg
   icon: fa fa-youtube-play
 - name: Naspter
   url:

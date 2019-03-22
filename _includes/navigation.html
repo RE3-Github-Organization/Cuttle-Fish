@@ -3,7 +3,7 @@
 					<h1 id="logo"><a href="/" style="font-family: old, Arial, Helvetica, sans-serif;">Pauvre Coude</a></h1>
 					<nav id="nav">
 						<ul>
-              <li><a href="/">E.T. Maison</a></li>
+              {% if page.url != '/' %}<li><a href="/">E.T. Maison</a></li>{% endif %}
 {% for sortie in site.sorties %}
               <li><a href="{{ sortie.url }}">{{ sortie.title }}</a></li>
 {% endfor %}

@@ -23,8 +23,8 @@ logo: /siteicon.png
 description: >- # this means to ignore newlines until "baseurl:"
   'Il est la réunion de trois articulations : huméro-ulnaire, huméro-radiale et radio-ulnaire proximale. Lorsque l''avant-bras est tendu, le bras et l''avant-bras ne sont pas alignés dans le plan frontal. Les deux parties forment un angle ouvert en dehors, d''environ 170° chez l''homme, 160° chez la femme ; c'est ce qui est appelé le valgus physiologique (on retrouve la même chose pour le genou).'
 author:
-  name: 
-  email:
+  name: Pauvre Coude
+  email: pauvrecoude@gmail.com
   twitter: # twitter username without the @ symbol
 social:
   name: Pauvre Coude
@@ -61,6 +61,5 @@ defaults:
       type: "pages"
     values:
         layout: "default"
-
 sass:
     sass_dir: /assets/sass/

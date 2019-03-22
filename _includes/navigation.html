@@ -5,7 +5,7 @@
 						<ul>
               {% if page.url != '/' %}<li><a href="/">E.T. Maison</a></li>{% endif %}
 {% for sortie in site.sorties %}
-              <li><a href="{{ sortie.url }}">{{ sortie.title }}</a></li>
+              <li><a href="{{ sortie.url }}" style="font-family: old, Arial, Helvetica, sans-serif;">{{ sortie.title }}</a></li>
 {% endfor %}
 						</ul>
 					</nav>

@@ -7,12 +7,12 @@
 - name: CloudSound
   url:
   icon: fa fa-soundcloud
-- name: IFumes
+- name: iFumes
   url:
   icon: fa fa-apple
-- name: Youtube
+- name: YouLube
   url: 
   icon: fa fa-youtube-play
-- name: Napster
+- name: Naspter
   url:
   icon: fa fa-drupal

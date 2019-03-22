@@ -3,6 +3,7 @@ title: Youvoi kartel haute montagne
 date: 2016-02-29 00:00:00
 description: Dix-huit titres gravés sur un CD travesti en vinyle, glissé dans une pochette de 45 tours.
 image: /images/ykhm.jpg
+layout: release
 shops:
   - name: Bandcamp
     link: https://pauvrecoude.bandcamp.com/album/youvoi-kartel-haute-montagne

@@ -1,7 +1,7 @@
 ---
 title: Youvoi kartel haute montagne
 date: 2016-02-29 00:00:00
-description: Dix-huit titres gravés sur un CD travesti en vinyle, glissé dans une pochette de 45 tours.
+description: 'Un album extrospectif, pour expectatids de l''introspective. Kaukaze sensible s''abstenir.'
 image: /images/ykhm.jpg
 layout: release
 shops:

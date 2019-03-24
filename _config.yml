@@ -18,6 +18,7 @@ email: pauvrecoude@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pauvrecoude.basspistol.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: pipershudvard
+
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: >- # this means to ignore newlines until "baseurl:"
@@ -29,7 +30,8 @@ author:
 social:
   name: Pauvre Coude
   links:
-    - 
+    - https://pauvrecoude.bandcamp.com
+lang: fr_FR
 
 # Build settings
 plugins:

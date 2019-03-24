@@ -22,7 +22,9 @@ aj@lkn.io | @ajlkn
 Credits:
 - Demo Images:
 	- Unsplash (unsplash.com)
-
+    - Christian Fregnan @chrfrg https://unsplash.com/photos/WTWvcuIpm1c
+    - Val Vesa @adspedia https://unsplash.com/photos/ihFWKicceNk
+    - Denys Nevozhai @dnevozhai https://unsplash.com/photos/guNIjIuUcgY
 - Icons:
 	- Font Awesome (fontawesome.io)
 

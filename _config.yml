@@ -17,7 +17,7 @@ title: "Pauvre Coude"
 email: pauvrecoude@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pauvrecoude.basspistol.com" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: pipershudvard
+instagram_username: 
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
@@ -31,6 +31,8 @@ social:
   name: Pauvre Coude
   links:
     - https://pauvrecoude.bandcamp.com
+    - https://soundcloud.com/pauvrecoude
+    - https://www.youtube.com/channel/UCdg56swaiV1loqRDjpVOpjg    
 lang: fr_FR
 
 # Build settings

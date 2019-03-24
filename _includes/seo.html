@@ -36,7 +36,9 @@
   <meta name="twitter:site" content="@bpist" />
   <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}" />
   <meta name="twitter:description" content="{{ site.description | strip_html }}" />
-  <meta name="twitter:image" content="{{ site.url }}{{ site.logo }}" />
+  {% if page.url != '/' %} <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+  {% else %}<meta name="twitter:image" content="{{ site.url }}{{ site.logo }}" />
+  {% endif %}
 
 
   <!-- Humans.txt authorship http://humanstxt.org -->

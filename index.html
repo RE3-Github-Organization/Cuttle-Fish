@@ -71,10 +71,12 @@ layout: default
 						</header>
 						<div class="box alt">
 							<div class="row gtr-uniform">
-{% for shop in site.data.shops %}
+{% assign members = site.vi | sort: "namn" %}
+{% for medlem in members %}
 								<section class="col-4 col-6-medium col-12-xsmall">
-									<span class="icon alt major {{ shop.icon }}"></span>
-									<a href="{{ shop.url }}" target=""><h3>{{ shop.name }}</h3></a>
+									<span class="icon alt major" style="background-image:url({{ medlem.image }})"></span>
+                  <h3>{{ medlem.namn }}</h3>
+                  <p>{{ medlem.bio }}</p>
 								</section>
 {% endfor %}
 							</div>

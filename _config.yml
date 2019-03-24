@@ -48,6 +48,9 @@ plugins:
 # excerpt_separator: '<!--more-->'
 pagination:
   enabled: true
+  title: ':title sida :num av :max'
+
+
 
 # Site Variables:
 

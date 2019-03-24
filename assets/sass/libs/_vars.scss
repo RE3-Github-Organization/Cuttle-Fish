@@ -25,26 +25,26 @@
 	$font: (
 		family:				(Helvetica, sans-serif),
     family-fixed:		('Courier New', monospace),
-    family-title: ('old', Roboto, Helvetiva, sans-serif),
+    family-title: ('Cormorant Upright', serif),
 		weight:				100,
 		weight-bold:		300
 	);
 
 // Palette.
 	$palette: (
-		bg:					#1c1d26,
-		bg-transparent:		rgba(23,24,32,0.85),
+		bg:					rgb(214, 163, 255),
+		bg-transparent:		rgba(123, 51, 182,0.85),
 		fg-bold:			#ffffff,
-		fg:					rgba(255,255,255,0.75),
-		fg-light:			rgba(255,255,255,0.5),
-		fg-lighter:			rgba(255,255,255,0.15),
-		border:				rgba(255,255,255,0.3),
-		border-bg:			rgba(255,255,255,0.075),
-		border2:			rgba(255,255,255,0.5),
-		border2-bg:			rgba(255,255,255,0.25),
-		accent1:			#ee3641,
-		accent2:			#272833,
-		accent2-transparent:rgba(39,40,51,0.965),
+		fg:					rgba(242, 226, 255, 0.75),
+		fg-light:			rgba(242, 226, 255,0.5),
+		fg-lighter:			rgba(242, 226, 255,0.15),
+		border:				rgba(242, 226, 255,0.3),
+		border-bg:			rgba(242, 226, 255,0.075),
+		border2:			rgba(242, 226, 255,0.5),
+		border2-bg:			rgba(242, 226, 255,0.25),
+		accent1:			#5DB860,
+		accent2:			rgb(123, 51, 182),
+		accent2-transparent:rgba(123, 51, 182,0.965),
 		accent3:			#5480f1,
 		accent4:			#39c088
 	);

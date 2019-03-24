@@ -23,7 +23,7 @@
     {% feed_meta %}
     {% include seo.html %}
 	</head>
-	<body class="is-preload landing">
+	<body class="is-preload {% if page.url == '/' %}landing{% else %}{% endif %}">
   <div id="page-wrapper">
 {% include navigation.html %}
 {{ content }}

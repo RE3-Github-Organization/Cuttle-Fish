@@ -54,8 +54,7 @@ pagination:
 collections:
   tjanster:
     output: true
-    permalink: /:name/
-    layout: release
+    permalink: /tjaenster/:name/
   vi:
     output: false
 
@@ -68,5 +67,10 @@ defaults:
       type: "pages"
     values:
         layout: "default"
+  - scope:
+      path: ""
+      type: "tjanster"
+    values:
+        layout: "tjaenster"
 sass:
     sass_dir: /assets/sass/

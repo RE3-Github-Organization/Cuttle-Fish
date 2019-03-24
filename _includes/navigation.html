@@ -3,11 +3,19 @@
 					<h1 id="logo"><a href="/" style="font-family: 'Cormorant Upright', serif;"><img src="/CuttleFish-logo_small.svg" alt="Cuttlefish Logo"></a></h1>
 					<nav id="nav">
 						<ul>
-              {% if page.url != '/' %}<li><a href="/">Hem</a></li>{% endif %}
-{% for sortie in site.sorties %}
-              <li><a href="{{ sortie.url }}" style="font-family: old, Arial, Helvetica, sans-serif;">{{ sortie.title }}</a></li>
+              <li><a href="/">Hem</a></li>
+              <li>
+                <a href="#">Våra tjänster</a>
+                  <ul>
+{% for tjanst in site.tjanster %}
+                    <li><a href="{{ tjanst.url }}">{{ tjanst.title }}</a></li>
 {% endfor %}
+                  </ul>
+              <li><a href="/aktuellt/">Aktuellt</a></li>   
+              <li><a href="#" class="button primary">Kontakta oss</a></li>
 						</ul>
 					</nav>
 				</header>
         
+
+

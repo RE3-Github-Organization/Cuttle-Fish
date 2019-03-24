@@ -1,0 +1,3 @@
+/events /tjaenster/gruppresor/
+/foeretagsresor /tjaenster/foeretagsresor/
+/privatresor /tjaenster/privatresor/

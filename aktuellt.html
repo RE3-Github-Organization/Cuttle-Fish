@@ -29,7 +29,7 @@ pagination:
                 <div class="row gtr-50 gtr-uniform">
 
                   {% for post in paginator.posts limit:10 %}
-                  <div class="{% if forloop.first %}col-12{% else %}col-4 col-6-xsmall{% endif %}"><a href="{{ post.title }}"><span class="image fit"><img src="{{ post.image }}" alt="{{ post.title }}" /></span></a>
+                  <div class="{% if forloop.first %}col-12{% else %}col-4 col-6-xsmall{% endif %}"><a href="{{ post.url}}"><span class="image fit"><img src="{{ post.image }}" alt="{{ post.title }}" /></span></a>
                     <h3>{{ post.title }}</h3>
                     <p>{{ post.date | date: "%a, %b %d, %Y" }}</p>
                     <p>{{ post.description }}</p>

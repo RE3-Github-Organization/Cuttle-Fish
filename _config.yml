@@ -76,5 +76,11 @@ defaults:
       type: "tjanster"
     values:
         layout: "tjaenster"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "tjaenster"
+      permalink: /:year/:month/:day/:title/
 sass:
     sass_dir: /assets/sass/

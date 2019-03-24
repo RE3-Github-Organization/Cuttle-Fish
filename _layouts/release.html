@@ -38,23 +38,4 @@ layout: default
         </div>
       </section>
 
-    <!-- Five -->
-      <section id="five" class="wrapper style2 special fade">
-        <div class="container">
-          <header>
-            <h2 class="editable">Done ton email Kaukaze</h2>
-            <p class="editable">
-              Promis y sera bien traîter !
-            </p>
-          </header>
-          <form method="post" action="{{ site.baseurl }}/contact-success/" class="cta">
-            <input type="hidden" name="_to" value="pauvrecoude+basspistol@gmail.com" />
-            <input type="text" name="_gotcha" style="display: none;" />
-            <div class="row gtr-uniform gtr-50">
-              <div class="col-8 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Ton courriel tentends?" /></div>
-              <div class="col-4 col-12-xsmall"><input type="submit" value="Envois Umain" class="fit primary" /></div>
-            </div><br />
-            <div class="col-4 col-12-xsmal"><input type="checkbox" name="love" value="love" id="love"><label for="love"> Check si tu consent et que t'en veux encore!</label></div>
-          </form>
-        </div>
-      </section>
+{% include contactform.html %}

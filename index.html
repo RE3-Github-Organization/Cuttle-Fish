@@ -6,7 +6,6 @@ description: >-
 image: /images/hero.jpg
 deuxiem_image: /images/tagueule.jpg
 layout: default
-keywords: 'Pauvre coude, Rap, Francais, Musique, Suisse, Geneve'
 ---
 
 <!-- Banner -->
@@ -16,7 +15,7 @@ keywords: 'Pauvre coude, Rap, Francais, Musique, Suisse, Geneve'
             <h2>{{ page.title }}</h2>
             <p>{{ page.description }}</p>
           </header>
-          <span class="image"><img src="/images/pauvrecoude.jpg" alt="" class="editable" /></span>
+          <span class="image"><img src="/images/pauvrecoude.jpg" alt="Le visage de Pauvre Coude" class="editable" /></span>
         </div>
         <a href="#one" class="goto-next scrolly">Next</a>
       </section>
@@ -54,7 +53,7 @@ keywords: 'Pauvre coude, Rap, Francais, Musique, Suisse, Geneve'
 {% for sortie in site.sorties %}
 			<!-- Two -->
 				<section id="two" class="spotlight style1 {% cycle 'right', 'left' %}">
-					<span class="image fit main"><img src="{{ sortie.image }}" alt="" /></span>
+					<span class="image fit main"><img src="{{ sortie.image }}" alt="{{ sortie.title }}" /></span>
 					<div class="content">
 						<header>
 							<h2>{{ sortie.title}}</h2>

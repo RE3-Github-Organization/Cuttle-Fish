@@ -6,8 +6,8 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    width="134.30745"
-   height="39"
-   viewBox="0 0 125.91323 36.5625"
+   height="50"
+   viewBox="0 0 125.91323 46.875"
    id="svg4668"
    version="1.1">
   <defs
@@ -25,7 +25,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0.18363544,0,0,0.18363544,-0.34418148,8.0932313)"
+     transform="matrix(0.18363544,0,0,0.18363544,-0.34418148,18.405731)"
      id="g5273">
     <g
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:256.41433716px;line-height:125%;font-family:'Cormorant Upright';-inkscape-font-specification:'Cormorant Upright Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

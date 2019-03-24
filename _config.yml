@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Cuttlefish AB"
 email: info@cuttlefish.se
+phone: '+46843732600'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cuttlefish.se" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: 

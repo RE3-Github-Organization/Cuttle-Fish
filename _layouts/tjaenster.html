@@ -15,7 +15,8 @@ layout: default
 								<!-- Content -->
 									<section id="content">
 										<a href="#" class="image fit"><img src="{{ page.image }}" alt="" /></a>
-										{{ content }}
+                    {{ content }}
+                    <a href="tel:{{ site.phone }}" class="button">Ring</a> <a href="/#five" class="button primary">Maila</a>
 									</section>
 
 							</div>
@@ -24,25 +25,35 @@ layout: default
 								<!-- Sidebar -->
 									<section id="sidebar">
 										<section>
-											<h3>Magna Feugiat</h3>
-											<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit..</p>
+											<h3 class="editable">Våra tjänster</h3>
+											<p class="editable">Vi organiserar resor för företag, privatperssoner och grupper.</p>
 											<footer>
 												<ul class="actions">
-													<li><a href="#" class="button">Learn More</a></li>
+													<li><a href="/#five" class="button">Kontakta oss</a></li>
 												</ul>
 											</footer>
 										</section>
-										<hr />
-										<section>
-											<a href="#" class="image fit"><img src="/images/pic07.jpg" alt="" /></a>
-											<h3>Amet Lorem Tempus</h3>
-											<p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-											<footer>
-												<ul class="actions">
-													<li><a href="#" class="button">Learn More</a></li>
-												</ul>
-											</footer>
-										</section>
+                    <hr />
+                    
+                    {% for tjanst in site.tjanster %}
+                    {% if tjanst.url != page.url %} 
+                    
+                    <section>
+                        <a href="{{ tjanst.url }}" class="image fit"><img src="{{ tjanst.image }}" alt="{{ tjanst.title }}" /></a>
+                        <h3>{{ tjanst.title }}</h3>
+                        <p>{{ tjanst. description }}</p>
+                        <footer>
+                          <ul class="actions">
+                            <li><a href="{{ tjanst.url }}" class="button">Läs mer</a></li>
+                          </ul>
+                        </footer>
+                      </section>
+ 
+                    {% endif %}
+                  {% endfor %}
+                      
+
+
 									</section>
 
 							</div>

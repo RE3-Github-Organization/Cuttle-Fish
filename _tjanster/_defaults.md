@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 description: 
 image: 
 ---

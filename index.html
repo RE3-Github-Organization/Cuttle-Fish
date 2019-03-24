@@ -43,18 +43,18 @@ layout: default
         </div>
 
       </section>
-{% for sortie in site.sorties %}
+{% for tjanst in site.tjanster %}
 			<!-- Two -->
 				<section id="two" class="spotlight style1 {% cycle 'right', 'left' %}">
-					<span class="image fit main"><img src="{{ sortie.image }}" alt="{{ sortie.title }}" /></span>
+					<span class="image fit main"><img src="{{ tjanst.image }}" alt="{{ tjanst.title }}" /></span>
 					<div class="content">
 						<header>
-							<h2>{{ sortie.title}}</h2>
-							<p>{{ sortie.description }}</p>
+							<h2>{{ tjanst.title}}</h2>
+							<p>{{ tjanst.description }}</p>
 						</header>
-						<p>{{ sortie.content | truncate: 120 }}</p>
+						<p>{{ tjanst.content | truncate: 120 }}</p>
 						<ul class="actions">
-							<li><a href="{{ sortie.url }}" class="button">Éoute Kaucaze!</a></li>
+							<li><a href="{{ tjanst.url }}" class="button">Éoute Kaucaze!</a></li>
 						</ul>
 					</div>
 

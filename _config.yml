@@ -51,11 +51,11 @@ pagination:
 # Site Variables:
 
 # collection
-# collections:
-#   sorties:
-#     output: true
-#     permalink: /:path/
-#     layout: release
+collections:
+  tjanster:
+    output: true
+    permalink: /:name/
+    layout: release
 
 # defaults
 timezone: Europe/Stockholm

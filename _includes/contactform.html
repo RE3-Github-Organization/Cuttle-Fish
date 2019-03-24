@@ -2,19 +2,25 @@
 				<section id="five" class="wrapper style2 special fade">
 					<div class="container">
 						<header>
-							<h2 class="editable">Done ton email Kaukaze</h2>
+							<h2 class="editable">Kontakta oss!</h2>
 							<p class="editable">
-								Promis y sera bien traité
+								Fårga oss om våra priser och erbjudanden!
 							</p>
 						</header>
             <form method="post" action="{{ site.baseurl }}/contact-success/" class="cta">
               <input type="hidden" name="_to" value="pauvrecoude+basspistol@gmail.com" />
               <input type="text" name="_gotcha" style="display: none;" />
 							<div class="row gtr-uniform gtr-50">
-								<div class="col-8 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Ton courriel tentends?" required /></div>
-								<div class="col-4 col-12-xsmall"><input type="submit" value="Envois Umain" class="fit primary" /></div>
+                <div class="col-12 col-12-small"><input type="email" name="email" id="email" placeholder="Din E-post" required  class="fit primary" /></div>
+                <div class="col-12 col-12-small"><input type="text" name="namn" id="namn" placeholder="Ditt namn" required  class="fit primary" /></div>
+                <div class="col-12 col-12-small"><textarea name="message" id="message" placeholder="Skriv ditt meddelande..." class="fit primary"></textarea></div>
+								
               </div><br />
-              <div class="col-4 col-12-xsmal"><input type="checkbox" name="consent" value="consent" id="consent" required /><label for="consent" class="editable"> Check si tu consent et que t'en veux encore!</label></div>
+              <div class="col-8 col-12-xsmall"><input type="checkbox" name="nyhetsbrev" value="nyhetsbrev" id="nyhetsbrev" /><label for="nyhetsbrev" class="editable"> Jag vill gärna ha erat nyhetsbrev</label>
+              <div class="col-8 col-12-xsmall"><input type="checkbox" name="consent" value="consent" id="consent" required /><label for="consent" class="editable"> Jag samtycker att Cuttlefish AB hanterar min personliga information i syftet att sköta ärendet jag frågar om.</label>  
+              <div class="col-8 col-12-xsmall"><input type="submit" value="Skicka" class="fit primary" /></div>
+              <div><p>Läs våran <a href="/sekretess.html" style="color:#fff;">sekretess policy</a></p></div>
+              </div>
 						</form>
 					</div>
 				</section>

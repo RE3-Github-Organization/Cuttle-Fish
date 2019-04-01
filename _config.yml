@@ -59,7 +59,7 @@ collections:
   tjanster:
     output: "true"
     permalink: "/tjaenster/:name/"
-  vi:
+  cuttlefishes:
     output: "false"
     _hide_content: "true"
     _singular_name: "vi"

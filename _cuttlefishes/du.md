@@ -1,5 +1,5 @@
 ---
-namn: Du?
+namn: Jobba med oss?
 bio_markdown: >-
   Vi vill g&auml;rna v&auml;xa v&aring;rt n&auml;tverk med fler som &auml;r
   intresserade och kunniga inom resor - speciellt du som fyller igen n&aring;gon

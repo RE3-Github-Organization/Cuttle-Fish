@@ -63,6 +63,7 @@ collections:
     output: "false"
     _hide_content: "true"
     _singular_name: "vi"
+    _plural_name: "vi"
 
 # defaults
 timezone: Europe/Stockholm

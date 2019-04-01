@@ -75,12 +75,37 @@ defaults:
       path: ""
       type: "tjanster"
     values:
-        layout: "tjaenster"
+      layout: "tjaenster"
+      image:
+        uploads_dir: "images/tjaenster"
+        width: "1024"
+        height: "340"
+        resize_style: "cover"
+        mime_type: "image/jpeg"
+      content:
+        uploads_dir: "images/tjaenster"
+        width: "1024"
+        height: "340"
+        resize_style: "cover"
+        mime_type: "image/jpeg"
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "tjaenster"
       permalink: /:year/:month/:day/:title/
+      image:
+        uploads_dir: "images/tjaenster"
+        width: "1024"
+        height: "340"
+        resize_style: "cover"
+        mime_type: "image/jpeg"
+      content:
+        uploads_dir: "images/tjaenster"
+        width: "1024"
+        height: "340"
+        resize_style: "cover"
+        mime_type: "image/jpeg"
+
 sass:
     sass_dir: /assets/sass/

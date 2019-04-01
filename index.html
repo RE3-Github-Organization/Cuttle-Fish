@@ -79,6 +79,8 @@ layout: default
 									<span class="icon alt major" style="background-image:url({{ medlem.image }})"></span>
                   <h3>{{ medlem.namn }}</h3>
                   <p>{{ medlem.bio_markdown }}</p>
+                  <!-- Editor Link -->
+              <a href="cloudcannon:collections/{{ medlem.path }}" class="editor-link cms-editor-link">Redigera Profil</a>
 								</section>
 {% endfor %}
 							</div>

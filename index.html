@@ -75,7 +75,7 @@ layout: default
 {% assign members = site.cuttlefishes | sort: "namn" %}
 {% for medlem in members %}
 								<section class="col-4 col-6-medium col-12-xsmall">
-									<span class="icon alt major" style="background-image:url({{ medlem.image }})"></span>
+									<span class="icon alt major" style="background-image:url({{ medlem.image }});background-repeat: no-repeat;"></span>
                   <h3>{{ medlem.namn }}</h3>
                   <p>{{ medlem.bio_markdown }}</p>
                   <!-- Editor Link -->

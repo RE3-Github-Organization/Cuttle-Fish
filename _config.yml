@@ -58,7 +58,7 @@ pagination:
 collections:
   tjanster:
     output: "true"
-    permalink: "/tjaenster/:name/""
+    permalink: "/tjaenster/:name/"
   vi:
     output: "false"
     _hide_content: "true"

@@ -1,10 +1,11 @@
 ---
-namn: du?
+namn: Du?
 bio_markdown: >-
-  Vi vill gärna växa vårt nätverk med fler som är intresserade och kunniga inom resor - speciellt du som fyller igen någon av våra luckor. 
-  <br /><br />
-  Skicka ett mail till oss och berätta mer om vem du är!
-kontakt: 
-linkedin: 
+  Vi vill g&auml;rna v&auml;xa v&aring;rt n&auml;tverk med fler som &auml;r
+  intresserade och kunniga inom resor - speciellt du som fyller igen n&aring;gon
+  av v&aring;ra luckor.<br><br>Skicka ett mail till oss och ber&auml;tta mer om
+  vem du &auml;r!
+kontakt:
+linkedin:
 image: /images/koala.jpg
 ---

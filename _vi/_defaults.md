@@ -1,6 +1,6 @@
 ---
 namn: 
-bio: 
+bio_markdown: 
 kontakt: 
 linkedin: 
 image: 

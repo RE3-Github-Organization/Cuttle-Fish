@@ -34,7 +34,7 @@ social:
     - https://www.instagram.com/cuttlefish_se/
     - http://www.twitter.com/cuttlefish_se
     - https://www.facebook.com/cuttlefish.se/    
-lang: sv_SV
+lang: sv_SE
 
 # Build settings
 plugins:
@@ -96,14 +96,14 @@ defaults:
       permalink: /:year/:month/:day/:title/
       image:
         uploads_dir: "images/tjaenster"
-        width: "1024"
-        height: "340"
+        width: "1280"
+        height: "550"
         resize_style: "cover"
         mime_type: "image/jpeg"
       content:
         uploads_dir: "images/tjaenster"
-        width: "1024"
-        height: "340"
+        width: "1280"
+        height: "550"
         resize_style: "cover"
         mime_type: "image/jpeg"
 

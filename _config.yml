@@ -73,7 +73,14 @@ defaults:
       path: ""
       type: "pages"
     values:
-        layout: "default"
+      layout: "default"
+      _options:
+        image:
+          uploads_dir: "images"
+          width: "1280"
+          height: "720"
+          mime_type: "image/jpeg"
+          resize_syle: "containt"
   - scope:
       path: ""
       type: "tjanster"

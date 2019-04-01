@@ -109,6 +109,17 @@ defaults:
         height: "550"
         resize_style: "cover"
         mime_type: "image/jpeg"
+  - scope:
+      path: ""
+      type: "cuttlefishes"
+    values:
+      image:
+        uploads_dir: "images"
+        width: "120"
+        height: "120"
+        resize_style: "cover"
+        mime_type: "image/jpeg"
+
 
 sass:
     sass_dir: /assets/sass/

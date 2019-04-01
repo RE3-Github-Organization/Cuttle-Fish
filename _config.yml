@@ -120,13 +120,11 @@ defaults:
           width: "120"
           height: "120"
           resize_style: "cover"
-          mime_type: "image/jpeg"
         content:
           uploads_dir: "images"
           width: "120"
           height: "120"
           resize_style: "cover"
-          mime_type: "image/jpeg"
 
 
 sass:

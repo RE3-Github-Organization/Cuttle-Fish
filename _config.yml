@@ -80,11 +80,13 @@ defaults:
           width: "1280"
           height: "720"
           mime_type: "image/jpeg"
-          resize_syle: "containt"
+          resize_syle: "contain"
         content:
+          width: "1280"
+          height: "720"
           uploads_dir: "images"
           mime_type: "image/jpeg"
-          resize_syle: "containt"
+          resize_syle: "contain"
   - scope:
       path: ""
       type: "tjanster"

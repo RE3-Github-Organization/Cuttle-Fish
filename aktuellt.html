@@ -33,7 +33,11 @@ pagination:
                     <h3>{{ post.title }}</h3>
                     <p>{{ post.date | date: "%a, %b %d, %Y" }}</p>
                     <p>{{ post.description }}</p>
-                    <p><a href="{{ post.url }}" class="button">Läs mer</a></p>
+                    <ul class="actions">
+                      <li>
+                      <a href="{{ post.url }}" class="button">Läs mer</a>
+                      </li>
+                    </ul>
                   </div>
                   {% endfor %}
                       <!-- Pagination links -->
@@ -41,10 +45,11 @@ pagination:
                   <div class="col-4 col-6-xsmall">
                       <h3>Sida {{ paginator.page }} av {{ paginator.total_pages }}</h3>
                       {% if paginator.previous_page %}
+                      
                         <a href="{{ base }}{{ paginator.previous_page_path }}"><h3>&laquo; Nyare inlägg</h3></a>
                       {% else %}
                         
-                      {% endif %}
+                      {% endif %}</li>
                     
                       {% if paginator.next_page %}
                         <a href="{{ base }}{{ paginator.next_page_path }}"><h3>Äldre inlägg &raquo;</h3></a>

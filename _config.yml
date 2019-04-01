@@ -97,34 +97,36 @@ defaults:
     values:
       layout: "tjaenster"
       permalink: /:year/:month/:day/:title/
-      image:
-        uploads_dir: "images/tjaenster"
-        width: "1280"
-        height: "550"
-        resize_style: "cover"
-        mime_type: "image/jpeg"
-      content:
-        uploads_dir: "images/tjaenster"
-        width: "1280"
-        height: "550"
-        resize_style: "cover"
-        mime_type: "image/jpeg"
+      _options:
+        image:
+          uploads_dir: "images/tjaenster"
+          width: "1280"
+          height: "550"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        content:
+          uploads_dir: "images/tjaenster"
+          width: "1280"
+          height: "550"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
   - scope:
       path: ""
       type: "cuttlefishes"
     values:
-      image:
-        uploads_dir: "images"
-        width: "120"
-        height: "120"
-        resize_style: "cover"
-        mime_type: "image/jpeg"
-      content:
-        uploads_dir: "images"
-        width: "120"
-        height: "120"
-        resize_style: "cover"
-        mime_type: "image/jpeg"
+      _options:
+        image:
+          uploads_dir: "images"
+          width: "120"
+          height: "120"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
+        content:
+          uploads_dir: "images"
+          width: "120"
+          height: "120"
+          resize_style: "cover"
+          mime_type: "image/jpeg"
 
 
 sass:

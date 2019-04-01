@@ -7,5 +7,5 @@ bio_markdown: >-
   vem du &auml;r!
 kontakt:
 linkedin:
-image: /uploads/4thnth.png
+image: /uploads/4th-nth.png
 ---

@@ -57,11 +57,12 @@ pagination:
 # collection
 collections:
   tjanster:
-    output: true
-    permalink: /tjaenster/:name/
+    output: "true"
+    permalink: "/tjaenster/:name/""
   vi:
-    output: false
-    _hide_content: true
+    output: "false"
+    _hide_content: "true"
+    _singular_name: "vi"
 
 # defaults
 timezone: Europe/Stockholm

@@ -33,7 +33,8 @@
 // Palette.
 	$palette: (
 		bg:					rgb(230, 255, 230),
-		bg-transparent:		rgba(93, 184, 96, 0.95),
+    bg-transparent:		rgba(93, 184, 96, 0.98),
+    bg-transparent-gradient: rgba(230, 255, 230, 0.61),
 		fg-bold:			rgb(59, 25, 87),
 		fg:					rgba(59, 25, 87, 0.75),
 		fg-light:			rgba(59, 25, 87,0.5),

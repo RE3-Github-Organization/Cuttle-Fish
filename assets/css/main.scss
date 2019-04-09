@@ -1616,13 +1616,13 @@
 		.icons {
 			.icon {
 				&.alt {
-					@include line-icon(_palette(accent2), _palette(fg-light));
+					@include line-icon(_palette(accent2), _palette(bg));
 				}
 			}
 		}
 
 		.copyright {
-			color: _palette(fg-light);
+			color: _palette(bg);
 			font-size: 0.8em;
 			line-height: 1em;
 			margin: 2em 0 0 0;
@@ -1630,7 +1630,7 @@
 			text-align: center;
 
 			li {
-				border-left: solid 1px _palette(border);
+				border-left: solid 1px _palette(bg);
 				display: inline-block;
 				list-style: none;
 				margin-left: 1.5em;

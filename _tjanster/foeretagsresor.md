@@ -1,8 +1,11 @@
 ---
-title: 'Företagsresor'
-description: 'Vi hjälper till att göra er konferens med lilla teamet eller hela företaget till en oförglömlig upplevelse'
-image: /images/christian-fregnan-339342-unsplash.jpg
+title: Företagsresor
+description: >-
+  Vi hjälper till att göra er konferens med lilla teamet eller hela företaget
+  till en oförglömlig upplevelse
+image: /uploads/shutterstock-551937673.jpg
 ---
+
 Det är lätt att tro att det räcker med ett trevligt resmål och en väl sammansatt agenda för att få till en lyckad konferens. I den bästa av världar är det säkert så men vi vet av erfarenhet att det tyvärr finns  en hel del som kan få fel på vägen, både kring logistiken och kring det praktiska kring själva konferensdelen.
 
 En viktig fråga som vi tycker man bör ställa sig är vad vill man att resultatet av resan skall mynna ut i? Både från företagets sida och utifrån de anställdas perspektiv.

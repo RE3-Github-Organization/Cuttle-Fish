@@ -101,15 +101,15 @@ defaults:
       _options:
         image:
           uploads_dir: "images/tjaenster"
-          width: "1024"
-          height: "340"
-          resize_style: "cover"
+          width: "1280"
+          height: "720"
+          resize_style: "contain"
           mime_type: "image/jpeg"
         content:
           uploads_dir: "images/tjaenster"
-          width: "1024"
-          height: "340"
-          resize_style: "cover"
+          width: "1280"
+          height: "720"
+          resize_style: "contain"
           mime_type: "image/jpeg"
   - scope:
       path: ""
@@ -121,14 +121,14 @@ defaults:
         image:
           uploads_dir: "images/tjaenster"
           width: "1280"
-          height: "550"
-          resize_style: "cover"
+          height: "720"
+          resize_style: "contain"
           mime_type: "image/jpeg"
         content:
           uploads_dir: "images/tjaenster"
           width: "1280"
-          height: "550"
-          resize_style: "cover"
+          height: "720"
+          resize_style: "contain"
           mime_type: "image/jpeg"
   - scope:
       path: ""

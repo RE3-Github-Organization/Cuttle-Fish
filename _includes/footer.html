@@ -1,0 +1,12 @@
+  <!-- Footer -->
+  <footer id="footer">
+      <ul class="icons">
+        {% for social in site.data.social-satelites %}
+        <li><a href="{{ social.url }}" class="icon alt fa-{{ social.icon }}"><span class="label">{{ social.name }}</span></a></li>
+        {% endfor %}
+      </ul>
+      <ul class="copyright">
+        <li>&copy; Cuttlefish.{{ site.time | date: "%Y" }}</li><li><a href="https://github.com/Sakrecoer/Cuttle-Fish/blob/master/README.md">Software and photo credits</a></li>
+      </ul>
+    </footer>
+    

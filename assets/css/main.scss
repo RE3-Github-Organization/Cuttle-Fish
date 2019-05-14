@@ -1609,14 +1609,14 @@
 /* Footer */
 
 	#footer {
-		background: _palette(accent2);
+		background: _palette(accent4);
 		padding: $size-wrapper-pad-tb 0;
 		text-align: center;
 
 		.icons {
 			.icon {
 				&.alt {
-					@include line-icon(_palette(accent2), _palette(bg));
+					@include line-icon(_palette(bg), _palette(accent4));
 				}
 			}
 		}

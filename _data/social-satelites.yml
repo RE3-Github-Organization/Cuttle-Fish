@@ -1,0 +1,12 @@
+- name: Facebook
+  url: https://www.facebook.com/cuttlefish.se/
+  icon: facebook
+- name: Instagram
+  url: https://www.instagram.com/cuttlefish_se/
+  icon: instagram
+- name: Linked In
+  url: https://www.linkedin.com/company/cuttlefish-se/
+  icon: linkedin
+- name: Mail
+  url: mailto:info@cuttlefish.se
+  icon: envelope

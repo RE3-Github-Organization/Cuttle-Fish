@@ -3,34 +3,39 @@
 <!DOCTYPE HTML>
 
 <html>
-	<head>
-    <!--
-  Website Jekyllified by Sakrecoer
-  
-  Built uppon:           
-	Landed by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+<head>
+<!--
+Website Jekyllified by Sakrecoer
+
+Built uppon:           
+Landed by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="/assets/css/main.css" />
-    <noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
-    <link rel="stylesheet" href="/assets/css/font-awesome.min.css" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" href="/touch-icon.png" sizes="192x192" />
-    <link rel="shortcut icon" href="/siteicon.png" type="image/png" />
-    <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5893949.js"></script>
-    {% seo %}
-    {% feed_meta %}
-    {% include seo.html %}
-	</head>
-	<body class="is-preload {% if page.url == '/' %}landing{% else %}{% endif %}">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="/assets/css/main.css" />
+<link rel="stylesheet" href="/assets/css/fonts.css" />
+<noscript>
+  <link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+<link rel="stylesheet" href="/assets/css/font-awesome.min.css" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png" href="/touch-icon.png" sizes="192x192" />
+<link rel="shortcut icon" href="/siteicon.png" type="image/png" />
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5893949.js"></script>
+{% seo %}
+{% feed_meta %}
+{% include seo.html %}
+</head>
+
+<body class="is-preload {% if page.url == '/' %}landing{% else %}{% endif %}">
   <div id="page-wrapper">
-{% include navigation.html %}
-{{ content }}
-{% include footer.html %}
-{% include scripts.html %}
+    {% include navigation.html %}
+    {{ content }}
+    {% include footer.html %}
+    {% include scripts.html %}
   </div>
-  </body>
+</body>
+
 </html>

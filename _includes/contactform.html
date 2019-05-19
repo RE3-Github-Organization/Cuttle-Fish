@@ -8,6 +8,7 @@
 							</p>
 						</header>
             <div class="cta">
+                {% if jekyll.environment == 'production' %}
               <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
               <script>
                 hbspt.forms.create({
@@ -15,6 +16,7 @@
                 formId: "6e8ce600-ff49-4861-ab6d-e1aa85192775"
               });
               </script>  
+              {% endif %}
             </div>
 					</div>
 				</section>

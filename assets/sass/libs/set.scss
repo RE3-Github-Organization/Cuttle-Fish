@@ -7,3 +7,31 @@
 .cms-editor-active .editor-link {
   display: block;
 }
+
+
+#instagram {
+  display: flex;
+  max-width: 100%;
+  list-style: none;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 5em auto 5em;
+  padding: 0;
+}
+#instagram li, #instagram a {
+  height: 220px;
+  margin: 1px;
+  border: none;
+}
+#instagram img {
+  height: inherit;
+}
+@media only screen and (max-width: 800px) {
+  #instagram li {
+    height: auto;
+  }
+  #instagram img {
+    width: inherit;
+    height: 150px;
+  }
+}

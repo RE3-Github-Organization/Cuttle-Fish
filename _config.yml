@@ -18,18 +18,19 @@ email: info@cuttlefish.se
 phone: '+46843732600'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cuttlefish.se" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: 
+google_analytics_key: UA-140426466-1
+instagram_username: cuttlefish_se/
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: >- # this means to ignore newlines until "baseurl:"
   'Cuttlefish startades 2016 för att erbjuda företag, grupper och privatpersoner resor och konferenser som överträffar förväntningarna. Utöver oss som arbetar aktivt i Cuttlefish har vi ett nätverk av erfarna människor som varit med på arrangörssidan och vet vad som funkar och vilka fallgropar man skall undvika.'
 author:
-  name: Cuttle Fish AB
+  name: Cuttlefish AB
   email: info@cuttlefish,se
   twitter: # twitter username without the @ symbol
 social:
-  name: Cuttle Fish
+  name: Cuttlefish
   links:
     - https://www.instagram.com/cuttlefish_se/
     - http://www.twitter.com/cuttlefish_se

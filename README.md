@@ -1,4 +1,4 @@
-# Cuttle Fish AB
+# Cuttlefish AB
 Website for Stockholm's finest Travle Agency
 
 Jekyllified by Sakrecoer

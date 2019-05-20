@@ -1,45 +1,54 @@
 <!-- Standard SEO -->
-  <meta name="title" content="{{ page.title }} | {{ site.title }}">
-  <meta name="dc.date.modified" scheme="ISO8601" content="{{ site.time | date_to_xmlschema }}" />
-  <meta name='robots' content='index'/>
-  <meta charset="utf-8" />
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta name="referrer" content="no-referrer-when-downgrade" />
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-  <link rel="alternate" href="{{ site.url }}{{ page.url }}" hreflang="x-default" />
-  <meta name="geo.region" content="SE-AB" />
-  <meta name="geo.placename" content="Stockholm" />
-  <meta name="geo.position" content="59.324385;18.074846" />
-  <meta name="ICBM" content="59.324385, 18.074846" />
+<meta name="title" content="{{ page.title }} | {{ site.title }}">
+<meta name="dc.date.modified" scheme="ISO8601" content="{{ site.time | date_to_xmlschema }}" />
+<meta name='robots' content='index'/>
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="referrer" content="no-referrer-when-downgrade" />
+<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+<link rel="alternate" href="{{ site.url }}{{ page.url }}" hreflang="x-default" />
+<meta name="geo.region" content="SE-AB" />
+<meta name="geo.placename" content="Stockholm" />
+<meta name="geo.position" content="59.324385;18.074846" />
+<meta name="ICBM" content="59.324385, 18.074846" />
 
 
-  <!-- Dublin Core basic info -->
+<!-- Dublin Core basic info -->
 
-  <meta name="dcterms.Identifier" content="{{ site.url }}" />
-  <meta name="dcterms.Format" content="text/html" />
-  <meta name="dcterms.Relation" content="{{ site.title }}" />
-  <meta name="dcterms.Language" content="sv_SE" />
-  <meta name="dcterms.Publisher" content="{{ site.title }}" />
-  <meta name="dcterms.Type" content="text/html" />
-  <meta name="dcterms.Coverage" content="{{ site.url }}/" />
-  <meta name="dcterms.Rights" content="Copyright &copy;{{ site.time | date: "%Y" }} {{ site.title }}." />
-  <meta name="dcterms.Title" content="{{ page.title }} | {{ site.title }}" />
-  <meta name="dcterms.Subject" content="{{ site.description | strip_html }}" />
-  <meta name="dcterms.Contributor" content="{{ site.title }}" />
-  <meta name="dcterms.Date" content="{{ site.time | date: "%Y-%m-%d" }}" />
-  <meta name="dcterms.Description" content="{{ site.description | strip_html }}" />
+<meta name="dcterms.Identifier" content="{{ site.url }}" />
+<meta name="dcterms.Format" content="text/html" />
+<meta name="dcterms.Relation" content="{{ site.title }}" />
+<meta name="dcterms.Language" content="sv_SE" />
+<meta name="dcterms.Publisher" content="{{ site.title }}" />
+<meta name="dcterms.Type" content="text/html" />
+<meta name="dcterms.Coverage" content="{{ site.url }}/" />
+<meta name="dcterms.Rights" content="Copyright &copy;{{ site.time | date: "%Y" }} {{ site.title }}." />
+<meta name="dcterms.Title" content="{{ page.title }} | {{ site.title }}" />
+<meta name="dcterms.Subject" content="{{ site.description | strip_html }}" />
+<meta name="dcterms.Contributor" content="{{ site.title }}" />
+<meta name="dcterms.Date" content="{{ site.time | date: "%Y-%m-%d" }}" />
+<meta name="dcterms.Description" content="{{ site.description | strip_html }}" />
 
-  <!-- Twitter Card -->
+<!-- Twitter Card -->
 
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@bpist" />
-  <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}" />
-  <meta name="twitter:description" content="{{ site.description | strip_html }}" />
-  {% if page.url != '/' %} <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
-  {% else %}<meta name="twitter:image" content="{{ site.url }}{{ site.logo }}" />
-  {% endif %}
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@bpist" />
+<meta name="twitter:title" content="{{ page.title }} | {{ site.title }}" />
+<meta name="twitter:description" content="{{ site.description | strip_html }}" />
+{% if page.url != '/' %} <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
+{% else %}<meta name="twitter:image" content="{{ site.url }}{{ site.logo }}" />
+{% endif %}
+{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+<!-- Google Analytics -->
+<script>
+  window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+  ga('create', '{{ site.google_analytics_key }}', 'auto');
+  ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+{% endif %}
+<!-- End Google Analytics -->
 
+<!-- Humans.txt authorship http://humanstxt.org -->
 
-  <!-- Humans.txt authorship http://humanstxt.org -->
-
-  <!-- <link type="text/plain" rel="author" href="https://cuttlefish.se/humans.txt" /> -->
+<!-- <link type="text/plain" rel="author" href="https://cuttlefish.se/humans.txt" /> -->

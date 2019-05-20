@@ -1,5 +1,18 @@
   <!-- Footer -->
   <footer id="footer">
+      <h2>Instagram inlägg</h2>
+      <ul id="instagram">
+          {% for post in site.data.instagram limit: 5 %}
+            <li>
+              <a href="https://www.instagram.com/p/{{ post.detail.shortcode }}" target="_blank" rel="noopener noreferrer nofollow">
+              <img
+                src="{{ site.baseurl }}/images/insta/{{ post.detail.display_url }}"
+                data-gallery-source="{{ site.baseurl }}/assets/instagram/{{ post.detail.display_url }}"
+                alt="{{ post.detail.edge_media_to_caption.edges[0].node.text | strip_html }}" />
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
       <ul class="icons">
         {% for social in site.data.social-satelites %}
         <li><a href="{{ social.url }}" class="icon alt fa-{{ social.icon }}"><span class="label">{{ social.name }}</span></a></li>

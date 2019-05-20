@@ -23,7 +23,7 @@
 
 // Font.
 	$font: (
-		family:				(Helvetica, sans-serif),
+		family:				('Barlow', 'Helvetica', sans-serif),
     family-fixed:		('Courier New', monospace),
     family-title: ('Cormorant Upright', serif),
 		weight:				100,
@@ -33,19 +33,19 @@
 // Palette.
 	$palette: (
 		bg:					rgb(230, 255, 230),
-    bg-transparent:		rgba(57, 192, 136, 0.98),
+    bg-transparent:		 rgba(93, 184, 96, 0.98),
     bg-transparent-gradient: rgba(230, 255, 230, 0.61),
-		fg-bold:			rgb(59, 25, 87),
+		fg-bold:		rgb(59, 25, 87),
 		fg:					rgba(59, 25, 87, 0.75),
-		fg-light:			rgba(59, 25, 87,0.5),
-		fg-lighter:			rgba(59, 25, 87,0.15),
-		border:				rgba(59, 25, 87,0.3),
-		border-bg:			rgba(59, 25, 87,0.1),
-		border2:			rgba(59, 25, 87,0.6),
-		border2-bg:			rgba(59, 25, 87,0.35),
-		accent1:			rgb(242, 226, 255),
-		accent2:			rgb(127, 67, 177),
+		fg-light:		rgba(59, 25, 87,0.5),
+		fg-lighter:	rgba(59, 25, 87,0.15),
+		border:			rgba(59, 25, 87,0.3),
+		border-bg:	rgba(59, 25, 87,0.1),
+		border2:		rgba(59, 25, 87,0.6),
+		border2-bg:	rgba(59, 25, 87,0.35),
+		accent1:		rgb(242, 226, 255),
+		accent2:		rgb(127, 67, 177),
 		accent2-transparent:rgba(127, 67, 177, 0.95),
-		accent3:			#5480f1,
-		accent4:			#39c088
+		accent3:		#5480f1,
+		accent4:		rgb(93, 184, 96)
 	);

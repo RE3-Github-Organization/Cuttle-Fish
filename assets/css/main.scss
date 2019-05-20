@@ -7,7 +7,6 @@
 @import 'libs/vendor';
 @import 'libs/breakpoints';
 @import 'libs/html-grid';
-@import url("https://fonts.googleapis.com/css?family=Barlow:300,700|Cormorant+Infant:300,300i,700|Cormorant+Upright:700");
 @import 'libs/set';
 
 /*
@@ -506,7 +505,7 @@
 		margin: 0 0 _size(element-margin) 0;
 
 		&.cta {
-			max-width: 35em;
+			max-width: 500px;
 			margin-left: auto;
 			margin-right: auto;
 		}
@@ -1399,7 +1398,7 @@
 
 			a, span {
 				border: 0;
-				color: _palette(fg);
+				color: _palette(bg);
 				display: block;
 				padding: 0.1em 1em;
 				text-decoration: none;

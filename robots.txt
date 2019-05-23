@@ -1,0 +1,12 @@
+---
+layout: null
+sitemap: false
+---
+{% if jekyll.environment == 'production' %}
+User-agent: *
+Sitemap: {{ site.url }}/sitemap.xml
+{% else %}
+User-agent: *
+Disallow: /
+noindex: /
+{% endif %}

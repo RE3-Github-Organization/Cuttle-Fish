@@ -22,6 +22,8 @@ _data/.~lock.*.csv#
 *.mp3
 _scripts/insta
 _scripts/insta/*
+_scripts/media
+_scripts/media/*
 _scripts/node_modules
 _scripts/package.json
 _scripts/package-lock.json

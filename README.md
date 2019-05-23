@@ -1,5 +1,5 @@
 # Cuttlefish AB
-Website for Stockholm's finest Travle Agency
+Website for Stockholm's finest Travel Agency
 
 Jekyllified by Sakrecoer
 

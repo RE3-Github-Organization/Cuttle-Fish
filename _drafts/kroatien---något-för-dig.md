@@ -1,6 +1,6 @@
 ---
 title: Kroatien - något för dig?
-date: 2019-05-21 00:00:00 +0200
+date: 2019-05-20 00:00:00 +0200
 description: >-
   Massor av svenskar har upptäckt Kroatien under de senaste åren, men för många
   är landet ännu en vit fläck på Europakartan. Var början man om man är nyfiken

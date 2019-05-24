@@ -2,79 +2,51 @@
 title: Aktuellt
 description: Nyheter och erbjudanden från Cuttlefish. Resebyrån med piff.
 permalink: /aktuellt/
-pagination: 
-  enabled: true
-  per_page: 10
-  title: 'Aktuellt sida :num av :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
 ---
-	<!-- Main -->
+  <!-- Main -->
   <div id="main" class="wrapper style1">
     <div class="container">
       <header class="major">
         <h2>{{ page.title }}</h2>
         <p>{{ page.description }}</p>
       </header>
-
-      
-      
-
-
-
-						<!-- Image -->
-            <section>
-              <div class="box alt">
-                <div class="row gtr-50 gtr-uniform">
-
-                  {% for post in paginator.posts limit:10 %}
-                  <div class="{% if forloop.first %}col-12{% else %}col-4 col-6-xsmall{% endif %}"><a href="{{ post.url}}"><span class="image fit"><img src="{{ post.image }}" alt="{{ post.title }}" /></span></a>
-                    <h3>{{ post.title }}</h3>
-                    <p>{{ post.date | date: "%a, %b %d, %Y" }}</p>
-                    <p>{{ post.description }}</p>
-                    <ul class="actions">
-                      <li>
-                      <a href="{{ post.url }}" class="button">Läs mer</a>
-                      </li>
-                    </ul>
-                  </div>
-                  {% endfor %}
-                      <!-- Pagination links -->
-    {% if paginator.total_pages > 1 %}
-                  <div class="col-4 col-6-xsmall">
-                      <h3>Sida {{ paginator.page }} av {{ paginator.total_pages }}</h3>
-                      {% if paginator.previous_page %}
-                      
-                        <a href="{{ base }}{{ paginator.previous_page_path }}"><h3>&laquo; Nyare inlägg</h3></a>
-                      {% else %}
-                        
-                      {% endif %}</li>
-                    
-                      {% if paginator.next_page %}
-                        <a href="{{ base }}{{ paginator.next_page_path }}"><h3>Äldre inlägg &raquo;</h3></a>
-                      {% else %}
-                        
-                      {% endif %}
-                  </div>                  
-                  {% endif %}
-
-
-
-
-
-
-
-
-
-                </div>
-              </div>
-
-            </section>
-
+      <!-- Image -->
+      <section>
+        <div class="box alt">
+          <div class="row gtr-50 gtr-uniform">
+            {% for post in paginator.posts limit:10 %}
+            <div class="{% if forloop.first %}col-12{% else %}col-4 col-6-xsmall{% endif %}"><a href="{{ post.url}}"><span
+                  class="image fit"><img src="{{ post.image }}" alt="{{ post.title }}" /></span></a>
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.date | date: "%a, %b %d, %Y" }}</p>
+              <p>{{ post.description }}</p>
+              <ul class="actions">
+                <li>
+                  <a href="{{ post.url }}" class="button">Läs mer</a>
+                </li>
+              </ul>
+            </div>
+            {% endfor %}
+            <!-- Pagination links -->
+            {% if paginator.total_pages > 1 %}
+            <div class="col-4 col-6-xsmall">
+              <h3>Sida {{ paginator.page }} av {{ paginator.total_pages }}</h3>
+              {% if paginator.previous_page %}
+              <a href="{{ base }}{{ paginator.previous_page_path }}">
+                <h3>&laquo; Nyare inlägg</h3>
+              </a>
+              {% else %}
+              {% endif %}</li>
+              {% if paginator.next_page %}
+              <a href="{{ base }}{{ paginator.next_page_path }}">
+                <h3>Äldre inlägg &raquo;</h3>
+              </a>
+              {% else %}
+              {% endif %}
+            </div>
+            {% endif %}
+          </div>
+        </div>
+      </section>
     </div>
   </div>
-
-
-
-		

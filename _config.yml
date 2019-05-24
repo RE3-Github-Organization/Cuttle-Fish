@@ -19,7 +19,7 @@ phone: '+46843732600'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.cuttlefish.se" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics_key: UA-140512277-1
-instagram_username: cuttlefish_se/
+instagram_username: cuttlefish_se
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png

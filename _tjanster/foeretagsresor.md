@@ -1,7 +1,7 @@
 ---
-title: 'Företagsresor - konferenser, möten och events'
+title: 'Företagsresor'
 description: >-
-  Vi hjälper er att skapa konferensen som når hela vägen fram till målet - att
+  Vi hjälper er att skapa konferenser, möten och events som når hela vägen fram till målet - att
   lilla teamet eller hela företaget skall få en härlig upplevelse!
 image: /uploads/shutterstock-551937673.jpg
 ---

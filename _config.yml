@@ -115,7 +115,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "tjaenster"
+      layout: "post"
       permalink: /:year/:month/:day/:title/
       _options:
         image:

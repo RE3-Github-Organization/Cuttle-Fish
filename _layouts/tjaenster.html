@@ -2,70 +2,68 @@
 layout: default
 ---
 
-			<!-- Main -->
-				<div id="main" class="wrapper style1">
-					<div class="container">
-						<header class="major">
-							<h2>{{ page.title }}</h2>
-							<p>{{ page.description }}</p>
-						</header>
-						<div class="row gtr-150">
-							<div class="col-8 col-12-medium">
+<!-- Main -->
+<div id="main" class="wrapper style1">
+  <div class="container">
+    <header class="major">
+      <h2>{{ page.title }}</h2>
+      <p>{{ page.description }}</p>
+    </header>
+    <div class="row gtr-150">
+      <div class="col-8 col-12-medium">
 
-								<!-- Content -->
-									<section id="content">
-										<a href="#" class="image fit"><img src="{{ page.image }}" alt="" /></a>
-                    {{ content }}
-                    <ul class="actions">
-                      <li>
-                        <a href="tel:{{ site.phone }}" class="button">Ring</a> 
-                      </li>
-                      <li>
-                        <a href="/#five" class="button primary">Maila</a>
-                      </li>
-                    </ul>
-									</section>
+        <!-- Content -->
+        <section id="content">
+          <a href="#" class="image fit"><img src="{{ page.image }}" alt="" /></a>
+          {{ content }}
+          <ul class="actions">
+            <li>
+              <a href="tel:{{ site.phone }}" class="button">Ring</a>
+            </li>
+            <li>
+              <a href="/#five" class="button primary">Maila</a>
+            </li>
+          </ul>
+        </section>
 
-							</div>
-							<div class="col-4 col-12-medium">
+      </div>
+      <div class="col-4 col-12-medium">
 
-								<!-- Sidebar -->
-									<section id="sidebar">
-										<section>
-											<h3 class="editable">Våra tjänster</h3>
-											<p class="editable">Vi organiserar resor för företag, privatperssoner och grupper.</p>
-											<footer>
-												<ul class="actions">
-													<li><a href="/#five" class="button">Kontakta oss</a></li>
-												</ul>
-											</footer>
-										</section>
-                    <hr />
-                    
-                    {% for tjanst in site.tjanster %}
-                    {% if tjanst.url != page.url %} 
-                    
-                    <section>
-                        <a href="{{ tjanst.url }}" class="image fit"><img src="{{ tjanst.image }}" alt="{{ tjanst.title }}" /></a>
-                        <h3>{{ tjanst.title }}</h3>
-                        <p>{{ tjanst. description }}</p>
-                        <footer>
-                          <ul class="actions">
-                            <li><a href="{{ tjanst.url }}" class="button">Läs mer</a></li>
-                          </ul>
-                        </footer>
-                      </section>
- 
-                    {% endif %}
-                  {% endfor %}
-                      
+        <!-- Sidebar -->
+        <section id="sidebar">
+          <section>
+            <h3 class="editable">Våra tjänster</h3>
+            <p class="editable">Vi organiserar resor för företag, privatperssoner och grupper.</p>
+            <footer>
+              <ul class="actions">
+                <li><a href="/#five" class="button">Kontakta oss</a></li>
+              </ul>
+            </footer>
+          </section>
+          <hr />
+
+          {% for tjanst in site.tjanster %}
+          {% if tjanst.url != page.url %}
+
+          <section>
+            <a href="{{ tjanst.url }}" class="image fit"><img src="{{ tjanst.image }}" alt="{{ tjanst.title }}" /></a>
+            <h3>{{ tjanst.title }}</h3>
+            <p>{{ tjanst. description }}</p>
+            <footer>
+              <ul class="actions">
+                <li><a href="{{ tjanst.url }}" class="button">Läs mer</a></li>
+              </ul>
+            </footer>
+          </section>
+
+          {% endif %}
+          {% endfor %}
 
 
-									</section>
 
-							</div>
-						</div>
-					</div>
-				</div>
+        </section>
 
-			
+      </div>
+    </div>
+  </div>
+</div>

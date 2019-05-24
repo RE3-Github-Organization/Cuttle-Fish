@@ -1,0 +1,18 @@
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="col-4 col-6-xsmall">
+  <h3>Sida {{ paginator.page }} av {{ paginator.total_pages }}</h3>
+  {% if paginator.previous_page %}
+  <a href="{{ base }}{{ paginator.previous_page_path }}">
+    <h3>&laquo; Nyare inlägg</h3>
+  </a>
+  {% else %}
+  {% endif %}</li>
+  {% if paginator.next_page %}
+  <a href="{{ base }}{{ paginator.next_page_path }}">
+    <h3>Äldre inlägg &raquo;</h3>
+  </a>
+  {% else %}
+  {% endif %}
+</div>
+{% endif %}

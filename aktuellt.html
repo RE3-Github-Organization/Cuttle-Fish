@@ -14,7 +14,7 @@ permalink: /aktuellt/
       <section>
         <div class="box alt">
           <div class="row gtr-50 gtr-uniform">
-            {% for post in paginator.posts limit:10 %}
+            {% for post in site.posts limit:10 %}
             <div class="{% if forloop.first %}col-12{% else %}col-4 col-6-xsmall{% endif %}"><a href="{{ post.url}}"><span
                   class="image fit"><img src="{{ post.image }}" alt="{{ post.title }}" /></span></a>
               <h3>{{ post.title }}</h3>
@@ -27,24 +27,7 @@ permalink: /aktuellt/
               </ul>
             </div>
             {% endfor %}
-            <!-- Pagination links -->
-            {% if paginator.total_pages > 1 %}
-            <div class="col-4 col-6-xsmall">
-              <h3>Sida {{ paginator.page }} av {{ paginator.total_pages }}</h3>
-              {% if paginator.previous_page %}
-              <a href="{{ base }}{{ paginator.previous_page_path }}">
-                <h3>&laquo; Nyare inlägg</h3>
-              </a>
-              {% else %}
-              {% endif %}</li>
-              {% if paginator.next_page %}
-              <a href="{{ base }}{{ paginator.next_page_path }}">
-                <h3>Äldre inlägg &raquo;</h3>
-              </a>
-              {% else %}
-              {% endif %}
-            </div>
-            {% endif %}
+
           </div>
         </div>
       </section>

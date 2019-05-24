@@ -19,8 +19,36 @@ layout: default
           <div class="author">
             {% assign author_id = page.publiceras_av | prepend: "/cuttlefishes/" | append: "/" %}
             {% assign author_name = site.cuttlefishes | where: "url", author_id | first %}
-            <div class="square-image" style="background-image: url('{% include relative-src.html src=author_name.image %}')"></div>
-            <p class="blurb">{{ author_name.bio_markdown }}</p>
+
+            <section class="col-4 col-6-medium col-12-xsmall">
+                <p>Postad den 
+                    {% assign d = page.date | date: "%-d"  %}{% case d %}{% when '1' or '21' or '31' or '2' or '22' %}{{ d }}:a {% else %}{{ d }}:e{% endcase %}
+          
+                    {% assign m = page.date | date: "%-m" %}
+          
+                    {% case m %}
+                      {% when '1' %}Januari
+                      {% when '2' %}Februar
+                      {% when '3' %}Mars
+                      {% when '4' %}April
+                      {% when '5' %}Maj
+                      {% when '6' %}Juni
+                      {% when '7' %}Juli
+                      {% when '8' %}Augusti
+                      {% when '9' %}September
+                      {% when '10' %}October
+                      {% when '11' %}November
+                      {% when '12' %}December
+                    {% endcase %}
+                    {{ page.date | date: "%Y" }} av:</p>
+              <span class="icon alt major"
+                style="background-image:url({{ author_name.image }});background-repeat: no-repeat;"></span>
+              
+              <h3>{{ author_name.namn }}</h3>
+              <p>{{ author_name.bio_markdown }}</p>
+              <!-- Editor Link -->
+              <a href="cloudcannon:collections/{{ medlem.path }}" class="editor-link cms-editor-link">Redigera Profil</a>
+            </section>
           </div>
           <ul class="actions">
             <li>

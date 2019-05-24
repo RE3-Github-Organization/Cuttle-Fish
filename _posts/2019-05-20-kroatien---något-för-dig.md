@@ -22,5 +22,3 @@ Adriatiska havet har ett vatten som &auml;r s&aring; d&auml;r h&auml;rligt bl&ar
 N&auml;r kv&auml;llen n&auml;rmar sig, solen f&ouml;rsvinner ned f&ouml;r horisonten och hungern g&ouml;r sig p&aring;mind g&ouml;r man som man g&ouml;r oavsett var man befinner sig – &auml;ter. Och &auml;ter gott g&ouml;r man i Split. N&auml;rheten till havet g&ouml;r att det &auml;r l&auml;tt att hitta h&auml;rliga fisk- och skaldjursr&auml;tter p&aring; menyn, ofta till en human kostnad. V&auml;ljer man dessutom ett inhemskt vin som odlas p&aring; n&aring;gon av alla ving&aring;rdar som finns i n&auml;rheten f&aring;r man mycket valuta f&ouml;r pengarna. M&aring;nga restauranger erbjuder vinprovningar av olika slag i samband med m&aring;ltiden s&aring; h&auml;r kan du f&aring; hj&auml;lp att hitta fram till ett nytt favoritvin.
 
 Kort sagt, v&auml;ljer du att resa till Split kommer du inte bli besviken\!
-
-***Ulrika Wallerberg***

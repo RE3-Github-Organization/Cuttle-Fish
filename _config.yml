@@ -126,8 +126,8 @@ defaults:
           mime_type: "image/jpeg"
         content:
           uploads_dir: "images/tjaenster"
-          width: "1280"
-          height: "720"
+          width: "540"
+          height: "430"
           resize_style: "contain"
           mime_type: "image/jpeg"
   - scope:

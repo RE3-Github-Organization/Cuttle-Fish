@@ -60,10 +60,8 @@ collections:
     output: "true"
     permalink: "/tjaenster/:name/"
   cuttlefishes:
-    output: "false"
     _hide_content: "true"
-    _singular_name: "vi"
-    _plural_name: "vi"
+
 
 # defaults
 timezone: Europe/Stockholm
@@ -148,4 +146,4 @@ defaults:
 
 
 sass:
-    sass_dir: /assets/sass/
+  sass_dir: /assets/sass/

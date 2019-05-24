@@ -16,6 +16,12 @@ layout: default
         <section id="content">
           <a href="#" class="image fit"><img src="{{ page.image }}" alt="" /></a>
           {{ content }}
+          <div class="author">
+            {% assign author_id = page.publiceras_av | prepend: "/cuttlefishes/" | append: "/" %}
+            {% assign author_name = site.cuttlefishes | where: "url", author_id | first %}
+            <div class="square-image" style="background-image: url('{% include relative-src.html src=author_name.image %}')"></div>
+            <p class="blurb">{{ author_name.bio_markdown }}</p>
+          </div>
           <ul class="actions">
             <li>
               <a href="tel:{{ site.phone }}" class="button">Ring</a>

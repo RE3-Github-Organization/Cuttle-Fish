@@ -35,8 +35,9 @@
 <meta name="twitter:site" content="@bpist" />
 <meta name="twitter:title" content="{{ page.title }} | {{ site.title }}" />
 <meta name="twitter:description" content="{{ site.description | strip_html }}" />
-{% if page.url != '/' %} <meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
-{% else %}<meta name="twitter:image" content="{{ site.url }}{{ site.logo }}" />
+{% if page.url == '/' %} <meta name="twitter:image" content="{{ site.url }}{{ site.logo }}" />
+{% elsif page.url == '/aktuellt/' %}{% for post in site.posts limit: 1 %}<meta name="twitter:image" content="{{ site.url }}{{ post.image }}" />{% endfor %}
+{% else %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}" />
 {% endif %}
 {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 <!-- Google Analytics -->

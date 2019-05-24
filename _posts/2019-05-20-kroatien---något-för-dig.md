@@ -22,4 +22,4 @@ N&auml;r kv&auml;llen n&auml;rmar sig, solen f&ouml;rsvinner ned f&ouml;r horiso
 
 Kort sagt, v&auml;ljer du att resa till Split kommer du inte bli besviken\!
 
-> Ulrika Wallerberg
+***Ulrika Wallerberg***

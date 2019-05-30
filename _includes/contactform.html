@@ -1,11 +1,14 @@
 			<!-- Five -->
 				<section id="five" class="wrapper style2 special fade">
-					<div class="container">
-						<header>
-							<h2 class="editable">Kontakta oss!</h2>
-							<p class="editable">
-								Fråga oss om våra priser och erbjudanden!
-							</p>
+
+					<div class="content container">
+						<header class="editable">
+              <h2>Kontakta oss!</h2>
+
+              <a href="tel:{{ site.phone }}" class="button">Telefon</a>
+  
+              <a href="/#five" class="button primary">Mail</a>
+              <p>Fråga oss om våra priser och erbjudanden!</p>
 						</header>
             <div class="cta">
                 {% if jekyll.environment == 'production' %}
@@ -18,6 +21,21 @@
               </script>  
               {% endif %}
             </div>
-					</div>
+
+          <span class="editable">
+          <h2>Hitta hit</h2>
+          <p class="editable">
+              Cuttlefish AB<br />
+              Drakens Gränd 1<br />
+              111 30 Stockholm<br />
+
+
+
+
+
+          </p>
+        </span>
+        </div>
+        <a href="https://osm.org/go/0bCz3Tuk--?m="><span class="image fit main"><img src="/images/karta.jpg" alt="Karta till Cuttlefish AB" /></span></a>
 				</section>
         

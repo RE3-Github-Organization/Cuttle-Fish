@@ -17,7 +17,7 @@ layout: default
           <a href="#" class="image fit"><img src="{{ page.image }}" alt="" /></a>
           {{ content }}
           <div class="author">
-            {% assign author_id = page.forfattare_cuttlefish | prepend: "/cuttlefishes/" | append: "/" %}
+            {% assign author_id = page.author_cuttlefishes | prepend: "/cuttlefishes/" | append: "/" %}
             {% assign author_name = site.cuttlefishes | where: "url", author_id | first %}
 
             <section class="col-4 col-6-medium col-12-xsmall">

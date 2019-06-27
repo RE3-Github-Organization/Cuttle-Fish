@@ -3,5 +3,5 @@ title:
 date: 
 description:
 image:
-author_cuttlefishes: 
+author_cuttlefish: 
 ---

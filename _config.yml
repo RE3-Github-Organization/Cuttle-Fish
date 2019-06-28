@@ -59,7 +59,7 @@ collections:
   tjanster:
     output: "true"
     permalink: "/tjaenster/:name/"
-  cuttlefishes:
+  cuttlefish_members:
     _hide_content: "true"
 
 

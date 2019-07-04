@@ -75,19 +75,19 @@ defaults:
       _options:
         image:
           uploads_dir: "images"
-          width: "1280"
-          height: "720"
+          width: 960
+          height: 430
           mime_type: "image/jpeg"
           resize_style: "contain"
         hero_image:
           uplaods_dir: "images"
-          width: 1280
-          height: 720
+          width: 960
+          height: 430
           mime_type: "image/jpeg"
           resize_style: "cover"
         content:
-          width: "1280"
-          height: "720"
+          width: 960
+          height: 430
           uploads_dir: "images"
           mime_type: "image/jpeg"
           resize_style: "contain"
@@ -99,14 +99,14 @@ defaults:
       _options:
         image:
           uploads_dir: "images/tjaenster"
-          width: "1280"
-          height: "720"
+          width: 960
+          height: 430
           resize_style: "contain"
           mime_type: "image/jpeg"
         content:
           uploads_dir: "images/tjaenster"
-          width: "1280"
-          height: "720"
+          width: 960
+          height: 430
           resize_style: "contain"
           mime_type: "image/jpeg"
   - scope:
@@ -118,14 +118,14 @@ defaults:
       _options:
         image:
           uploads_dir: "images/posts"
-          width: "1280"
-          height: "720"
+          width: 960
+          height: 430
           resize_style: "contain"
           mime_type: "image/jpeg"
         content:
           uploads_dir: "images/posts"
-          width: "540"
-          height: "430"
+          width: 540
+          height: 430
           resize_style: "contain"
           mime_type: "image/jpeg"
   - scope:
@@ -135,13 +135,13 @@ defaults:
       _options:
         image:
           uploads_dir: "images"
-          width: "120"
-          height: "120"
+          width: 120
+          height: 120
           resize_style: "cover"
         content:
           uploads_dir: "images"
-          width: "120"
-          height: "120"
+          width: 120
+          height: 120
           resize_style: "cover"
 
 

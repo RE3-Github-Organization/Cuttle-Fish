@@ -2,6 +2,7 @@
 namn: 
 bio_markdown: 
 kontakt: 
-linkedin: 
+link: 
 image: 
+anstalld: false
 ---

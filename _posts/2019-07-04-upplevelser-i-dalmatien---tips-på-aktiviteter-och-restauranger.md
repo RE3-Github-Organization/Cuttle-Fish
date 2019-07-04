@@ -1,6 +1,6 @@
 ---
 title: Upplevelser i Dalmatien - tips på aktiviteter och restauranger
-date:
+date: 2019-07-04 15:09:57 +0200
 description: >-
   Vi har tidigare skrivit om Split och att det här finns något för alla att
   göra, men vi har också beskrivit staden som trång och med mycket folk i

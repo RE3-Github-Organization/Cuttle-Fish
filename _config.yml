@@ -76,18 +76,18 @@ defaults:
         image:
           uploads_dir: "images"
           width: "960"
-          height: "430"
+          height: "540"
           mime_type: "image/jpeg"
           resize_style: "contain"
         hero_image:
           uplaods_dir: "images"
           width: "960"
-          height: "430"
+          height: "540"
           mime_type: "image/jpeg"
           resize_style: "cover"
         content:
           width: "960"
-          height: "430"
+          height: "540"
           uploads_dir: "images"
           mime_type: "image/jpeg"
           resize_style: "contain"
@@ -100,13 +100,13 @@ defaults:
         image:
           uploads_dir: "images/tjaenster"
           width: "960"
-          height: "430"
+          height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
         content:
           uploads_dir: "images/tjaenster"
           width: "960"
-          height: "430"
+          height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
   - scope:
@@ -119,13 +119,13 @@ defaults:
         image:
           uploads_dir: "images/posts"
           width: "960"
-          height: "430"
+          height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
         content:
           uploads_dir: "images/posts"
           width: "540"
-          height: "430"
+          height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
   - scope:

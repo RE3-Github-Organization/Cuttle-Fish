@@ -130,7 +130,7 @@ defaults:
           mime_type: "image/jpeg"
   - scope:
       path: ""
-      type: "cuttlefishes"
+      type: "cuttlefish_members"
     values:
       _options:
         image:

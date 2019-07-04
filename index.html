@@ -48,7 +48,7 @@ layout: default
 </section>
 {% for tjanst in site.tjanster %}
 <!-- Two -->
-<section id="two" class="spotlight style1 {% cycle 'right', 'left' %}">
+<section class="spotlight style1 {% cycle 'right', 'left' %}">
   <span class="image fit main"><img src="{{ tjanst.image }}" alt="{{ tjanst.title }}" /></span>
   <div class="content">
     <header>
@@ -77,16 +77,16 @@ layout: default
     <div class="box alt">
       <div class="row gtr-uniform">
         {% assign members = site.cuttlefish_members | sort: "namn" %}
-        {% for medlem in members %}
+        {% for medlem in members %}{% if medlem.anstalld == true %}
         <section class="col-4 col-6-medium col-12-xsmall">
           <span class="icon alt major"
             style="background-image:url({{ medlem.image }});background-repeat: no-repeat;"></span>
           <h3>{{ medlem.namn }}</h3>
-          <p>{{ medlem.bio_markdown }}</p>
+          <p>{{ medlem.bio_markdown | markdownify }}</p>
           <!-- Editor Link -->
           <a href="cloudcannon:collections/{{ medlem.path }}" class="editor-link cms-editor-link">Redigera Profil</a>
         </section>
-        {% endfor %}
+        {% endif %}{% endfor %}
       </div>
     </div>
   </div>

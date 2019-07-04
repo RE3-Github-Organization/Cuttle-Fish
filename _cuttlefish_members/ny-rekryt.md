@@ -7,6 +7,7 @@ bio_markdown: >-
   [mail](mailto:info@cuttlefish.se?subject=Jobba%20med%20er) och ber&auml;tta
   mer om vem du &auml;r\!
 kontakt:
-linkedin:
+link:
 image: /images/4th.png
+anstalld: true
 ---

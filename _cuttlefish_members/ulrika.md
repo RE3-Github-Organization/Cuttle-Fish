@@ -5,6 +5,7 @@ bio_markdown: >-
   <br /><br />
   Ullis har mycket lång erfarenhet av försäkringsbranschen och har där arrangerat ett antal resor, fester och events.
 kontakt: 
-linkedin: 
+link: 
 image: /images/ulrika.png
+anstalld: true
 ---

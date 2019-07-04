@@ -3,7 +3,7 @@ title: Privatresor
 description: >-
   Vi kan Europa (och har rätt bra koll på andra delar av världen också), vi
   hjälper dig så att du själv slipper jaga bästa flyg, hotell och matställen.
-image: /uploads/shutterstock-287319908.jpg
+image: /images/tjaenster/shutterstock-287319908.jpg
 ---
 
 Att ge sig ut på sin drömresa med bästa kompisarna skall givetvis vara något odelat positivt, men att planering och bokningar med alla olika valmöjligheter oftast tar längre tid än man trodde har nog många av oss fått erfara.

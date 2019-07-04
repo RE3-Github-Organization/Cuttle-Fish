@@ -5,7 +5,7 @@ description: >-
   Massor av svenskar har upptäckt Kroatien under de senaste åren, men för många
   är landet ännu en vit fläck på Europakartan. Var början man om man är nyfiken
   på Kroatien?
-image: /images/tjaenster/40294904-xl.jpg
+image: /images/posts/40294904-xl.jpg
 cuttlefish_member: ulrika
 ---
 

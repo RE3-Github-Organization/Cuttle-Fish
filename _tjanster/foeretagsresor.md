@@ -3,7 +3,7 @@ title: 'Företagsresor'
 description: >-
   Vi hjälper er att skapa konferenser, möten och events som når hela vägen fram till målet - att
   lilla teamet eller hela företaget skall få en härlig upplevelse!
-image: /uploads/shutterstock-551937673.jpg
+image: /images/tjaenster/shutterstock-551937673.jpg
 ---
 
 Det &auml;r l&auml;tt att tro att det r&auml;cker med ett trevligt resm&aring;l och en v&auml;l sammansatt agenda f&ouml;r att f&aring; till en lyckad konferens. I den b&auml;sta av v&auml;rldar &auml;r det s&auml;kert s&aring; men vi vet av erfarenhet att det tyv&auml;rr finns en hel del som kan f&aring; fel p&aring; v&auml;gen, b&aring;de kring logistiken och kring det praktiska kring sj&auml;lva konferensdelen.

@@ -1,9 +1,7 @@
 # Cuttlefish AB
 Website for Stockholm's finest Travel Agency
 
-Jekyllified by Sakrecoer
-
-Images: 
+Jekyllified by Set Hallstrom
 
 Built uppon:
 
@@ -15,18 +13,3 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 > Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
 > AJ
 > aj@lkn.io | @ajlkn
-
-
-Credits:
-- Demo Images:
-	- Unsplash (unsplash.com)
-    - Christian Fregnan @chrfrg https://unsplash.com/photos/WTWvcuIpm1c
-    - Val Vesa @adspedia https://unsplash.com/photos/ihFWKicceNk
-    - Denys Nevozhai @dnevozhai https://unsplash.com/photos/guNIjIuUcgY
-- Icons:
-	- Font Awesome (fontawesome.io)
-
-- Other:
-	- jQuery (jquery.com)
-	- Scrollex (github.com/ajlkn/jquery.scrollex)
-	- Responsive Tools (github.com/ajlkn/responsive-tools)

@@ -1,13 +1,13 @@
 ---
 title: Glasgow – trist industristad eller sprudlande liv?
-date: 2019-07-21 23:46:34 +0200
+date: 2019-07-21 23:46:00 +0200
 description: >-
   När jag säger att jag skall resa till Glasgow får jag alltid samma fråga
   tillbaka. VARFÖR DÅ? Jag måste erkänna att det ibland är svårt att svara på
   frågan och det beror inte på att jag inte kan hitta något positivt att säga
   utan för att jag inte riktigt vet var jag skall börja. Glasgow betyder så
   mycket för mig…
-image: /images/posts/22679969-l.jpg
+image: /images/posts/glasgow1.jpg
 cuttlefish_member: ulrika
 ---
 
@@ -19,7 +19,7 @@ N&auml;r det g&auml;ller kommunikationer och transporter s&aring; upplever jag d
 
 Och p&aring; tal att transporter s&aring; m&aring;ste jag sj&auml;lvklart sl&aring; ett slag för hur enkelt det &auml;r att resa till Glasgow, man tar helt enkelt ett direktflyg till Edinburgh. Kanske l&aring;ter lite m&auml;rkligt men det enklaste s&auml;ttet &auml;r faktiskt att flyga till huvudstaden och d&auml;rifr&aring;n ta bussen som p&aring; mindre &auml;n en timme tar sig till Glasgows bussterminal. Biljetten köps p&aring; bussen som g&aring;r upp till tre g&aring;nger i timmen.
 
-![](/images/posts/90046361-l.jpg){: srcset="/images/posts/90046361-l.jpg 540w, /images/posts/90046361-l@2x.jpg 1080w" width="540" height="405"}
+![](/images/posts/glasgow2.jpg){: srcset="/images/posts/glasgow2.jpg 540w, /images/posts/glasgow2@2x.jpg 1080w" width="540" height="405"}
 
 Om man kommer till Glasgow för första g&aring;ngen och bara har ett par dagar p&aring; sig behöver man dock inte leta sig iv&auml;g fr&aring;n staden. Det finns tillr&auml;ckligt att uppleva i Glasgow för ett par dagar och jag skulle s&auml;ga att det b&auml;sta s&auml;ttet att göra det &auml;r att n&auml;stan medvetet planlöst strosa runt för att uppt&auml;cka hur m&aring;ngfacetterad den gamla industristaden faktiskt &auml;r. Gamla byggnader blandas med moderna shoppingstr&aring;k och en uppsjö av olika restauranger samsas med klassiska pubar som ofta b&auml;r charmiga namn.
 

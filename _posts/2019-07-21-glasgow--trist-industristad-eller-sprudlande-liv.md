@@ -1,6 +1,6 @@
 ---
 title: Glasgow – trist industristad eller sprudlande liv?
-date:
+date: 2019-07-21 23:46:34 +0200
 description: >-
   När jag säger att jag skall resa till Glasgow får jag alltid samma fråga
   tillbaka. VARFÖR DÅ? Jag måste erkänna att det ibland är svårt att svara på
@@ -13,7 +13,7 @@ cuttlefish_member: ulrika
 
 Glasgow &auml;r en stad d&auml;r man k&auml;nner sig extremt v&auml;lkommen – av i princip alla man kommer i kontakt med. Det &auml;r v&auml;ldigt l&auml;tt sm&auml;lta in och direkt k&auml;nna sig hemma, n&aring;got jag upplevde omedelbart redan första g&aring;ngen jag var i Glasgow.
 
-Bland det b&auml;sta som finns med att resa &auml;r att tr&auml;ffa nya m&auml;nniskor. Att det ofta blir lite missförst&aring;nd n&auml;r man samtalar med infödda Glasgowbor &auml;r n&aring;got jag numer ser som ett riktigt charmigt inslag. Man f&aring;r helt enkelt l&auml;gga vissa saker p&aring; humorkontot, som t ex att man kan f&aring; en kanna Sangria n&auml;r man egentligen best&auml;llt en gin och tonic. Om man lite sn&auml;llt p&aring;pekar detta kommer servitören med ett sugrör och lite fler apelsiner... Jag har alltid sett mig som hyfsat spr&aring;kbeg&aring;vad men i Glasgow g&aring;r &auml;ven jag bet lite titt som t&auml;tt. Tack vare Google Maps behöver man dock inte s&aring; ofta fr&aring;ga efter v&auml;gen – för lika lite som de emellan&aring;t först&aring;r vad jag s&auml;ger, först&aring;r jag vad deras svar betyder\!
+Bland det b&auml;sta som finns med att resa &auml;r att tr&auml;ffa nya m&auml;nniskor. Att det ofta blir lite missförst&aring;nd n&auml;r man samtalar med infödda Glasgowbor &auml;r n&aring;got jag numer ser som ett riktigt charmigt inslag. Man f&aring;r helt enkelt l&auml;gga vissa saker p&aring; humorkontot, som t ex att man kan f&aring; en kanna Sangria n&auml;r man egentligen best&auml;llt en gin och tonic. Om man lite sn&auml;llt p&aring;pekar detta kommer servitören med ett sugrör och lite fler apelsiner… Jag har alltid sett mig som hyfsat spr&aring;kbeg&aring;vad men i Glasgow g&aring;r &auml;ven jag bet lite titt som t&auml;tt. Tack vare Google Maps behöver man dock inte s&aring; ofta fr&aring;ga efter v&auml;gen – för lika lite som de emellan&aring;t först&aring;r vad jag s&auml;ger, först&aring;r jag vad deras svar betyder\!
 
 N&auml;r det g&auml;ller kommunikationer och transporter s&aring; upplever jag det som v&auml;ldigt enkelt, och dessutom billigt, att resa runt i Skottland. &nbsp;Man kan tex köpa ett “bussluffarkort” för ett best&auml;mt antal dagar och resa med n&aring;gon av alla l&aring;ngf&auml;rdsbussar som kör kors och tv&auml;rs över landet. Bussterminalen, som ligger v&auml;ldigt centralt, har en v&auml;ldigt bra informationsdisk som g&auml;rna ger tips om platser v&auml;rda ett besök om man k&auml;nner sig os&auml;ker p&aring; vart man skall resa.
 

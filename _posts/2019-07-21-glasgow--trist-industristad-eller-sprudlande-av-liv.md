@@ -1,5 +1,5 @@
 ---
-title: Glasgow – trist industristad eller sprudlande liv?
+title: Glasgow – trist industristad eller sprudlande av liv?
 date: 2019-07-21 23:46:00 +0200
 description: >-
   När jag säger att jag skall resa till Glasgow får jag alltid samma fråga

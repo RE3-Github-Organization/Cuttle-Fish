@@ -47,6 +47,13 @@
     height: 100%;
     border-radius: _size(border-radius);
   }
+  a { 
+    color: _palette(accent2)
+  }
+  a:hover {
+    border-bottom: solid 1px;
+    color: _palette(accent2) !important;
+  }
 }
 #four {
   a {

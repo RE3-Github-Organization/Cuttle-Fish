@@ -1488,7 +1488,8 @@
 						display: inline-block;
 						height: inherit;
 						line-height: inherit;
-						outline: 0;
+            outline: 0;
+            color: _palette(accent1);
 
 						&.button {
 							height: 2em;

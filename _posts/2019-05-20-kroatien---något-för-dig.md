@@ -5,8 +5,8 @@ description: >-
   Massor av svenskar har upptäckt Kroatien under de senaste åren, men för många
   är landet ännu en vit fläck på Europakartan. Var början man om man är nyfiken
   på Kroatien?
-image: /images/tjaenster/40294904-xl.jpg
-author_cuttlefishes: ulrika
+image: /images/posts/40294904-xl.jpg
+cuttlefish_member: ulrika
 ---
 
 #### Att Kroatien &auml;r vida k&auml;nt för alla anh&auml;ngare av Game of Thrones &auml;r v&auml;l föga förv&aring;nade men Kroatien har n&aring;got &auml;ven för andra. Det lilla medelhavslandet med sin l&aring;nga kust &auml;r resm&aring;let som har n&aring;got för alla, n&auml;stan oavsett vad man m&aring; vara intresserad av. Vi tror att alla kommer hitta sina p&auml;rlor att b&auml;ra med sig hem i minnet och kanske dela med n&auml;ra och k&auml;ra eller helt enkelt beh&aring;lla för sig sj&auml;lva till n&auml;sta g&aring;ng – för tillbaka vill man\!

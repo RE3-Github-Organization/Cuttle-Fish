@@ -59,7 +59,7 @@ collections:
   tjanster:
     output: "true"
     permalink: "/tjaenster/:name/"
-  cuttlefishes:
+  cuttlefish_members:
     _hide_content: "true"
 
 
@@ -75,19 +75,19 @@ defaults:
       _options:
         image:
           uploads_dir: "images"
-          width: "1280"
-          height: "720"
+          width: "960"
+          height: "540"
           mime_type: "image/jpeg"
           resize_style: "contain"
         hero_image:
           uplaods_dir: "images"
-          width: 1280
-          height: 720
+          width: "960"
+          height: "540"
           mime_type: "image/jpeg"
           resize_style: "cover"
         content:
-          width: "1280"
-          height: "720"
+          width: "960"
+          height: "540"
           uploads_dir: "images"
           mime_type: "image/jpeg"
           resize_style: "contain"
@@ -99,14 +99,14 @@ defaults:
       _options:
         image:
           uploads_dir: "images/tjaenster"
-          width: "1280"
-          height: "720"
+          width: "960"
+          height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
         content:
           uploads_dir: "images/tjaenster"
-          width: "1280"
-          height: "720"
+          width: "960"
+          height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
   - scope:
@@ -118,19 +118,19 @@ defaults:
       _options:
         image:
           uploads_dir: "images/posts"
-          width: "1280"
-          height: "720"
+          width: "960"
+          height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
         content:
           uploads_dir: "images/posts"
           width: "540"
-          height: "430"
+          height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
   - scope:
       path: ""
-      type: "cuttlefishes"
+      type: "cuttlefish_members"
     values:
       _options:
         image:

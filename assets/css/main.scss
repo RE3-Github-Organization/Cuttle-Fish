@@ -1073,7 +1073,9 @@
 		&.primary {
 			background-color: _palette(accent1);
 			box-shadow: none;
-			color: _palette(fg-bold) !important;
+      color: _palette(fg-bold) !important;
+      padding-left: 15px;
+      padding-right: 15px;
 
 			&:hover {
 				background-color: lighten(_palette(accent1), 5);
@@ -1102,7 +1104,7 @@
 		display: block;
 		height: 5em;
 		left: 50%;
-		margin: 0 0 0 -5em;
+		margin: 0 0 70px -5em;
 		overflow: hidden;
 		position: absolute;
 		text-indent: 10em;
@@ -1558,18 +1560,23 @@
 		}
 
 		.content {
-			display: inline-block;
+      display: inline-block;
+      margin-top: -70px;
 			margin-right: 1%;
 			max-width: 95%;
 			padding: $size-wrapper-pad-tb;
 			position: relative;
 			text-align: right;
 			vertical-align: middle;
-			z-index: 1;
+      z-index: 1;
+
 
 			header {
 				display: inline-block;
-				vertical-align: middle;
+        vertical-align: middle;
+        background-color: rgba(255, 255, 255, 0.116);
+        padding: 20px;
+        border-radius: 5px;
 
 				h2 {
 					font-size: 2.5em;
@@ -1578,7 +1585,8 @@
 
 				p {
 					margin: (_size(element-margin) * 0.25) 0 0 0;
-					top: 0;
+          top: 0;
+
 				}
 			}
 

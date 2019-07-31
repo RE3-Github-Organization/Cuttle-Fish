@@ -3,7 +3,7 @@ title: Gruppresor
 description: >-
   Vi vet vilka utmaningar man som arrangör av en gruppresa står inför, och kan
   hjälpa er grupp, ert sällskap eller lag att få ihop alla bitar i pusslet.
-image: /uploads/shutterstock-489749653.jpg
+image: /images/tjaenster/shutterstock-489749653.jpg
 ---
 
 Även om ni som grupp har ett gemensamt intresse i form av tennis, vindsurfing eller kanske samma förkärlek till italienska viner så krävs det nog lite mer för att ni skall få ihop den ultimata resan för alla inblandade.

@@ -2,7 +2,7 @@
 title: Upptäck världen och upptäck dig själv i den.
 description: 'Konferensresor, events och upplevelser för grupper.'
 image: /images/20160101-dsc2110.jpg
-hero_image: /uploads/cuttlefish_hero.svg
+hero_image: /images/cuttlefish_hero.svg
 layout: default
 ---
 
@@ -48,7 +48,7 @@ layout: default
 </section>
 {% for tjanst in site.tjanster %}
 <!-- Two -->
-<section id="two" class="spotlight style1 {% cycle 'right', 'left' %}">
+<section class="spotlight style1 {% cycle 'right', 'left' %}">
   <span class="image fit main"><img src="{{ tjanst.image }}" alt="{{ tjanst.title }}" /></span>
   <div class="content">
     <header>
@@ -76,17 +76,17 @@ layout: default
     </header>
     <div class="box alt">
       <div class="row gtr-uniform">
-        {% assign members = site.cuttlefishes | sort: "namn" %}
-        {% for medlem in members %}
+        {% assign members = site.cuttlefish_members | sort: "namn" %}
+        {% for medlem in members %}{% if medlem.anstalld == true %}
         <section class="col-4 col-6-medium col-12-xsmall">
           <span class="icon alt major"
             style="background-image:url({{ medlem.image }});background-repeat: no-repeat;"></span>
           <h3>{{ medlem.namn }}</h3>
-          <p>{{ medlem.bio_markdown }}</p>
+          <p>{{ medlem.bio_markdown | markdownify }}</p>
           <!-- Editor Link -->
           <a href="cloudcannon:collections/{{ medlem.path }}" class="editor-link cms-editor-link">Redigera Profil</a>
         </section>
-        {% endfor %}
+        {% endif %}{% endfor %}
       </div>
     </div>
   </div>

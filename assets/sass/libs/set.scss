@@ -25,6 +25,7 @@
 }
 #instagram img {
   height: inherit;
+  border-radius: 3px;
 }
 @media only screen and (max-width: 800px) {
   #instagram li {
@@ -46,6 +47,13 @@
     width: 100%;
     height: 100%;
     border-radius: _size(border-radius);
+  }
+  a { 
+    color: _palette(accent2)
+  }
+  a:hover {
+    border-bottom: solid 1px;
+    color: _palette(accent2) !important;
   }
 }
 #four {

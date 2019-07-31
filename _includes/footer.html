@@ -15,7 +15,7 @@
         </ul>
       <ul class="icons">
         {% for social in site.data.social-satelites %}
-        <li><a href="{{ social.url }}" class="icon alt fa-{{ social.icon }}"><span class="label">{{ social.name }}</span></a></li>
+        <li><a href="{{ social.url }}" class="icon alt fa-{{ social.icon }}" target="_blank"  rel="noopener noreferrer nofollow"><span class="label">{{ social.name }}</span></a></li>
         {% endfor %}
       </ul>
       <ul class="copyright">
@@ -26,7 +26,7 @@
         <li class="editable"><a href="tel:+46843732600">+46 8 437 326 00</a></li>
       </ul>
       <ul class="copyright">
-        <li>&copy; Cuttlefish {{ site.time | date: "%Y" }}</li><li><a href="https://github.com/cuttlefish-code/Cuttle-Fish">Software and photo credits</a></li>
+        <li>&copy; Cuttlefish {{ site.time | date: "%Y" }}</li><li><a href="/credits/">Privacy Policy & Credits</a></li>
       </ul>
     </footer>
     

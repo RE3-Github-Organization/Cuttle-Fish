@@ -41,11 +41,33 @@
 {% endif %}
 {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 <!-- Google Analytics -->
+
 <script>
-  window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
-  ga('create', '{{ site.google_analytics_key }}', 'auto');
-  ga('send', 'pageview');
+  function consentGiven() {
+    // Run GA
+    // See: https://developers.google.com/analytics/devguides/collection/analyticsjs/
+    window.ga = window.ga || function () { (ga.q = ga.q || []).push(arguments) }; ga.l = +new Date;
+    ga('create', '{{ site.google_analytics_key }}', 'auto');
+    ga('send', 'pageview');
+
+
+  function consentNotGiven() {}
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var _hsq = window._hsq = window._hsq || [];
+    _hsq.push([
+      'addPrivacyConsentListener',
+      function(consent) {
+        if (consent.allowed == true) {
+          consentGiven();
+        } else {
+          consentNotGiven();
+        }
+      },
+    ]);
+  });
 </script>
+
 <script async src='https://www.google-analytics.com/analytics.js'></script>
 {% endif %}
 <!-- End Google Analytics -->

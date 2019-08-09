@@ -68,14 +68,17 @@ collections:
 
 
 # defaults
-timezone: Europe/Stockholm
 permalink: /:categories/:title/
+sass:
+  sass_dir: /assets/sass/
 defaults:
-  - scope:
+  - 
+    scope:
       path: '*.pdf'
     values:
       sitemap: false
-  - scope:
+  - 
+    scope:
       path: ""
       type: "pages"
     values:
@@ -99,7 +102,8 @@ defaults:
           uploads_dir: "images"
           mime_type: "image/jpeg"
           resize_style: "contain"
-  - scope:
+  - 
+    scope:
       path: ""
       type: "tjanster"
     values:
@@ -117,7 +121,8 @@ defaults:
           height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
-  - scope:
+  - 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -136,7 +141,8 @@ defaults:
           height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
-  - scope:
+  - 
+    scope:
       path: ""
       type: "cuttlefish_members"
     values:
@@ -151,7 +157,8 @@ defaults:
           width: "120"
           height: "120"
           resize_style: "cover"
-  - scope:
+  - 
+    scope:
       path: ""
       type: landing_pages
     values:
@@ -171,7 +178,3 @@ defaults:
         image: Bild som visas i huvudet.
         layout: "Behövs en kustomiserad layout? Då kan du välja den här (Default för landningsidor är ''Landing''')"
         sitemap: "Checka denna box om sökmoterar SKA inedexera sidan"
-
-
-sass:
-  sass_dir: /assets/sass/

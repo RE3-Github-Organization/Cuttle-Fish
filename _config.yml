@@ -36,6 +36,7 @@ social:
     - http://www.twitter.com/cuttlefish_se
     - https://www.facebook.com/cuttlefish.se/    
 lang: sv_SE
+timezone: Europe/Stockholm
 
 # Build settings
 plugins:

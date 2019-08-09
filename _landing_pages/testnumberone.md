@@ -9,4 +9,5 @@ hubspot: 03f2a565-de5c-4c3d-86ed-30305fddd1cb
 layout: landing
 sitemap: false
 ---
-Fyll i och skicka formuläret, så kommer du automatiskt skickas till PDF filen.
+Med denna handbok hoppas vi kartlägga dom största utmaningarna med konferensreseplannering
+Vi hoppas innerligt att den hjälper er på vägen med era projekt.

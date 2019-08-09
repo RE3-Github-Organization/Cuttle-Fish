@@ -71,9 +71,9 @@ timezone: Europe/Stockholm
 permalink: /:categories/:title/
 defaults:
   - scope:
-      path:            "*.pdf"
+      path: '*.pdf'
     values:
-      sitemap:         false
+      sitemap: false
   - scope:
       path: ""
       type: "pages"

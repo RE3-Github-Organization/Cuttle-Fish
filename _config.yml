@@ -78,7 +78,6 @@ defaults:
       path: "*.pdf"
     values:
       sitemap: false
-      _options:
   - 
     scope:
       path: ""

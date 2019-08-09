@@ -163,12 +163,12 @@ defaults:
         content:
           uploads_dir: "docs"
       _comments:
-        title: "Title på Sidan"
+        title: "Tittel på Sidan"
         pdf_path: "Välj en PDF fil. Länken till den visas i fältet som allt som kommer efter cuttlefish.se (PDF filer hamnar aldrig i sitemap)"
-        permalink: "Ordet som skrivs här blir det som kommer efter cuttlefish.se"
-        husbpot: "Siffra på hubspots FormID för formulären"
+        permalink: "Ordet som skrivs här blir det som kommer efter cuttlefish.se/"
+        hubspot: "Siffra på hubspots FormID för formulären. Den fins i koden som hubspot ger för sina formulärer"
         image: Bild som visas i huvudet.
-        layout: "Behövs en kustomiserad layout?"
+        layout: "Behövs en kustomiserad layout? Då kan du välja den här (Default för landningsidor är ''Landing''')"
         sitemap: "Checka denna box om sökmoterar SKA inedexera sidan"
 
 

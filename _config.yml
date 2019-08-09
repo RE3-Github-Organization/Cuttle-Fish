@@ -68,6 +68,7 @@ collections:
 
 
 # defaults
+uploads_dir: "docs"
 permalink: /:categories/:title/
 sass:
   sass_dir: /assets/sass/
@@ -78,7 +79,7 @@ defaults:
     values:
       sitemap: false
       _options:
-        uploads_dir: "docs"
+
   - 
     scope:
       path: ""

@@ -168,6 +168,8 @@ defaults:
           height: "540"
           resize_style: "cover"
           uploads_dir: "images/landing"
+        file: 
+          uploads_dir: "docs"
         content:
           uploads_dir: "docs"
       _comments:

@@ -75,7 +75,7 @@ sass:
 defaults:
   - 
     scope:
-      path: "*.pdf"
+      path: "/docs/*.pdf"
     values:
       sitemap: false
   - 

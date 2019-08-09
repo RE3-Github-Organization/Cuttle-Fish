@@ -71,6 +71,10 @@ timezone: Europe/Stockholm
 permalink: /:categories/:title/
 defaults:
   - scope:
+      path:            "*.pdf"
+    values:
+      sitemap:         false
+  - scope:
       path: ""
       type: "pages"
     values:
@@ -146,6 +150,24 @@ defaults:
           width: "120"
           height: "120"
           resize_style: "cover"
+  - scope:
+      path: ""
+      type: landing_pages
+    values:
+      _options:
+        image:
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          uploads_dir: "images/landing"
+        content:
+          uploads_dir: "docs"
+      _comments:
+        namn: Artistnamnet
+        blurb_text: Kort biografi
+        nation: Var kommer artisten ifrån (gärna förkortning)
+        link: Länk till artistens hemsida
+        image: bild på artisten (om det finns ett ansikte, se till att det är i mitten av bilden)
 
 
 sass:

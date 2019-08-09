@@ -7,7 +7,6 @@ layout: default
   <div class="content">
     <header>
       <h2>{{ page.title }}</h2>
-      <h3>{{ page.description }}</h3>
     </header>
     <span class="image"><img src="/images/avatar.png" alt="Cuttlefish Logo" class="editable" /></span>
 
@@ -24,10 +23,11 @@ layout: default
 <section id="five" class="wrapper style2 special fade">
 
   <div class="content container">
+    
     <header class="editable">
-      <h2>Kontakta oss!</h2>
-      <p>Fråga oss om våra priser och erbjudanden!</p>
+      <h3>{{ page.description }}</h3>
     </header>
+    {{ content }}
     <div class="cta">
         {% if jekyll.environment == 'production' %}
         <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>

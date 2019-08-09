@@ -1,0 +1,52 @@
+---
+layout: default
+---
+
+<!-- Banner -->
+<section id="banner" style="background-image: url('{{ page.image }}');">
+  <div class="content">
+    <header>
+      <h2>{{ page.title }}</h2>
+      <h3>{{ page.description }}</h3>
+    </header>
+    <span class="image"><img src="/images/avatar.png" alt="Cuttlefish Logo" class="editable" /></span>
+
+  </div>
+  <a href="#one" class="goto-next scrolly">Next</a>
+</section>
+<!-- One -->
+
+
+
+
+{% if page.husbpot != '' %}
+<!-- Five -->
+<section id="five" class="wrapper style2 special fade">
+
+  <div class="content container">
+    <header class="editable">
+      <h2>Kontakta oss!</h2>
+      <p>Fråga oss om våra priser och erbjudanden!</p>
+    </header>
+    <div class="cta">
+        {% if jekyll.environment == 'production' %}
+        <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+        <script>
+          hbspt.forms.create({
+          portalId: "5893949",
+          formId: "{{ page.hubspot }}"
+        });
+        </script> 
+      {% endif %}
+      
+
+    </div>
+
+</span>
+
+</section>
+
+
+{% endif %}
+
+

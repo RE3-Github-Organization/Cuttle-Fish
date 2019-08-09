@@ -61,6 +61,9 @@ collections:
     permalink: "/tjaenster/:name/"
   cuttlefish_members:
     _hide_content: "true"
+  landing_pages:
+    output: "true"
+    permalink: "/:name/"
 
 
 # defaults

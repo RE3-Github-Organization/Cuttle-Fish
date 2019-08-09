@@ -176,9 +176,9 @@ defaults:
       _comments:
         title: "Tittel på Sidan"
         description: "Beskrivning. Texten syns högst upp över formulären"
-        pdf_path: "Välj en PDF fil. Länken till den visas i fältet som allt som kommer efter cuttlefish.se (PDF filer hamnar aldrig i sitemap)"
+        pdf_path: "Välj en PDF fil. Tryck på länkinkonen för att klistra in en länk (PDF filer hamnar aldrig i sitemap)"
         permalink: "Ett ord. Bör ej innehålla http! Ordet som skrivs här blir det som kommer efter cuttlefish.se/"
-        hubspot: "Siffra på hubspots FormID för formulären. Den fins i koden som hubspot ger för sina formulärer"
+        hubspot: "Siffra på hubspots FormID. Den fins i koden som hubspot ger för sina formulärer"
         image: "Bild som visas i huvudet."
-        layout: "Behövs en kustomiserad layout? Då kan du välja den här (Default för landningsidor är ''Landing''')"
-        sitemap: "Checka denna box om sökmoterar SKA inedexera sidan"
+        layout: "Behövs en kustomiserad layout? Då kan du välja den här (Default för landningsidor är ''Landing'')"
+        sitemap: "Checka denna box om sökmotorer SKA inedexera sidan"

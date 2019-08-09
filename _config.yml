@@ -77,6 +77,8 @@ defaults:
       path: '*.pdf'
     values:
       sitemap: false
+      _options:
+        uploads_dir: "docs"
   - 
     scope:
       path: ""

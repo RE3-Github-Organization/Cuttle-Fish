@@ -162,7 +162,6 @@ defaults:
           uploads_dir: "images/landing"
         content:
           uploads_dir: "docs"
-        uploads_dir: "docs"
       _comments:
         title: "Tittel på Sidan"
         pdf_path: "Välj en PDF fil. Länken till den visas i fältet som allt som kommer efter cuttlefish.se (PDF filer hamnar aldrig i sitemap)"

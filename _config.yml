@@ -75,11 +75,10 @@ sass:
 defaults:
   - 
     scope:
-      path: '*.pdf'
+      path: "*.pdf"
     values:
       sitemap: false
       _options:
-
   - 
     scope:
       path: ""

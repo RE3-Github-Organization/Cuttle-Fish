@@ -1,6 +1,8 @@
 ---
-title: Våra tips till dig som skall arrangera företagets konferensresa
-description: Tips-description
+title: Tips till dig som arrangerar konferensresa
+description: >-
+  Det är ett par saker att tänka på och förbereda för att få er konferensresa
+  att bli som ni tänkt er...
 pdf_path: /docs/A5kort_draft_ex6.pdf
 image: /images/landing/93543773-xl.jpg
 permalink: tips7564
@@ -9,4 +11,4 @@ layout: landing
 sitemap: false
 ---
 
-Tips-content
+Vi har satt ihop en guide med v&aring;ra b&auml;sta tips....

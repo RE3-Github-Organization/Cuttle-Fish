@@ -1,5 +1,5 @@
 ---
-title: Konferensresor - tips till dig som arrangerar
+title: Hitta fram till en lyckad konferensresa
 description: Fyll i formuläret nedan för att ladda hem vår PDF
 pdf_path: /docs/A5kort_draft_ex6.pdf
 image: /images/landing/93543773-xl.jpg

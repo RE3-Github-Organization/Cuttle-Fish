@@ -11,6 +11,6 @@ bio_markdown: >-
   fort sparkontot har fyllts p&aring; och det finns utrymme i budgeten.
 kontakt: emil@kronbladh.net
 link:
-image: /images/emil-profil.jpg
+image: /images/emil-profil-1.jpg
 anstalld: false
 ---

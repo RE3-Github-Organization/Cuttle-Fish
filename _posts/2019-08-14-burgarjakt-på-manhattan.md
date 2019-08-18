@@ -48,5 +48,3 @@ Efter att ha provat dessa burgare kom vi överens om en gemensam topplista, vilk
 Jag hoppas att denna artikel inspirerar er som r&aring;kar befinna er i New York eller drömmer om att &aring;ka dit att ta er ut p&aring; gatorna och hitta era egna favoriter\! V&aring;ga sv&auml;nga in p&aring; nya st&auml;llen, hitta sp&auml;nnande alternativ och skapa egna listor. För detta &auml;r verkligen en matkultur som kr&auml;ver att f&aring; upplevas i första person.
 
 &nbsp;
-
-&nbsp;

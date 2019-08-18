@@ -9,6 +9,6 @@ layout: landing
 sitemap: false
 ---
 
-Det &auml;r en hel del som skall fixas med och t&auml;nkas p&aring; för att f&aring; till en lyckad konferensresa. Mycket skall st&auml;mma för att ni som företag skall f&aring; ut det ni t&auml;nkt er. Vi har satt samman en guide med tips och rekommendationer till er som arrangerar er egen resa.
+Det &auml;r en hel del som skall fixas med och t&auml;nkas p&aring; för att f&aring; till en lyckad konferensresa. Mycket skall st&auml;mma för att ni som företag skall f&aring; ut det ni t&auml;nkt er. Vi har satt samman en guide med tips till er som skall arrangera er egen resa.
 
 Vill ni ha fler tips eller bolla era id&eacute;er med oss &auml;r ni varmt v&auml;lkomna att ringa p&aring; 08-4373 2600 eller skicka oss ett mail till info@cuttlefish.se

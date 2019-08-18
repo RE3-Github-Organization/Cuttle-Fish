@@ -1,6 +1,6 @@
 ---
 title: Burgarjakt på Manhattan
-date: 2019-08-14 00:16:00 +0200
+date: 2019-08-20 11:16:00 +0200
 description: >-
   Bland världens matkulturer finns få så diversifierade och specialiserade som
   New Yorks. Street food är vardag, blandat med en mångfald av lyxrestauranger,

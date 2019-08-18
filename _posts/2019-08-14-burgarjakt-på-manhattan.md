@@ -7,8 +7,7 @@ description: >-
   pubar och barer. Mitt i denna röra befann vi oss under några dagar i juni, och
   bestämde oss då för att utforska burgar-aspekten av New Yorks kulinariska
   sida.
-image: >-
-  /images/posts/115099142-woman-holding-burger-with-rainbow-flag-and-new-york-cityscape-on-background-in-promenade-of-governor.jpg
+image: /images/posts/115099142-xl.jpg
 cuttlefish_member: emil
 ---
 

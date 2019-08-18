@@ -1,6 +1,6 @@
 ---
 title: Hitta fram till en lyckad konferensresa!
-description: Fyll i formuläret nedan för att ladda hem vår PDF
+description: Fyll i formuläret nedan för att ladda hem vår guide som PDF
 pdf_path: /docs/wp-1-3.pdf
 image: /images/landing/93543773-xl.jpg
 permalink: tips

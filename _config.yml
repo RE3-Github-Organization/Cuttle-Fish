@@ -36,6 +36,7 @@ social:
     - http://www.twitter.com/cuttlefish_se
     - https://www.facebook.com/cuttlefish.se/    
 lang: sv_SE
+timezone: Europe/Stockholm
 
 # Build settings
 plugins:
@@ -61,13 +62,24 @@ collections:
     permalink: "/tjaenster/:name/"
   cuttlefish_members:
     _hide_content: "true"
+  landing_pages:
+    output: "true"
+    permalink: "/:name/"
 
 
 # defaults
-timezone: Europe/Stockholm
+uploads_dir: "docs"
 permalink: /:categories/:title/
+sass:
+  sass_dir: /assets/sass/
 defaults:
-  - scope:
+  - 
+    scope:
+      path: "/docs/*"
+    values:
+      sitemap: false
+  - 
+    scope:
       path: ""
       type: "pages"
     values:
@@ -91,7 +103,8 @@ defaults:
           uploads_dir: "images"
           mime_type: "image/jpeg"
           resize_style: "contain"
-  - scope:
+  - 
+    scope:
       path: ""
       type: "tjanster"
     values:
@@ -109,7 +122,8 @@ defaults:
           height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
-  - scope:
+  - 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -128,7 +142,8 @@ defaults:
           height: "540"
           resize_style: "contain"
           mime_type: "image/jpeg"
-  - scope:
+  - 
+    scope:
       path: ""
       type: "cuttlefish_members"
     values:
@@ -143,7 +158,27 @@ defaults:
           width: "120"
           height: "120"
           resize_style: "cover"
-
-
-sass:
-  sass_dir: /assets/sass/
+  - 
+    scope:
+      path: ""
+      type: landing_pages
+    values:
+      _options:
+        image:
+          width: "960"
+          height: "540"
+          resize_style: "cover"
+          uploads_dir: "images/landing"
+        file: 
+          uploads_dir: "docs"
+        content:
+          uploads_dir: "docs"
+      _comments:
+        title: "Tittel på Sidan"
+        description: "Beskrivning. Texten syns högst upp över formulären"
+        pdf_path: "Välj en PDF fil. Tryck på länkinkonen för att klistra in en länk (PDF filer hamnar aldrig i sitemap)"
+        permalink: "Ett ord. Bör ej innehålla http! Ordet som skrivs här blir det som kommer efter cuttlefish.se/"
+        hubspot: "Siffra på hubspots FormID. Den fins i koden som hubspot ger för sina formulärer"
+        image: "Bild som visas i huvudet."
+        layout: "Behövs en kustomiserad layout? Då kan du välja den här (Default för landningsidor är ''Landing'')"
+        sitemap: "Checka denna box om sökmotorer SKA inedexera sidan"

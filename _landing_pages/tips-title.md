@@ -1,7 +1,7 @@
 ---
 title: Hitta fram till en lyckad konferensresa!
 description: Fyll i formuläret nedan för att ladda hem vår guide
-pdf_path: /docs/wp-1-3.pdf
+pdf_path: /docs/cuttlefish-konferensresor-tips-1-0.pdf
 image: /images/landing/93543773-xl.jpg
 permalink: tips
 hubspot: 03f2a565-de5c-4c3d-86ed-30305fddd1cb

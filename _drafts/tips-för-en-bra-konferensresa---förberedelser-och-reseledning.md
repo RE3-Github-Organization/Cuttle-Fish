@@ -1,7 +1,7 @@
 ---
 title: Tips för en bra konferensresa - Förberedelser och Reseledning
 date:
-description:
+description: Vad behöver man tänka på när man
 image:
 cuttlefish_member: mats
 ---
@@ -16,4 +16,4 @@ cuttlefish_member: mats
 
 &nbsp;
 
-> Vill du ha fler tips runt vad man bör t&auml;nka p&aring; n&auml;r man skall göra sitt företags konferensresa? Ladda kostnadsfritt ner v&aring;r guide som PDF p&aring; [www.cuttlefish.se/tips](www.cuttlefish.se/tips?ref=article1)
+> Vill du ha fler tips runt vad man bör t&auml;nka p&aring; n&auml;r man skall skapa sitt företags konferensresa? Ladda ner v&aring;r guide som PDF p&aring; [www.cuttlefish.se/tips](www.cuttlefish.se/tips?ref=article1)

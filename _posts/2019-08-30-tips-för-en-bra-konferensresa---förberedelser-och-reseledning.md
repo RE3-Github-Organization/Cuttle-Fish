@@ -1,6 +1,6 @@
 ---
 title: Tips för en bra konferensresa - Förberedelser och Reseledning
-date: 2019-08-30 01:53:10 +0200
+date: 2019-08-30 01:53:00 +0200
 description: Vad behöver man tänka på när man
 image: /images/posts/istock-512627676.jpg
 cuttlefish_member: mats

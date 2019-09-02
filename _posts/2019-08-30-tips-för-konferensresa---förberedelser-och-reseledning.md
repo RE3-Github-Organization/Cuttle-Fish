@@ -9,7 +9,7 @@ image: /images/posts/istock-512627676.jpg
 cuttlefish_member: mats
 ---
 
-H&auml;r kommer ett par tips runt förberedelser och reseledning, riktade till dig som skall sy ihop företagets konferensresa\!
+H&auml;r kommer ett par tips runt förberedelser och reseledning riktade till dig som skall sy ihop företagets konferensresa\!
 
 ### Hitta ett resm&aring;l som passar just ert företag
 

@@ -1,6 +1,6 @@
 ---
 title: Tips för konferensresor - Umgänge och Trivsel
-date: 2019-09-02 13:42:49 +0200
+date: 2019-09-02 13:42:00 +0200
 description: >-
   Finns det några knep kring hur man bäddar för ett trevligt arrangemang där
   alla umgås och trivs? Vad behöver man tänka på för att deltagarna skall komma

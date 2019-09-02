@@ -21,8 +21,6 @@ Ta en benstr&auml;ckare och l&aring;t g&auml;rna deltagarna byta platser mellan 
 
 Man kan tro att det upplevs som ett v&auml;rde i att l&aring;ta alla f&aring; bo i enkelrum men det finns fördelar med dubbelrum:
 
-&nbsp;
-
 * För den som &auml;r ny &auml;r det ofta en trygghet att kunna “h&auml;nga” med en kollega som har arbetat ett tag p&aring; företaget. Det &auml;r förmodligen inte kul för hen att komma ned till samlingsplatsen för avf&auml;rd mot middagen och uppt&auml;cka att alla andra umg&aring;tts i baren en stund.&nbsp;
 * För er som företag kan det ocks&aring; vara skönt att veta att kollegorna har lite koll p&aring; varandra.&nbsp;
 

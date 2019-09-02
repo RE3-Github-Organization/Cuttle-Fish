@@ -2,9 +2,9 @@
 title: Tips för konferensresa - Information och Uppföljning
 date: 2019-08-30 01:53:00 +0200
 description: >-
-  Fick du just uppdraget av chefen att ordna företagets konferensresa? Det kan
-  kännas lite svårt att veta var man skall börja för att få ihop allting till
-  ett lyckat och minnesvärt arrangemang.
+  Har du startat upp planeringen av företagets konferensresa men är osäker på
+  hur deltagarna skall informeras? Vad måste de få reda på och vad kan du låta
+  bli en överraskning?
 image: /images/posts/alexander-kunze-ulh71gtmz4g-unsplash.jpg
 cuttlefish_member: mats
 ---

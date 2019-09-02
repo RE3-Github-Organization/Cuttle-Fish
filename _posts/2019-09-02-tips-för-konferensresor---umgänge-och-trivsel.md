@@ -32,4 +32,4 @@ Det blir ofta b&auml;st att l&auml;gga s&aring;dan tid mellan dagens sista inpla
 
 &nbsp;
 
-> Vill du ha fler tips runt vad man bör t&auml;nka p&aring; n&auml;r man skapar företagets konferensresa? Vi har satt ihop en guide med v&aring;ra rekommendationer – ladda ner den som PDF p&aring; [www.cuttlefish.se/tips](www.cuttlefish.se/tips?ref=article1)
+> Vill du ha fler tips runt vad man bör t&auml;nka p&aring; n&auml;r man skapar företagets konferensresa? Vi har satt ihop en guide med v&aring;ra rekommendationer – ladda ner den som PDF p&aring; [www.cuttlefish.se/tips](https://www.cuttlefish.se/tips?ref=articleUoT)

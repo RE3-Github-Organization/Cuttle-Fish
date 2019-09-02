@@ -1,5 +1,5 @@
 ---
-title: Tips för konferensresa - Information och Uppföljning
+title: Tips för konferensresor - Information och Uppföljning
 date: 2019-09-02 13:17:00 +0200
 description: >-
   Har du startat upp planeringen av företagets konferensresa men är osäker på

@@ -9,11 +9,7 @@ image: /images/posts/istock-512627676.jpg
 cuttlefish_member: mats
 ---
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+H&auml;r kommer ett par tips till dig som skall f&aring; ihop företagets konferensresa.&nbsp;
 
 ### Hitta ett resm&aring;l som passar just ert företag
 
@@ -37,4 +33,4 @@ Ta alltid höjd för att programpunkter som inbegriper förflyttning tar mer tid
 
 Om ni anl&auml;nder fr&aring;n olika avreseorter och skall &aring;ka vidare bör ni ha fler &auml;n en transferbuss &auml;ven om flygen/t&aring;gen &auml;r planerade att komma in samtidigt. Skulle n&aring;gon grupp bli försenad kommer ni att ha en halvfull transferbuss st&aring;ende med deltagare som inget hellre vill &auml;n att köra iv&auml;g mot slutdestinationen – ingen bra start p&aring; deras konferensresa\!
 
-> Vill du ha fler tips runt vad man bör t&auml;nka p&aring; n&auml;r man skapar företagets konferensresa? Ladda ner v&aring;r kompletta guide som PDF p&aring; [www.cuttlefish.se/tips](www.cuttlefish.se/tips?ref=article1)
+> Vill du ha fler tips runt vad man bör t&auml;nka p&aring; n&auml;r man skapar företagets konferensresa? Vi har satt ihop en guide med v&aring;ra rekommendationer – ladda ner den som PDF p&aring; [www.cuttlefish.se/tips](www.cuttlefish.se/tips?ref=article1)

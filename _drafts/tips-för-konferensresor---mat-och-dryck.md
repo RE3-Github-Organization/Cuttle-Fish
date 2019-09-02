@@ -1,7 +1,11 @@
 ---
 title: Tips för konferensresor - Mat och Dryck
 date: 2019-09-02 00:00:00 +0200
-description: XXX
+description: >-
+  Höjdpunkt eller bottennapp? Få enskilda saker i en konferensresa betyder så
+  mycket för den totala upplevelsen som alla luncher och middagar. Men på samma
+  sätt som det kan bidra till succé kan också mat och dryck vara det som drar
+  ner totalbetyget långt ner i källaren.
 image: /images/posts/58581326-xl.jpg
 cuttlefish_member: mats
 ---

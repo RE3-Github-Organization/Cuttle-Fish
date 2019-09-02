@@ -27,8 +27,6 @@ Det &auml;r inte helt ovanligt att deltagarna sj&auml;lva f&aring;r bekosta t ex
 
 Ni m&aring;ste vara v&auml;ldigt tydliga med i synnerhet vad som inte ing&aring;r, t ex:
 
-&nbsp;
-
 * Att ta sig till och fr&aring;n flygplatsen?
 * Minibaren p&aring; hotellet?
 * Avec till kaffet p&aring; middagen?
@@ -36,4 +34,4 @@ Ni m&aring;ste vara v&auml;ldigt tydliga med i synnerhet vad som inte ing&aring;
 
 &nbsp;
 
-> Vill du ha fler tips runt vad man bör t&auml;nka p&aring; n&auml;r man skapar företagets konferensresa? Vi har satt ihop en guide med v&aring;ra rekommendationer – ladda ner den som PDF p&aring; [www.cuttlefish.se/tips](www.cuttlefish.se/tips?ref=article1)
+> Vill du ha fler tips runt vad man bör t&auml;nka p&aring; n&auml;r man skapar företagets konferensresa? Vi har satt ihop en guide med v&aring;ra rekommendationer – ladda ner den som PDF p&aring; [www.cuttlefish.se/tips](https://www.cuttlefish.se/tips?ref=articleEoB)

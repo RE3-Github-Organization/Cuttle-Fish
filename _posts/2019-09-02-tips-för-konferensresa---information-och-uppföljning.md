@@ -1,6 +1,6 @@
 ---
 title: Tips för konferensresa - Information och Uppföljning
-date: 2019-09-02 13:17:43 +0200
+date: 2019-09-02 13:17:00 +0200
 description: >-
   Har du startat upp planeringen av företagets konferensresa men är osäker på
   hur deltagarna skall informeras? Vad måste de få reda på och vad kan du låta

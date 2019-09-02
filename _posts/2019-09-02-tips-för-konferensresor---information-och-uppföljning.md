@@ -33,4 +33,4 @@ V&auml;l hemma bör ni som arrangerade och ledde resan be era kollegor om feedba
 
 &nbsp;
 
-> Vill du ha fler tips runt vad man bör t&auml;nka p&aring; n&auml;r man skapar företagets konferensresa? Vi har satt ihop en guide med v&aring;ra rekommendationer – ladda ner den som PDF p&aring; [www.cuttlefish.se/tips](www.cuttlefish.se/tips?ref=article1)
+> Vill du ha fler tips runt vad man bör t&auml;nka p&aring; n&auml;r man skapar företagets konferensresa? Vi har satt ihop en guide med v&aring;ra rekommendationer – ladda ner den som PDF p&aring; [www.cuttlefish.se/tips](https://www.cuttlefish.se/tips?ref=articleIoU)

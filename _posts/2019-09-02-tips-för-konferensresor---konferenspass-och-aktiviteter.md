@@ -4,7 +4,7 @@ date: 2019-09-02 13:33:00 +0200
 description: >-
   Hur sätter man ihop konferenspass, gruppövningar och trevliga aktiviteter på
   ett bra sätt? Vad skall man tänka på när man skall få ihop programmet?
-image: /images/posts/46409481-xl-1.jpg
+image:
 cuttlefish_member: mats
 ---
 

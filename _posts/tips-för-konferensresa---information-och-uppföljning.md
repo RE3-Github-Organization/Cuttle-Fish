@@ -1,37 +1,35 @@
 ---
-title: Tips för konferensresa - Förberedelser och Reseledning
+title: Tips för konferensresa - Information och Uppföljning
 date: 2019-08-30 01:53:00 +0200
 description: >-
   Fick du just uppdraget av chefen att ordna företagets konferensresa? Det kan
   kännas lite svårt att veta var man skall börja för att få ihop allting till
   ett lyckat och minnesvärt arrangemang.
-image: /images/posts/istock-512627676.jpg
+image: /images/posts/alexander-kunze-ulh71gtmz4g-unsplash.jpg
 cuttlefish_member: mats
 ---
 
-H&auml;r kommer ett par tips runt förberedelser och reseledning riktade till dig som skall sy ihop företagets konferensresa\!
+H&auml;r kommer ett par tips runt information och uppföljning riktade till dig som skall sy ihop företagets konferensresa\!
 
-### Hitta ett resm&aring;l som passar just ert företag
+### Hitta ett smidigt anm&auml;lningsförfarande
 
-Resm&aring;let bör passa företagets v&auml;rderingar och profilen p&aring; era deltagare. Om ni föredrar rej&auml;l husmanskost framför sniglar med korslagda morötter och dessutom st&aring;r med ”b&aring;da fötterna p&aring; jorden” s&aring; kanske ni skall snegla p&aring; Prag i st&auml;llet för Saint-Tropez.
+Skapa n&aring;gon form av anm&auml;lningssystem d&auml;r alla aktivt m&aring;ste g&aring; in och registrera sig samt ange viktig information. Förutom allergier och specialkost kan det g&auml;lla val av kött/fisk till middagen, önskem&aring;l om programpunkt eller vem man vill dela rum med. Att l&aring;ta deltagarna skriva fritt i ett delat Excel-dokument blir snabbt oh&aring;llbart och med obefintlig sp&aring;rbarhet.
 
-Hitta möjliga datum och best&auml;m hur l&auml;nge ni kan och vill vara borta. M&uuml;nchen, Motala eller Mumindalen? Det &auml;r l&auml;tt att glömma att det finns bra resm&aring;l b&aring;de i v&aring;ra grannl&auml;nder och i Sverige. Att flyga tv&auml;rs över Europa för att sedan bara tillbringa ett drygt dygn p&aring; resm&aring;let k&auml;nns nog inte vettigt för n&aring;gon.
+I samband med att ni talar om att det &auml;r hög tid att anm&auml;la sig kan ni ocks&aring; passa p&aring; att fundera p&aring; vad ni vill informera deltagarna om. Det &auml;r l&auml;tt h&auml;nt att man h&aring;ller för mycket hemligt – knepet &auml;r att hitta en bra niv&aring; p&aring; vad man informerar om och vad man faktiskt vill skall uppt&auml;ckas p&aring; plats. Att vara tydlig med vad man inte skall göra kan r&auml;cka för att lugna m&aring;nga.
 
-Om resan skall g&aring; utomlands s&aring; börja med att titta p&aring; flyg med rimliga tider d&auml;r ni kan köpa gruppbiljetter med mer generösa regler runt ombokning och avbokning. Flygtiderna de aktuella dagarna kommer att begr&auml;nsa era möjliga resm&aring;l. Försök d&auml;refter undvika de mest klassiska destinationerna som de flesta deltagare antingen redan besökt eller snart kommer att &aring;ka till. Överraska ist&auml;llet med ett resm&aring;l av det lite ovanligare slaget – det kommer bara ses som positivt och genomt&auml;nkt\! Om ni v&auml;ljer en mindre ort ökar chansen att ni f&aring;r b&auml;ttre service och ett mer personligt bemötande.
+### Uppdatera deltagarna under resans g&aring;ng
 
-### Utse en reseledare och definiera rollen
+Hur n&aring;r ni p&aring; ett effektivt s&auml;tt samtliga deltagare under konferensresan? De kommer att behöva p&aring;minnas samt informeras om t ex:
 
-V&auml;l p&aring; plats &auml;r det mycket att h&aring;lla koll p&aring; för att allt skall flyta p&aring; smidigt, b&aring;de g&auml;llande logistik och information. Det kan vara allt fr&aring;n att vara behj&auml;lplig vid incheckning och assistera p&aring; konferenspassen till att svara p&aring; alla uppt&auml;nkliga fr&aring;gor om WiFi-lösenord, var n&auml;rmsta toalett finns och om det serveras svenskt kaffe p&aring; hotellet.
+* Tid och plats för samlingar
+* Saker och utrustning att ha med till konferenspass eller aktivitet
+* Förseningar och &auml;ndringar i programmet
 
-Ni bör d&auml;rför utse en ansvarig reseledare. Den som tar p&aring; sig uppdraget f&aring;r ett stort ansvar och kommer sannolikt inte att k&auml;nna sig lika delaktig i sj&auml;lva konferensen som övriga.
+N&auml;r antalet deltagare &auml;r fler &auml;n tjugo rekommenderar vi att ni skaffar n&aring;gon form av system för att n&aring; deltagarna snabbt och effektivt under konferensen. Det finns flera bra appar till mobilen som löser just detta och som dessutom m&aring;nga g&aring;nger har roliga funktioner för att kommunicera mellan alla deltagare med text och bild\!
 
-Reseledaren behöver ligga steget före under hela genomförandet – med ena ögat p&aring; klockan och det andra p&aring; programmet – för att se till att tider h&aring;lls samt att alla vet var n&auml;sta samlingsplats &auml;r. Om ni &auml;r en större grupp som ankommer med flyg bör den som leder resan vara p&aring; plats i förv&auml;g för att lokalisera var just er transferbuss v&auml;ntar.
+### Utv&auml;rdera en vecka efter hemkomst
 
-### Var beredd p&aring; förseningar
-
-Ta alltid höjd för att programpunkter som inbegriper förflyttning tar mer tid &auml;n man tror. Ni kommer med stor sannolikhet att f&aring; v&auml;nta p&aring; n&aring;gon som glömt sin mobil p&aring; hotellrummet eller som helt enkelt bara missat samlingstiden. Under rusningstid m&aring;ste man vara beredd p&aring; att tiderna kan variera &auml;nnu mer.
-
-Om ni anl&auml;nder fr&aring;n olika avreseorter och skall &aring;ka vidare bör ni ha fler &auml;n en transferbuss &auml;ven om flygen/t&aring;gen &auml;r planerade att komma in samtidigt. Skulle n&aring;gon grupp bli försenad kommer ni att ha en halvfull transferbuss st&aring;ende med deltagare som inget hellre vill &auml;n att köra iv&auml;g mot slutdestinationen – ingen bra start p&aring; deras konferensresa\!
+V&auml;l hemma bör ni som arrangerade och ledde resan be era kollegor om feedback. Dels kan det vara intressant för er att ta del av deras intryck och &aring;sikter, dels bör ni anv&auml;nda svaren som underlag n&auml;r ni planerar n&auml;sta konferensresa. &nbsp;Om alla har angivit att de tyckte det var för l&aring;ngt med en tredagars-resa kommer ni att f&aring; sv&aring;rt att f&aring; med alla p&aring; en lika l&aring;ng resa &aring;ret d&auml;rp&aring;.
 
 &nbsp;
 

@@ -1,5 +1,5 @@
 ---
-title: Tips för konferensresa - Förberedelser och Reseledning
+title: Tips för konferensresor - Förberedelser och Reseledning
 date: 2019-08-30 01:53:00 +0200
 description: >-
   Fick du just uppdraget av chefen att ordna företagets konferensresa? Det kan

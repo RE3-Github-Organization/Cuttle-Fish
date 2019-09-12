@@ -1,5 +1,5 @@
 ---
-title: Hantera konferensresan ekonomiskt
+title: Konferensresans ekonomi
 date: 2019-09-02 13:58:00 +0200
 description: >-
   Vi knyter ihop säcken med att ge lite tips kopplade till pengar och kostnader.

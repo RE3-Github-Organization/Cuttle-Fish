@@ -1,5 +1,5 @@
 ---
-title: Tips för konferensresor - Mat och Dryck
+title: Att äta och dricka under konferensresan
 date: 2019-09-02 00:00:00 +0200
 description: >-
   Höjdpunkt eller bottennapp? Få enskilda saker i en konferensresa betyder så
@@ -17,12 +17,6 @@ H&auml;r kommer ett par tips runt mat och dryck riktade till dig som skall sy ih
 Att samla in information g&auml;llande allergier och specialkost &auml;r en sak, men att s&auml;kerst&auml;lla att hotell och restauranger verkligen först&aring;r vad det inneb&auml;r &auml;r en helt annan sak. Kontrollera det med er kontaktperson samtidigt som ni tar reda p&aring; hur deras rutin &auml;r för att garantera att alla f&aring;r r&auml;tt mat n&auml;r ni v&auml;l s&auml;tter er till bords. Det &auml;r smart att ta reda p&aring; vad t ex ”laktos” och ”gluten” heter p&aring; det lokala spr&aring;ket.
 
 Ni m&aring;ste ocks&aring; försöka st&auml;mma av att alternativen som de med specialkost erbjuds h&aring;ller m&aring;tten. Vegetarianen blir nog inte imponerad om de helt enkelt bara tagit bort köttbiten och serverar en tallrik med potatis och s&aring;s.&nbsp;
-
-### T&auml;nk ansvarsfullt kring alkohol
-
-Vad &auml;r det som g&auml;ller kring alkohol under era konferensresor? Om ni ser konferensen som ett viktigt arbete bör ni besluta om alkohol skall accepteras innan dagens arbetspass &auml;r genomförda. Ni bör ocks&aring; försöka hitta en bra balans mellan vad som &auml;r vettigt att ni som företag bjuder p&aring; samtidigt som ni agerar ansvarsfullt. Vi rekommenderar att ni ber restaurangerna inkludera dryckespaket i menyerna som &auml;r ”lagom tilltagna” för att undvika att deltagarna sj&auml;lva ropar in vinflaska efter vinflaska.&nbsp;
-
-Kom ih&aring;g att det rent statistiskt finns ett antal av de anst&auml;llda som har n&aring;gon form av alkoholproblem. &Auml;gna en tanke &aring;t hur ni kan göra för att inte orsaka problem eller pinsamheter. Se d&auml;rför till att det alltid finns bra och trevligt presenterade alkoholfria alternativ inkluderade.
 
 ### Bjud p&aring; n&aring;got litet extra
 

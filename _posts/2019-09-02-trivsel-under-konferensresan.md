@@ -1,5 +1,5 @@
 ---
-title: Trivs med umgänget under konferensresan
+title: Trivsel under konferensresan
 date: 2019-09-02 13:42:00 +0200
 description: >-
   Finns det några knep kring hur man bäddar för ett trevligt arrangemang där

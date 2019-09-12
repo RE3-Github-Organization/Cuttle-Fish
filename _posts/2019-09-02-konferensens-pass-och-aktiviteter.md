@@ -1,5 +1,5 @@
 ---
-title: Konferenspass och aktiviteter
+title: Konferensens pass och aktiviteter
 date: 2019-09-02 13:33:00 +0200
 description: >-
   Hur sätter man ihop konferenspass, gruppövningar och trevliga aktiviteter på

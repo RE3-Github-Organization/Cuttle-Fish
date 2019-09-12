@@ -1,5 +1,5 @@
 ---
-title: Information före och under konferensresan
+title: Info före och under konferensresan
 date: 2019-09-02 13:17:00 +0200
 description: >-
   Har du startat upp planeringen av företagets konferensresa men är osäker på

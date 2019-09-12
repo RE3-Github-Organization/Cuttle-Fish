@@ -1,5 +1,5 @@
 ---
-title: Att äta och dricka under konferensresan
+title: Mat och dryck på konferensresan
 date: 2019-09-02 00:00:00 +0200
 description: >-
   Höjdpunkt eller bottennapp? Få enskilda saker i en konferensresa betyder så

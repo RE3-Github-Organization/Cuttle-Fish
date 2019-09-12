@@ -1,5 +1,5 @@
 ---
-title: Tips för konferensresor - Konferenspass och Aktiviteter
+title: Pass och aktiviteter under konferensresan
 date: 2019-09-02 13:33:00 +0200
 description: >-
   Hur sätter man ihop konferenspass, gruppövningar och trevliga aktiviteter på
@@ -15,13 +15,6 @@ H&auml;r kommer ett par tips runt konferenspass och aktiviteter riktade till dig
 Att f&aring; till en bra mix mellan konferensdelen och övriga aktiviteter kr&auml;ver en hel del tid och tankeverksamhet. M&aring;nga företag har en tendens att kl&auml;mma in s&aring; mycket i programmet att det l&auml;tt upplevs som v&auml;ldigt stressigt.
 
 Försök t&auml;nka kvalitet ist&auml;llet för kvantitet – det &auml;r b&auml;ttre med en riktigt bra aktivitet mellan konferenspassen &auml;n tv&aring; hyfsade. Det &auml;r trist att komma som förv&auml;ntansfull medarbetare och k&auml;nna att det &auml;r ett slarvigt, snabbt ihopkastat program av n&aring;gon som haft för lite tid. Man f&aring;r inte glömma att alla investerar i konferensen med sin egen tid.
-
-### Var kreativ runt konferenspassen
-
-Det &auml;r l&auml;tt att fastna i tanken att konfererandet skall starta först n&auml;r man kommit p&aring; plats och att det skall &auml;ga rum i typiska konferenslokaler men s&aring; behöver det absolut inte vara.
-
-* Varför inte starta konferensen redan p&aring; flygplatsen eller p&aring; centralstationen? Bjud p&aring; n&aring;got att &auml;ta och dricka, g&aring; igenom hela programmet och kör sedan första konferenspasset eller gruppövningen.
-* N&auml;r ni tittar p&aring; konferenslokaler, t&auml;nk p&aring; att man inte m&aring;ste h&aring;lla sig till vad hotellen erbjuder. Det &auml;r ofta det enklaste och billigaste alternativet men det finns m&aring;nga charmigare och betydligt mer inspirerande alternativ. Museum, zoo och andra turistm&aring;l har ofta möjlighet att erbjuda udda konferensmöjligheter.
 
 ### Hitta aktiviteter som passar alla
 

@@ -1,6 +1,6 @@
 ---
 title: Konferensresans ekonomi
-date: 2019-09-02 13:58:00 +0200
+date: 2020-01-21 10:30:00 +0100
 description: >-
   Vi knyter ihop säcken med att ge lite tips kopplade till pengar och kostnader.
   Att ni behöver sätta en budget känns nog ganska självklart, men hur bör den

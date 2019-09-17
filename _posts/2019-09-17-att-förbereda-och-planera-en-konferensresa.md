@@ -6,7 +6,7 @@ description: >-
   kännas lite svårt att veta var man skall börja för att få ihop allting till
   ett lyckat och minnesvärt arrangemang.
 image: /images/posts/istock-512627676.jpg
-cuttlefish_member: Mats
+cuttlefish_member: mats
 ---
 
 H&auml;r kommer ett par tips runt förberedelser och reseledning riktade till dig som skall sy ihop företagets konferensresa\!

@@ -6,7 +6,7 @@ description: >-
   hur deltagarna skall informeras? Vad måste de få reda på och vad kan du låta
   bli en överraskning?
 image: /images/posts/alexander-kunze-ulh71gtmz4g-unsplash-1.jpg
-cuttlefish_member: u
+cuttlefish_member: ulrika
 ---
 
 H&auml;r kommer ett par tips runt information och uppföljning riktade till dig som skall sy ihop företagets konferensresa\!

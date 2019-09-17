@@ -1,6 +1,6 @@
 ---
 title: Att förbereda och planera en konferensresa
-date: 2019-09-17 01:00:00 +0200
+date: 2019-09-16 01:00:00 +0200
 description: >-
   Fick du just uppdraget av chefen att ordna företagets konferensresa? Det kan
   kännas lite svårt att veta var man skall börja för att få ihop allting till

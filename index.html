@@ -53,7 +53,7 @@ layout: default
   <div class="content">
     <header>
       <!-- Editor Link -->
-      <a href="cloudcannon:collections/{{ tjanst.path }}" class="editor-link cms-editor-link">Redigera Tjänst</a>
+      <a href="cloudcannon:collections/{{ tjanst.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Tjänst</a>
       <h2>{{ tjanst.title}}</h2>
       <p>{{ tjanst.description }}</p>
     </header>
@@ -84,7 +84,7 @@ layout: default
           <h3>{{ medlem.namn }}</h3>
           <p>{{ medlem.bio_markdown | markdownify }}</p>
           <!-- Editor Link -->
-          <a href="cloudcannon:collections/{{ medlem.path }}" class="editor-link cms-editor-link">Redigera Profil</a>
+          <a href="cloudcannon:collections/{{ medlem.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Profil</a>
         </section>
         {% endif %}{% endfor %}
       </div>

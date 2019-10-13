@@ -8,8 +8,6 @@ image: /images/posts/tipsrundan-innandetbarav.jpg
 cuttlefish_member: lenabrorell
 ---
 
-&nbsp;
-
 Det finns en del störningsmoment som gör att resan kanske inte börjar s&aring; sm&auml;rtfritt som du skulle önska. V&auml;l fram p&aring; flygplatsen vill du att allt skall flyta p&aring; smidigt och enbart upplevas positivt.
 
 Hur ofta har du inte st&aring;tt och suckat i kön till s&auml;kerhetskontrollen över alla fel som andra gör? Har du kanske sj&auml;lv glömt plocka fram n&aring;gon hudkr&auml;m eller bara fumlat i största allm&auml;nhet och k&auml;nt att alla i kön st&aring;r och tittar p&aring; dig? Blicka ut över köerna och försök hitta den som ser ut att ha störst andel aff&auml;rsresen&auml;rer och utan barnfamiljer eller os&auml;kra förstag&aring;ngsresen&auml;rer\! &Aring;ker du fr&aring;n Arlanda s&aring; försök undvika att bli dirigerad upp till övre s&auml;kerhetskontrollen mot F-piren – den verkar alltid ta l&aring;ng tid.

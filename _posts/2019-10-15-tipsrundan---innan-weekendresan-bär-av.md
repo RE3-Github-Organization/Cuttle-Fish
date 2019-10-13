@@ -1,6 +1,6 @@
 ---
 title: Tipsrundan - Innan weekendresan bär av
-date: 2019-10-13 00:00:00 +0200
+date: 2019-10-15 00:00:00 +0200
 description: >-
   Tiden på en weekendresa är inte så lång men om du är lite smart och effektiv
   kan du göra resandet smidigare och undvika att ödsla bort värdefull tid.

@@ -36,4 +36,6 @@ Om planet &auml;r fullbokat och alla kabinv&auml;skor inte kan f&aring; plats s&
 
 &nbsp;
 
+*Har du n&aring;gra egna favorittips att dela med dig av? Skicka ett mail till oss p&aring; info\[at\]cuttlefish.se\!*
+
 &nbsp;

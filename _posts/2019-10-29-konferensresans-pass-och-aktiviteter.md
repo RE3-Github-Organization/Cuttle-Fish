@@ -1,6 +1,6 @@
 ---
 title: Konferensresans pass och aktiviteter
-date: 2019-10-29 10:30:00 +0100
+date: 2019-10-29 11:30:00 +0100
 description: >-
   Hur sätter man ihop konferenspass, gruppövningar och trevliga aktiviteter på
   ett bra sätt? Vad skall man tänka på när man skall få ihop programmet?

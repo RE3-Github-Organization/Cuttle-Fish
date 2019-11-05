@@ -1,6 +1,6 @@
 ---
 title: Jenny på egen hand i Amsterdam
-date:
+date: 2019-11-05 23:49:46 +0100
 description: >-
   Jag har länge velat åka till Amsterdam, då alla talat så väl om denna stad.
   Det har dock alltid fallit på att jag inte fått med någon vän då alla alltid

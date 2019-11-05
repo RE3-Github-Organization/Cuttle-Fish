@@ -1,5 +1,5 @@
 ---
-namn: Jennywester
+namn: Jenny Wester
 bio_markdown: >-
   Jenny har alltid gillat att resa. Oavsett om det &auml;r till st&auml;llen
   p&aring; andra sidan jordklotet för att uppleva nya sp&auml;nnande platser,
@@ -7,7 +7,7 @@ bio_markdown: >-
   till en n&auml;rliggande storstad för lite kultur och shopping. Och hittar hon
   ingen att resa med s&aring; packar hon helt sonika sin v&auml;ska och ger sig
   iv&auml;g sj&auml;lv\!
-kontakt:
+kontakt: info@cuttlefish.se
 link:
 image: /images/img-7460.jpg
 anstalld: false

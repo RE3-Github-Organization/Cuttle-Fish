@@ -7,7 +7,7 @@ description: >-
   har haft fullt upp med vardagspusslet. Så när jag nu i slutet av sommaren
   sprang på väldigt billiga flygbiljetter tänkte jag att, varför åker jag inte
   själv?
-image:
+image: /images/posts/27894863-xl.jpg
 cuttlefish_member: jennywester
 ---
 
@@ -33,8 +33,4 @@ L&aring;t inte drömmen om en viss resa inte bli av, bara för att du inte har n
 
 Roligt tips, vill du ha bra s&auml;llskap, s&auml;tt dig g&auml;rna med ett &auml;ldre amerikanskt par. Verkar aldrig sl&aring; fel, dom &auml;r mest sannolikt v&auml;ldigt v&auml;nliga och pratsamma\!
 
-Vill du ha fler tips p&aring; vad man ska t&auml;nka p&aring; s&aring; finns det massor av uppslag p&aring; n&auml;tet. N&aring;gra exempel &auml;r:
-
-[https://www.momondo.se/discover/artikel/tips-for-ensamresande](https://www.momondo.se/discover/artikel/tips-for-ensamresande){: target="_blank"}
-
-[https://www.baaam.se/9-tips-for-dig-som-ska-resa-ensam-pa-semestern](https://www.baaam.se/9-tips-for-dig-som-ska-resa-ensam-pa-semestern){: target="_blank"}
+&nbsp;

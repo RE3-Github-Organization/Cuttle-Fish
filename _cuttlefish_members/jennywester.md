@@ -9,6 +9,6 @@ bio_markdown: >-
   iv&auml;g sj&auml;lv\!
 kontakt: info@cuttlefish.se
 link:
-image: /images/img-7460-3.jpg
+image: /images/img-41621.jpg
 anstalld: false
 ---

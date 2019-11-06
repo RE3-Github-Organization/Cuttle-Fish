@@ -1,5 +1,5 @@
 ---
-title: Jenny på egen hand i Amsterdam
+title: Bland kanaler och cyklar
 date: 2019-11-05 23:49:00 +0100
 description: >-
   Jag har länge velat åka till Amsterdam, då alla talat så väl om denna stad.

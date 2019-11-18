@@ -9,7 +9,8 @@
               <img
                 src="{{ site.baseurl }}/images/insta/{{ post.detail.display_url }}"
                 data-gallery-source="{{ site.baseurl }}/assets/instagram/{{ post.detail.display_url }}"
-                alt="{{ post.detail.edge_media_to_caption.edges[0].node.text | strip_html }}" />
+                alt="{{ post.index.edge_media_to_caption.edges[0].node.text | strip_html }}"
+                title="{{ post.index.edge_media_to_caption.edges[0].node.text | strip_html }}" />
               </a>
             </li>
           {% endfor %}

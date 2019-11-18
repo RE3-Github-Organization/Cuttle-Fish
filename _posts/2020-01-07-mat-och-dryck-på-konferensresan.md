@@ -1,6 +1,6 @@
 ---
 title: Mat och dryck på konferensresan
-date: 2020-01-07 10:30:00 +0100
+date: 2020-01-07 07:30:00 +0100
 description: >-
   Höjdpunkt eller bottennapp? Få enskilda saker i en konferensresa betyder så
   mycket för den totala upplevelsen som alla luncher och middagar. Men på samma

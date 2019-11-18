@@ -1,6 +1,6 @@
 ---
 title: Trivsel under konferensresan
-date: 2019-11-26 10:30:00 +0100
+date: 2019-11-26 07:30:00 +0100
 description: >-
   Finns det några knep kring hur man bäddar för ett trevligt arrangemang där
   alla umgås och trivs? Vad behöver man tänka på för att deltagarna skall komma

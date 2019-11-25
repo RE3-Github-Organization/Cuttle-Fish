@@ -7,7 +7,7 @@ rm -f media/*.jpg
 rm -f /home/set/git/Cuttlefish-master/images/insta/*
 
 npm run instalib mirror instagram.yml 
-mogrify -resize 220 /home/set/git/Cuttlefish-master/_scripts/media/*.jpg
+mogrify -resize 300 /home/set/git/Cuttlefish-master/_scripts/media/*.jpg
 
 mv /home/set/git/Cuttlefish-master/_scripts/media/*.jpg /home/set/git/Cuttlefish-master/images/insta/
 mv /home/set/git/Cuttlefish-master/_scripts/instagram.yml /home/set/git/Cuttlefish-master/_data/

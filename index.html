@@ -1,7 +1,7 @@
 ---
-title: Upptäck världen och upptäck dig själv i den.
-description: 'Konferensresor, events och upplevelser för grupper.'
-image: /images/20160101-dsc2110.jpg
+title: Välskräddade resor och upplevelser – inga standardpaket
+description: description
+image: /images/denys-nevozhai-rrnbmipmtzy-unsplash.jpg
 hero_image: /images/cuttlefish_hero.svg
 layout: default
 ---
@@ -79,8 +79,7 @@ layout: default
         {% assign members = site.cuttlefish_members | sort: "namn" %}
         {% for medlem in members %}{% if medlem.anstalld == true %}
         <section class="col-4 col-6-medium col-12-xsmall">
-          <span class="icon alt major"
-            style="background-image:url({{ medlem.image }});background-repeat: no-repeat;"></span>
+          <span class="icon alt major" style="background-image:url({{ medlem.image }});background-repeat: no-repeat;"></span>
           <h3>{{ medlem.namn }}</h3>
           <p>{{ medlem.bio_markdown | markdownify }}</p>
           <!-- Editor Link -->

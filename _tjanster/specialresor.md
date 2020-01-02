@@ -1,10 +1,10 @@
 ---
 title: Specialresor
-description: Behöver du hjälp att sy ihop ditt livs resa?
+description: När du vill slippa svenskt kaffe på hotellet.
 image: /images/tjaenster/87171629-xl.jpg
 ---
 
-Text
+Behöver du hj&auml;lp att sy ihop ditt livs resa?
 
 &nbsp;
 

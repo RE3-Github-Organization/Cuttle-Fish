@@ -1,7 +1,7 @@
 ---
 title: Konferensresor
 description: 'Konferens, kick-off eller belöningsresa. Rätt upplevelse för din grupp.'
-image: /images/tjaenster/53102954-xl.jpg
+image: /images/tjaenster/58581326-xl-crop.jpg
 ---
 
 Text

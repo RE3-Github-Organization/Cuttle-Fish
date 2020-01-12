@@ -4,28 +4,28 @@ description: 'Konferens, kick-off eller belöningsresa. Rätt upplevelse för di
 image: /images/tjaenster/58581326-xl-crop.jpg
 ---
 
-Det &auml;r l&auml;tt att tro att det r&auml;cker med ett trevligt resm&aring;l och ett antal flygbiljetter och hotellrum för att f&aring; till en lyckad konferensresa. V&aring;r erfarenhet s&auml;ger oss dock att det &auml;r mycket som skall förberedas och att det &auml;r enkelt att göra sm&aring; missar som kan f&aring; stora konsekvenser. L&auml;s g&auml;rna guiden med v&aring;ra b&auml;sta tips, du kan ladda ner den som PDF h&auml;r:&nbsp;[www.cuttlefish.se/tips](https://www.cuttlefish.se/tips?ref=wwwTjansterKonferensresor){: target="_blank"}
+Det &auml;r l&auml;tt att tro att det r&auml;cker med ett trevligt resm&aring;l och ett antal flygbiljetter och hotellrum för att f&aring; till en lyckad konferensresa. V&aring;r erfarenhet s&auml;ger oss dock att det &auml;r mycket som skall förberedas och att det &auml;r enkelt att r&aring;ka göra sm&aring; missar som kan f&aring; stora konsekvenser. L&auml;s g&auml;rna guiden med v&aring;ra b&auml;sta tips till dig som skall arrangera er konferensresa – du kan ladda ner den som PDF h&auml;r:&nbsp;[www.cuttlefish.se/tips](https://www.cuttlefish.se/tips?ref=wwwTjansterKonferensresor){: target="_blank"}
 
-Vi anv&auml;nder vanligen termen "konferensresa" för gruppresor med företag men i detta inkluderar vi &auml;ven resor med syften som t ex belöning för avdelningen som slagit sina uppsatta m&aring;l, teambuilding/kick–off för projektteamet eller ett s&auml;ljande event med företagets samarbetspartners och &aring;terförs&auml;ljare.
+Vi anv&auml;nder oftast termen "konferensresa" för alla gruppresor med företag men i detta inkluderar vi &auml;ven resor med syften som t ex belöning för avdelningen som levererat över sina uppsatta m&aring;l. Hit r&auml;knar vi &auml;ven resor av typen teambuilding/kick–off för projektteamet eller ett fantastiskt event med företagets samarbetspartners och &aring;terförs&auml;ljare.
+
+V&aring;ra kunder blir inte serverade n&aring;gra f&auml;rdiga konferenspaket. De konferensresor vi erbjuder &auml;r genomg&aring;ende skr&auml;ddarsydda för att passa just ert företag och era önskem&aring;l till 100%, n&aring;got som inga f&auml;rdiga paket kan göra.
+
+#### Hur kan vi hj&auml;lpa dig?
+
+Vi h&aring;ller i tr&aring;darna runt planering och bokningar. Tillsammans med dig som kontaktperson för företaget skapar vi en perfekt upplevelse. V&aring;rt uppl&auml;gg ger dig möjlighet att fokusera p&aring; de viktiga bitarna runt konferenspass, grupparbeten och andra delar i ert program. Vi kan d&aring; stötta dig att f&aring; ihop logistiken, boka resor, hotell, v&auml;l anpassade aktiviteter och restauranger/middagar som ni kommer minnas l&aring;ngt efter hemkomst.
+
+Genom att du tillsammans med oss definierar syfte och m&aring;ls&auml;ttning med er resa kan vi hj&auml;lpa dig i arbetet mot att uppfylla – och övertr&auml;ffa – era förv&auml;ntningar.
+
+#### Genomförandet
+
+Vi arbetar tillsammans med dig som kontaktperson n&auml;r resan skall genomföras, antingen du vill h&aring;lla i allting och vi backar upp dig "bakom kulisserna" eller om du fokuserar p&aring; konferensdelarna medan v&aring;rt team leder resan och guidar runt resan. De flesta av v&aring;ra kunder vill kunna f&aring; alla sina anst&auml;llda att delta i programmet utan att n&aring;gra skall tvingas fastna i utmaningar runt logistik och förberedelser.
+
+Att leda en resa med fler &auml;n 20 deltagare &auml;r inte alltid en "walk in the park" och m&aring;nga g&aring;nger behöver man vara p&aring; fler st&auml;llen samtidigt. Dina kollegor kan verka resvana n&auml;r de sitter p&aring; lunch eller i fikarummet men vi &auml;r m&aring;nga som har uppt&auml;ckt genom &aring;ren att det kr&auml;vs en hel del stöd n&auml;r man skall resa med sina arbetskamrater.
+
+Beroende p&aring; resans uppl&auml;gg kan vi vid mindre företagsarrangemang förbereda allting s&aring; att du med hj&auml;lp av en kollega kan agera reseledning. Vi finns tillhands som backup ett telefonsamtal bort.
+
+#### Var börjar vi?&nbsp;
+
+Skicka ett mail till oss p&aring; adressen info@cuttlefish.se eller anv&auml;nd [kontaktformul&auml;ret](https://www.cuttlefish.se/#five). Vi tr&auml;ffar dig g&auml;rna över en kaffe för att lyssna p&aring; dig och se hur vi p&aring; b&auml;sta s&auml;tt kan stötta dig i din uppgift att ro iland en lyckad konferensresa\!
 
 &nbsp;
-
-#### Vad gör vi och vad gör du?
-
-Vi h&aring;ller i tr&aring;darna runt planeringen och tillsammans med dig som kontaktperson för företaget skapar vi en perfekt upplevelse
-
-Vid mindre företagsarrangemang kan vi förbereda s&aring; att du med hj&auml;lp av n&aring;gon kollega kan leda resan fr&aring;n start till slut
-
-&nbsp;
-
-I den b&auml;sta av v&auml;rldar &auml;r det s&auml;kert s&aring; men vi vet av erfarenhet att det tyv&auml;rr finns en hel del som kan f&aring; fel p&aring; v&auml;gen, b&aring;de kring logistiken och kring det praktiska kring sj&auml;lva konferensdelen.
-
-En viktig fr&aring;ga som vi tycker man bör st&auml;lla sig &auml;r vad vill man att resultatet av resan skall mynna ut i? B&aring;de fr&aring;n företagets sida och utifr&aring;n de anst&auml;lldas perspektiv.
-
-Om förv&auml;ntan inte st&auml;mmer överens innan man givit sig av kan man vara r&auml;tt s&auml;ker p&aring; att alla inte kommer att vara odelat positiva vid hemkomsten hellre.
-
-Har alla klart för sig vad syftet med resan &auml;r? Teambuilding inom reda f&auml;rdiga grupperingar eller ”mingla” och knyta banden över gr&auml;nserna? Hur ser balansen ut mellan nöje och arbete? Det &auml;r betydligt l&auml;ttare att f&aring; ned den perfekta agendan p&aring; pr&auml;nt &auml;n att faktiskt f&aring; den att fungera i praktiken.
-
-Detta &auml;r bara n&aring;gra av de fr&aring;gest&auml;llningar man m&aring;ste st&auml;lla sig och det &auml;r d&auml;r vi kommer in i bilden. Det tar tid att t&auml;nka ut b&aring;de plan B & C och det &auml;r nog tid som ni hellre vill l&auml;gga ned p&aring; det ni &auml;r bra p&aring; – att leda företaget.
-
-Det finns givetvis ytterligare fr&aring;gor och funderingar (b&aring;de sj&auml;lvklara och mindre uppenbara) och det diskuterar vi g&auml;rna vidare med er över en kopp kaffe p&aring; ert kontor\!

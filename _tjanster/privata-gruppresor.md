@@ -6,7 +6,25 @@ description: >-
 image: /images/tjaenster/people-sitting-beside-table-1679825-crop.jpg
 ---
 
-Text
+&nbsp;
+
+Födelsedagar f&aring;r faktiskt firas\!
+
+Har tanken slagit dig att kanske fira din speciella dag i avskildhet tillsammans med dina allra b&auml;sta v&auml;nner? Det har blivit allt vanligare att samla sina n&auml;rmaste kamrater eller sl&auml;kt för att &aring;ka iv&auml;g p&aring; en egen födelsedagsresa. Kanske &auml;r ni flera i g&auml;nget som fyller j&auml;mt samma &aring;r? Att fira med fler&nbsp;
+
+En chans att tr&auml;ffa&nbsp;
+
+Vi har tips till dig p&aring; b&aring;de bra resm&aring;l och hur du skall l&auml;gga upp din resa s&aring; att det blir en lagom mix mellan gemensamma aktiviteter
+
+Sj&auml;lvhush&aring;ll, villa
+
+&nbsp;
+
+Fira femtio&aring;rsdagen&nbsp;
+
+Att resa med kompisg&auml;nget
+
+&nbsp;
 
 &nbsp;
 

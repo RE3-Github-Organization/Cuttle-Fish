@@ -8,15 +8,19 @@ image: /images/tjaenster/people-sitting-beside-table-1679825-crop.jpg
 
 &nbsp;
 
-Födelsedagar f&aring;r faktiskt firas\!
+Har tanken slagit dig att kanske fira din speciella dag i avskildhet tillsammans med dina allra b&auml;sta v&auml;nner? Födelsedagar f&aring;r faktiskt firas\! Det har blivit allt vanligare att samla sina n&auml;rmaste kamrater eller sl&auml;kt för att &aring;ka iv&auml;g p&aring; en egen födelsedagsresa. Kanske &auml;r ni flera i kompisg&auml;nget som fyller j&auml;mt samma &aring;r?
 
-Har tanken slagit dig att kanske fira din speciella dag i avskildhet tillsammans med dina allra b&auml;sta v&auml;nner? Det har blivit allt vanligare att samla sina n&auml;rmaste kamrater eller sl&auml;kt för att &aring;ka iv&auml;g p&aring; en egen födelsedagsresa. Kanske &auml;r ni flera i g&auml;nget som fyller j&auml;mt samma &aring;r? Att fira med fler&nbsp;
+Det &auml;r fantastiskt kul att kunna &aring;ka p&aring; en resa tillsammans med sina v&auml;nner, att dela p&aring; ett stort hus med pool eller en centralt placerad stor l&auml;genhet d&auml;r alla kan umg&aring;s till l&aring;ngt in p&aring; natten.
 
-En chans att tr&auml;ffa&nbsp;
+#### Tag med barn och barnbarn till &auml;ventyret
 
-Vi har tips till dig p&aring; b&aring;de bra resm&aring;l och hur du skall l&auml;gga upp din resa s&aring; att det blir en lagom mix mellan gemensamma aktiviteter
+Har du alla vaser du önskar dig men saknar mer tid med barn och barnbarn? Vi hj&auml;lper dig ordna en resa speciellt för dig och dina n&auml;rmaste d&auml;r ni f&aring;r tid att umg&aring;s under h&auml;rliga förh&aring;llanden.
 
-Sj&auml;lvhush&aring;ll, villa
+Fr&aring;n oss f&aring;r du rekommendationer p&aring; riktigt bra resm&aring;l för just ditt s&auml;llskap, med bra reseförbindelser och som erbjuder det uppl&auml;gg du söker för din resa.
+
+Vi har tips till dig p&aring; b&aring;de bra resm&aring;l med förbindelser som funkar för alla resen&auml;rer och hur du skall l&auml;gga upp din resa s&aring; att det blir en lagom mix mellan gemensamma aktiviteter
+
+&nbsp;
 
 &nbsp;
 

@@ -4,11 +4,27 @@ description: 'Konferens, kick-off eller belöningsresa. Rätt upplevelse för di
 image: /images/tjaenster/58581326-xl-crop.jpg
 ---
 
-Text
+Det &auml;r l&auml;tt att tro att det r&auml;cker med ett trevligt resm&aring;l och ett antal hotellrum för att f&aring; till en lyckad konferensresa. V&aring;r erfarenhet s&auml;ger oss dock att det &auml;r mycket som skall förberedas och att det &auml;r enkelt att göra missar som kan förstöra mycket.
+
+L&auml;s g&auml;rna guiden med v&aring;ra b&auml;sta tips, du kan ladda ner den h&auml;r:[www.cuttlefish.se/tips](https://www.cuttlefish.se/tips?ref=wwwTjansterKonferensresor)
 
 &nbsp;
 
-Det &auml;r l&auml;tt att tro att det r&auml;cker med ett trevligt resm&aring;l och en v&auml;l sammansatt agenda för att f&aring; till en lyckad konferens. I den b&auml;sta av v&auml;rldar &auml;r det s&auml;kert s&aring; men vi vet av erfarenhet att det tyv&auml;rr finns en hel del som kan f&aring; fel p&aring; v&auml;gen, b&aring;de kring logistiken och kring det praktiska kring sj&auml;lva konferensdelen.
+&nbsp;
+
+Vi anv&auml;nder vanligen termen "konferensresa" för gruppresor med företag men&nbsp;
+
+&auml;r l&auml;tt att missa.
+
+&nbsp;
+
+Vi h&aring;ller i tr&aring;darna runt planeringen och tillsammans med dig som kontaktperson för företaget skapar vi en perfekt upplevelse
+
+Vid mindre företagsarrangemang kan vi förbereda s&aring; att du med hj&auml;lp av n&aring;gon kollega kan leda resan fr&aring;n start till slut
+
+&nbsp;
+
+I den b&auml;sta av v&auml;rldar &auml;r det s&auml;kert s&aring; men vi vet av erfarenhet att det tyv&auml;rr finns en hel del som kan f&aring; fel p&aring; v&auml;gen, b&aring;de kring logistiken och kring det praktiska kring sj&auml;lva konferensdelen.
 
 En viktig fr&aring;ga som vi tycker man bör st&auml;lla sig &auml;r vad vill man att resultatet av resan skall mynna ut i? B&aring;de fr&aring;n företagets sida och utifr&aring;n de anst&auml;lldas perspektiv.
 

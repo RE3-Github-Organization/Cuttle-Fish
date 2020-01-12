@@ -4,19 +4,13 @@ description: 'Konferens, kick-off eller belöningsresa. Rätt upplevelse för di
 image: /images/tjaenster/58581326-xl-crop.jpg
 ---
 
-Det &auml;r l&auml;tt att tro att det r&auml;cker med ett trevligt resm&aring;l och ett antal hotellrum för att f&aring; till en lyckad konferensresa. V&aring;r erfarenhet s&auml;ger oss dock att det &auml;r mycket som skall förberedas och att det &auml;r enkelt att göra missar som kan förstöra mycket.
+Det &auml;r l&auml;tt att tro att det r&auml;cker med ett trevligt resm&aring;l och ett antal flygbiljetter och hotellrum för att f&aring; till en lyckad konferensresa. V&aring;r erfarenhet s&auml;ger oss dock att det &auml;r mycket som skall förberedas och att det &auml;r enkelt att göra sm&aring; missar som kan f&aring; stora konsekvenser. L&auml;s g&auml;rna guiden med v&aring;ra b&auml;sta tips, du kan ladda ner den som PDF h&auml;r:[www.cuttlefish.se/tips](https://www.cuttlefish.se/tips?ref=wwwTjansterKonferensresor){: target="_blank"}
 
-L&auml;s g&auml;rna guiden med v&aring;ra b&auml;sta tips, du kan ladda ner den h&auml;r:[www.cuttlefish.se/tips](https://www.cuttlefish.se/tips?ref=wwwTjansterKonferensresor)
-
-&nbsp;
+Vi anv&auml;nder vanligen termen "konferensresa" för gruppresor med företag men i detta inkluderar vi &auml;ven resor med syften som t ex belöning för avdelningen som slagit sina uppsatta m&aring;l, teambuilding/kick–off för projektteamet eller ett s&auml;ljande event med företagets samarbetspartners och &aring;terförs&auml;ljare.
 
 &nbsp;
 
-Vi anv&auml;nder vanligen termen "konferensresa" för gruppresor med företag men&nbsp;
-
-&auml;r l&auml;tt att missa.
-
-&nbsp;
+#### Vad gör vi och vad gör du?
 
 Vi h&aring;ller i tr&aring;darna runt planeringen och tillsammans med dig som kontaktperson för företaget skapar vi en perfekt upplevelse
 

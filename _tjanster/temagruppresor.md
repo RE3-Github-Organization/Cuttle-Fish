@@ -6,7 +6,7 @@ image: /images/tjaenster/34183073-xl-crop.jpg
 
 Temagruppresor &auml;r v&aring;rt namn p&aring; de gruppresor som &auml;r öppna för anm&auml;lan av nya resen&auml;rer. V&aring;ra olika teman varierar ordentligt, det enda gemensamma &auml;r att en temagruppresa skall ledas av en guide som verkligen vet sina saker.
 
-Cuttlefish samarbetar med flera guider och reseledare som besitter speciella kunskaper, f&auml;rdigheter och kontakter för att arrangera unika resor inom s&auml;rskilda intresseomr&aring;den. N&aring;gra exempel &auml;r t ex:
+Cuttlefish samarbetar med guider och reseledare som besitter speciella kunskaper, f&auml;rdigheter och kontakter för att arrangera unika resor inom s&auml;rskilda intresseomr&aring;den. N&aring;gra exempel &auml;r t ex:
 
 * Tr&auml;ningsresor tillammans med personliga tr&auml;nare
 * Dykresor med erfarna dykguider

@@ -16,7 +16,7 @@ Vi p&aring; Cuttlefish hj&auml;lper dig att skapa en plan och realisera den utan
 
 #### Tag med barn och barnbarn till &auml;ventyret
 
-Gör sl&auml;ktkalaset till n&aring;got mer &auml;n en middag denna g&aring;ng\! Vi hj&auml;lper dig som g&auml;rna skulle vilja f&aring; chansen att umg&aring;s med barn och barnbarn under ett par dagar p&aring; ett h&auml;rligt resm&aring;l d&auml;r ni verkligen f&aring;r tid att umg&aring;s.
+Gör sl&auml;ktkalaset till n&aring;got mer &auml;n en middag denna g&aring;ng\! Vi hj&auml;lper dig som g&auml;rna skulle vilja f&aring; chansen att umg&aring;s med barn och barnbarn under ett par dagar p&aring; ett h&auml;rligt resm&aring;l d&auml;r ni f&aring;r tid att umg&aring;s.
 
 Fr&aring;n oss f&aring;r du rekommendationer p&aring; riktigt bra resm&aring;l för just ditt s&auml;llskap, med bra reseförbindelser och som erbjuder det uppl&auml;gg du söker för din resa. Familjen f&aring;r tillf&auml;lle att b&aring;de umg&aring;s tillsammans men ocks&aring; f&aring; lite tid sj&auml;lva för&nbsp;
 

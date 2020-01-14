@@ -14,7 +14,7 @@ Cuttlefish samarbetar med guider och reseledare som besitter speciella kunskaper
 
 #### Aktuella temagruppresor
 
-*Vi har för tillf&auml;llet inga öppna temagruppresor.*
+*Vi har för tillf&auml;llet inga öppna temagruppresor planerade.*
 
 Saknar du n&aring;gon speciell resa som du vill efterlysa? Har du sj&auml;lv ett specialomr&aring;de inom vilket du skulle vilja arrangera en gruppresa? Hör av dig till oss, vi vill g&auml;rna diskutera olika id&eacute;er och förslag p&aring; en temagruppresa med dig\!
 

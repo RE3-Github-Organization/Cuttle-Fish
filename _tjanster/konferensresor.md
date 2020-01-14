@@ -4,9 +4,9 @@ description: 'Konferens, kick-off eller belöningsresa. Rätt upplevelse för di
 image: /images/tjaenster/58581326-xl-crop.jpg
 ---
 
-Det &auml;r l&auml;tt att tro att det r&auml;cker med ett trevligt resm&aring;l och ett antal flygbiljetter och hotellrum för att f&aring; till en lyckad konferensresa. V&aring;r erfarenhet s&auml;ger oss dock att det &auml;r mycket som skall förberedas och att det &auml;r enkelt att r&aring;ka göra sm&aring; missar som kan f&aring; stora konsekvenser. L&auml;s g&auml;rna guiden med v&aring;ra b&auml;sta tips till dig som skall arrangera er konferensresa – du kan ladda ner den som PDF h&auml;r:&nbsp;[www.cuttlefish.se/tips](https://www.cuttlefish.se/tips?ref=wwwTjansterKonferensresor){: target="_blank"}
+Det &auml;r l&auml;tt att tro att det r&auml;cker med ett trevligt resm&aring;l, lite flygbiljetter och n&aring;gra hotellrum för att f&aring; till en lyckad konferensresa. V&aring;r erfarenhet s&auml;ger oss dock att det &auml;r mycket som skall förberedas och att det &auml;r enkelt att r&aring;ka göra sm&aring; missar som kan f&aring; stora konsekvenser. L&auml;s g&auml;rna guiden med v&aring;ra b&auml;sta tips till dig som skall arrangera er konferensresa – du kan ladda ner den som PDF h&auml;r:&nbsp;[www.cuttlefish.se/tips](https://www.cuttlefish.se/tips?ref=wwwTjansterKonferensresor){: target="_blank"}
 
-Vi anv&auml;nder oftast termen "konferensresa" för alla gruppresor med företag men i detta inkluderar vi &auml;ven resor med syften som t ex belöning för avdelningen som levererat över sina uppsatta m&aring;l. Hit r&auml;knar vi &auml;ven resor av typen teambuilding/kick–off för projektteamet eller ett fantastiskt event med företagets samarbetspartners och &aring;terförs&auml;ljare.
+Den engelska termen "M.I.C.E." anv&auml;nds internationellt för arrangemang och resor som vi erbjuder företagsmarknaden. Sj&auml;lva anv&auml;nder vi oftast begreppet "konferensresa" för alla resor/events med företag, men i detta inkluderar vi &auml;ven resor med rena belöningssyften som t ex för avdelningen som levererat högt över sina uppsatta m&aring;l. Det kan &auml;ven vara resor av typen teambuilding/kick–off för projektteamet eller ett fantastiskt event med företagets samarbetspartners och &aring;terförs&auml;ljare.
 
 V&aring;ra kunder blir inte serverade n&aring;gra f&auml;rdiga konferenspaket. De konferensresor vi erbjuder &auml;r genomg&aring;ende skr&auml;ddarsydda för att passa just ert företag och era önskem&aring;l till 100%, n&aring;got som inga f&auml;rdiga paket kan göra.
 
@@ -18,11 +18,11 @@ Genom att du tillsammans med oss definierar syfte och m&aring;ls&auml;ttning med
 
 #### Genomförandet
 
-Vi arbetar tillsammans med dig som kontaktperson n&auml;r resan skall genomföras, antingen du vill h&aring;lla i allting och vi backar upp dig "bakom kulisserna" eller om du fokuserar p&aring; konferensdelarna medan v&aring;rt team leder resan och guidar runt resan. De flesta av v&aring;ra kunder vill kunna f&aring; alla sina anst&auml;llda att delta i programmet utan att n&aring;gra skall tvingas fastna i utmaningar runt logistik och förberedelser.
+Vi arbetar tillsammans med dig som kontaktperson n&auml;r resan skall genomföras, antingen du vill h&aring;lla i allting och vi backar upp dig "bakom kulisserna" eller om du fokuserar p&aring; konferensdelarna medan v&aring;rt team leder och guidar deltagarna runt alla praktiska detaljer. Vi tycker att det &auml;r viktigt att samtliga anst&auml;llda f&aring;r chans att delta i programmet utan att behöva fastna i utmaningar runt logistik, förberedelser och att ge service till sina kollegor.
 
-Att leda en resa med fler &auml;n 20 deltagare &auml;r inte alltid en "walk in the park" och m&aring;nga g&aring;nger behöver man vara p&aring; fler st&auml;llen samtidigt. Dina kollegor kan verka resvana n&auml;r de sitter p&aring; lunch eller i fikarummet men vi &auml;r m&aring;nga som har uppt&auml;ckt genom &aring;ren att det kr&auml;vs en hel del stöd n&auml;r man skall resa med sina arbetskamrater.
+Att leda en resa med fler &auml;n 20 deltagare &auml;r inte alltid en "walk in the park" och m&aring;nga g&aring;nger behöver man vara p&aring; fler st&auml;llen samtidigt. Dina kollegor kan verka resvana n&auml;r de sitter p&aring; lunch eller i fikarummet men vi &auml;r m&aring;nga som genom &aring;ren har uppt&auml;ckt att det kr&auml;vs en hel del stöd n&auml;r man skall resa med sina arbetskamrater.
 
-Beroende p&aring; resans uppl&auml;gg kan vi vid mindre företagsarrangemang förbereda allting s&aring; att du med hj&auml;lp av en kollega kan agera reseledning. Vi finns tillhands som backup ett telefonsamtal bort.
+Beroende p&aring; resans uppl&auml;gg kan vi vid s&auml;rskilda mindre företagsarrangemang förbereda allting s&aring; att du och en kollega kan agera reseledare.
 
 #### Var börjar vi?&nbsp;
 

@@ -1,6 +1,8 @@
 ---
 title: Temagruppresor
-description: Tillsammans med erfarna reseledare och guider med specialkunskap.
+description: >-
+  Arrangerade i samarbete med erfarna reseledare och guider med djup
+  områdeskunskap.
 image: /images/tjaenster/34183073-xl-crop.jpg
 ---
 

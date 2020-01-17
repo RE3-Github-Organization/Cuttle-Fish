@@ -12,9 +12,9 @@ V&aring;ra kunder blir inte serverade n&aring;gra f&auml;rdiga konferenspaket. D
 
 #### Hur kan vi hj&auml;lpa dig?
 
-Vi h&aring;ller i tr&aring;darna runt planering och bokningar. Tillsammans med dig som kontaktperson för företaget skapar vi en perfekt upplevelse. V&aring;rt uppl&auml;gg ger dig möjlighet att fokusera p&aring; de viktiga bitarna runt konferenspass, grupparbeten och andra delar i ert program. Vi kan d&aring; stötta dig att f&aring; ihop logistiken, boka resor, hotell, v&auml;l anpassade aktiviteter och restauranger/middagar som ni kommer minnas l&aring;ngt efter hemkomst.
+Vi h&aring;ller i tr&aring;darna runt planering och bokningar. Tillsammans med dig som kontaktperson för företaget skapar vi en perfekt upplevelse. V&aring;rt uppl&auml;gg ger dig möjlighet att fokusera p&aring; de viktiga bitarna runt konferenspass, grupparbeten och övriga delar i ert program. Vi kan d&aring; stötta dig att f&aring; ihop logistiken, boka resor, hotell, v&auml;l anpassade aktiviteter och restauranger/middagar som ni kommer minnas l&aring;ngt efter hemkomst.
 
-Genom att du tillsammans med oss definierar syfte och m&aring;ls&auml;ttning med er resa kan vi hj&auml;lpa dig i arbetet mot att uppfylla – och övertr&auml;ffa – era förv&auml;ntningar.
+Genom att du tillsammans med oss definierar syfte och m&aring;ls&auml;ttning med er resa kan vi hj&auml;lpa dig i arbetet med att uppfylla – och övertr&auml;ffa – era förv&auml;ntningar.
 
 #### Genomförandet
 
@@ -26,6 +26,6 @@ Beroende p&aring; resans uppl&auml;gg kan vi vid s&auml;rskilda mindre företags
 
 #### Var börjar vi?&nbsp;
 
-Skicka ett mail till oss p&aring; adressen info@cuttlefish.se eller anv&auml;nd [kontaktformul&auml;ret](https://www.cuttlefish.se/#five). Vi tr&auml;ffar dig g&auml;rna över en kaffe för att lyssna p&aring; dig och se hur vi p&aring; b&auml;sta s&auml;tt kan stötta dig i din uppgift att ro iland en lyckad konferensresa\!
+Skicka ett mail till oss p&aring; adressen info@cuttlefish.se eller anv&auml;nd [kontaktformul&auml;ret](https://www.cuttlefish.se/#five). Vi tr&auml;ffar dig g&auml;rna över en kaffe för att lyssna p&aring; dig och se hur vi p&aring; b&auml;sta s&auml;tt kan hj&auml;lpa dig i din uppgift att ro iland en lyckad konferensresa\!
 
 &nbsp;

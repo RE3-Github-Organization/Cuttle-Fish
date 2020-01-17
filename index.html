@@ -1,7 +1,9 @@
 ---
-title: Upptäck världen och upptäck dig själv i den.
-description: 'Konferensresor, events och upplevelser för grupper.'
-image: /images/20160101-dsc2110.jpg
+title: Välskräddade resor och upplevelser
+description: >-
+  Inga standardpaket – bara riktigt skräddarsydda resor för företag, grupper och
+  privata sällskap.
+image: /images/denys-nevozhai-rrnbmipmtzy-unsplash.jpg
 hero_image: /images/cuttlefish_hero.svg
 layout: default
 ---
@@ -25,21 +27,15 @@ layout: default
       <div class="row">
         <div class="editable col-4 col-12-medium">
           <header>
-            <h2>Konstruktiva Resor</h2>
-            <p>Uppt&auml;cktsf&auml;rder m&aring;ste vara givande!</p>
+            <h2>Skr&auml;ddarsydda Resor</h2>
+            <p>N&auml;r din upplevelse inte g&aring;r att best&auml;lla ur en resekatalog.</p>
           </header>
         </div>
         <div class="editable col-4 col-12-medium">
-          <p>Cuttlefish startades 2016 f&ouml;r att erbjuda f&ouml;retag och grupper resor och konferenser som
-            &ouml;vertr&auml;ffar f&ouml;rv&auml;ntningarna. Ut&ouml;ver oss som arbetar aktivt i Cuttlefish har vi ett
-            n&auml;tverk av erfarna tjejer och killar som &auml;r erfarna arrang&ouml;rer och som vet vad som funkar -
-            samt vilka fallgroparna &auml;r och hur man undviker dem!</p>
+          <p>P&aring; Cuttlefish &auml;r vi inte n&ouml;jda f&ouml;rr&auml;n ni har f&aring;tt den upplevelse ni f&ouml;rtj&auml;nar. Vare sig det g&auml;ller en konferensresa med hela f&ouml;retaget, kickoff med projektteamet eller den exotiska veckan med n&auml;rmaste v&auml;nnerna.</p>
         </div>
         <div class="editable col-4 col-12-medium">
-          <p>Med hj&auml;lp av v&aring;r gemensamma erfarenhetsbas skapar vi tillsammans&nbsp; konferensen, upplevelsen
-            eller eventet som blir den fullpo&auml;ngare v&aring;ra kunder &auml;r ute efter.</p>
-          <p><b>Sl&aring; oss en signal och l&aring;t oss f&aring; ber&auml;tta mer om hur vi jobbar och varf&ouml;r vi
-              tror att vi kan hj&auml;lpa er!</b></p>
+          <p><b>H&ouml;r av dig till oss f&ouml;r en diskussion runt hur vi kan hj&auml;lpa just dig att hitta just din upplevelse.</b></p>
         </div>
       </div>
     </div>
@@ -79,8 +75,7 @@ layout: default
         {% assign members = site.cuttlefish_members | sort: "namn" %}
         {% for medlem in members %}{% if medlem.anstalld == true %}
         <section class="col-4 col-6-medium col-12-xsmall">
-          <span class="icon alt major"
-            style="background-image:url({{ medlem.image }});background-repeat: no-repeat;"></span>
+          <span class="icon alt major" style="background-image:url({{ medlem.image }});background-repeat: no-repeat;"></span>
           <h3>{{ medlem.namn }}</h3>
           <p>{{ medlem.bio_markdown | markdownify }}</p>
           <!-- Editor Link -->

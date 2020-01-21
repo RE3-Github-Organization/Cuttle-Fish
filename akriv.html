@@ -1,0 +1,38 @@
+---
+title: Tips- och inläggsakriv från Cuttlefish
+description: 'Alla våra poster om olika resemål, tips och knep som vi vet du kan ha nytta av.'
+permalink: /arkiv/
+---
+
+
+<!-- Main -->
+  <div id="main" class="wrapper style1">
+    <div class="container">
+      <header class="major editable">
+        <h2>Tips- och inläggsakriv från Cuttlefish</h2>
+        <p>H&auml;r nedan finner du alla konkreta tips, inspirerande artiklar och skildringar fr&aring;n olika delar av v&auml;rlden vi skrivit igenom tiden!</p>
+      </header>
+      <!-- Image -->
+      <section>
+        <div class="box alt">
+          <div class="row gtr-50 gtr-uniform">
+            {% for post in site.posts %}
+            <div class="col-4 col-6-xsmall#" style="flex: 1 1 400px;"><a href="{{ post.url}}"><span class="image fit"><img src="{{ post.image }}" alt="{{ post.title }}" /></span></a>
+              <h3>{{ post.title }}</h3>
+              <p>{{ post.date | date: "%a, %b %d, %Y" }}</p>
+              <p>{{ post.description }}</p>
+              <ul class="actions">
+                <li>
+                  <a href="{{ post.url }}" class="button primary">Läs mer</a>
+                </li>
+              </ul>
+              <!-- Editor Link -->
+              <a href="cloudcannon:collections/{{ post.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Post</a>
+            </div>
+            {% endfor %}
+
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>

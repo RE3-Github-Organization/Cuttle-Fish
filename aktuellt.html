@@ -3,7 +3,8 @@ title: Aktuellt från Cuttlefish
 description: 'Resmål och restips, nyheter och erbjudanden.'
 permalink: /aktuellt/
 ---
-{% for post in site.posts limit: 1%}
+
+{% for post in site.posts limit: 1 %}
 <section id="banner" style="background-image: url('{{ post.image }}');height: calc(100% - 40px);">
   <div class="content">
     <header style="background-color: rgba(230, 255, 230, 0.75);">
@@ -15,7 +16,7 @@ permalink: /aktuellt/
       <p>{{ post.description | truncatewords: '20' }} </p>
       <br />
       
-        Publicerad: {{ post.date | date: '%Y-%m-%d' }}<br /></p>
+        Publicerad: {{ post.date | date: '%Y-%m-%d' }}<br /><p></p>
         <a href="{{ post.url }}" class="button primary">Läs mer</a>
       
     </header>
@@ -28,16 +29,15 @@ permalink: /aktuellt/
   <div id="main" class="wrapper style1">
     <div class="container">
       <header class="major editable">
-        <h2>Att resa från stockholm med sitt företag ska vara lärorikt!</h2>
-        <p>Här hittar du en samling artiklar och revyer om jordens olika inspirationshörn.</p>
+        <h2>Upplev v&auml;rlden och hitta dig sj&auml;lv i den!</h2>
+        <p>H&auml;r nedan finner du konkreta tips, inspirerande artiklar och skildringar fr&aring;n olika delar av v&auml;rlden!</p>
       </header>
       <!-- Image -->
       <section>
         <div class="box alt">
           <div class="row gtr-50 gtr-uniform">
-            {% for post in site.posts limit:10 %}
-            <div class="col-4 col-6-xsmall#" style="flex: 1 1 400px;"><a href="{{ post.url}}"><span
-                  class="image fit"><img src="{{ post.image }}" alt="{{ post.title }}" /></span></a>
+            {% for post in site.posts limit: 5 %}
+            <div class="col-4 col-6-xsmall#" style="flex: 1 1 400px;"><a href="{{ post.url}}"><span class="image fit"><img src="{{ post.image }}" alt="{{ post.title }}" /></span></a>
               <h3>{{ post.title }}</h3>
               <p>{{ post.date | date: "%a, %b %d, %Y" }}</p>
               <p>{{ post.description }}</p>
@@ -50,7 +50,18 @@ permalink: /aktuellt/
               <a href="cloudcannon:collections/{{ post.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Post</a>
             </div>
             {% endfor %}
-
+            <div class="col-4 col-6-xsmall#" style="flex: 1 1 400px;"><a href="/arkiv/"><span class="image fit"><img src="/images/arkiv.jpg" alt="{{ post.title }}" /></span></a>
+              <h3>Arkiv</h3>
+              
+              <p>Läs alla våra tips och inlägg</p>
+              <ul class="actions">
+                <li>
+                  <a href="/arkiv/" class="button primary">Gå till arkivet</a>
+                </li>
+              </ul>
+              <!-- Editor Link -->
+              <a href="cloudcannon:collections/{{ post.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Post</a>
+            </div>
           </div>
         </div>
       </section>

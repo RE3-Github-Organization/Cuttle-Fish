@@ -76,15 +76,15 @@ cuttlefish_members:
     </header>
     <div class="box alt">
       <div class="row gtr-uniform">
-        {% for artist_name in page.cuttlefish_members %} {% for artist in site.cuttlefish_members %} {% capture name -%}
-        {{ artist.relative_path | replace_first: artist.collection, '' | replace_first: '_/', '' | replace_first: '.md', '' }}
-        {%- endcapture %} {% if name == artist_name %}
+        {% for member_name in page.cuttlefish_members %} {% for member in site.cuttlefish_members %} {% capture name -%}
+        {{ member.relative_path | replace_first: member.collection, '' | replace_first: '_/', '' | replace_first: '.md', '' }}
+        {%- endcapture %} {% if name == member_name %}
         <section class="col-4 col-6-medium col-12-xsmall">
-          <span class="icon alt major" style="background-image:url({{ artist.image }});background-repeat: no-repeat;"></span>
-          <h3>{{ artist.namn }}</h3>
-          <p>{{ artist.bio_markdown | markdownify }}</p>
+          <span class="icon alt major" style="background-image:url({{ member.image }});background-repeat: no-repeat;"></span>
+          <h3>{{ member.namn }}</h3>
+          <p>{{ member.bio_markdown | markdownify }}</p>
           <!-- Editor Link -->
-          <a href="cloudcannon:collections/{{ artist.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Profil</a>
+          <a href="cloudcannon:collections/{{ member.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Profil</a>
         </section>
         {% break %} {% endif %} {% endfor %} {% endfor %}
       </div>

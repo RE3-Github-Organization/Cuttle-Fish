@@ -14,8 +14,9 @@
                     {%- endcapture %} 
                     {% if name == tjanst_name %}
                     <li><a href="{{ tjanst.url }}">{{ tjanst.title }}</a></li>
-                    <li class="editor-link cms-editor-link"><a href="cloudcannon:data/tjansteprio.yml" rel="nofollow" class="editor-link cms-editor-link">Redigera Profil</a></li>
+                    
                     {% break %} {% endif %} {% endfor %} {% endfor %}
+                    <li class="editor-link cms-editor-link"><a href="cloudcannon:datum/tjansteprio.yml" rel="nofollow" class="editor-link cms-editor-link">Redigera ordning</a></li>
                   </ul>
               <li><a href="/aktuellt/">Aktuellt</a></li>
               <li><a href="/#five" class="button primary">Kontakta oss</a></li>

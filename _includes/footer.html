@@ -1,6 +1,6 @@
   <!-- Footer -->
   <footer id="footer">
-    {% if page.collection != 'landing_pages' %}
+    {% if page.collection != 'landing_pages' and page.collection != 'posts' %}
       <h2>Instagram inlägg</h2>
       <ul id="instagram">
           {% for post in site.data.instagram limit: 5 %}

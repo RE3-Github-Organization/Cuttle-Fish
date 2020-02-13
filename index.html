@@ -5,6 +5,10 @@ description: >-
   privata sällskap.
 image: /images/denys-nevozhai-rrnbmipmtzy-unsplash.jpg
 hero_image: /images/cuttlefish_hero.svg
+cuttlefish_members:
+  - mats
+  - ulrika
+  - ny-rekryt 
 layout: default
 ---
 
@@ -42,7 +46,12 @@ layout: default
   </div>
 
 </section>
-{% for tjanst in site.tjanster %}
+{% for tjanst_name in site.data.tjansteprio.tjanster %} 
+{% for tjanst in site.tjanster %} 
+{% capture name -%}
+{{ tjanst.relative_path | replace_first: tjanst.collection, '' | replace_first: '_/', '' | replace_first: '.md', '' }}
+{%- endcapture %} 
+{% if name == tjanst_name %}
 <!-- Two -->
 <section class="spotlight style1 {% cycle 'right', 'left' %}">
   <span class="image fit main"><img src="{{ tjanst.image }}" alt="{{ tjanst.title }}" /></span>
@@ -50,6 +59,7 @@ layout: default
     <header>
       <!-- Editor Link -->
       <a href="cloudcannon:collections/{{ tjanst.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Tjänst</a>
+      <a href="cloudcannon:collections/_data/tjansteprio.yml" rel="nofollow" class="editor-link cms-editor-link">Redigera ordning på tjänster</a>
       <h2>{{ tjanst.title}}</h2>
       <p>{{ tjanst.description }}</p>
     </header>
@@ -60,7 +70,7 @@ layout: default
   </div>
 
 </section>
-{% endfor %}
+{% break %} {% endif %} {% endfor %} {% endfor %}
 
 
 <!-- Four -->
@@ -72,16 +82,17 @@ layout: default
     </header>
     <div class="box alt">
       <div class="row gtr-uniform">
-        {% assign members = site.cuttlefish_members | sort: "namn" %}
-        {% for medlem in members %}{% if medlem.anstalld == true %}
+        {% for member_name in page.cuttlefish_members %} {% for member in site.cuttlefish_members %} {% capture name -%}
+        {{ member.relative_path | replace_first: member.collection, '' | replace_first: '_/', '' | replace_first: '.md', '' }}
+        {%- endcapture %} {% if name == member_name %}
         <section class="col-4 col-6-medium col-12-xsmall">
-          <span class="icon alt major" style="background-image:url({{ medlem.image }});background-repeat: no-repeat;"></span>
-          <h3>{{ medlem.namn }}</h3>
-          <p>{{ medlem.bio_markdown | markdownify }}</p>
+          <span class="icon alt major" style="background-image:url({{ member.image }});background-repeat: no-repeat;"></span>
+          <h3>{{ member.namn }}</h3>
+          <p>{{ member.bio_markdown | markdownify }}</p>
           <!-- Editor Link -->
-          <a href="cloudcannon:collections/{{ medlem.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Profil</a>
+          <a href="cloudcannon:collections/{{ member.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Profil</a>
         </section>
-        {% endif %}{% endfor %}
+        {% break %} {% endif %} {% endfor %} {% endfor %}
       </div>
     </div>
   </div>

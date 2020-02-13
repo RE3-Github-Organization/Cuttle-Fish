@@ -6,10 +6,17 @@
               {% if page.url != '/' %}<li><a href="/">Hem</a></li>{% endif %}
               <li>
                 <a href="#">Våra tjänster</a>
-                  <ul>
-{% for tjanst in site.tjanster %}
+                  <ul> 
+                    {% for tjanst_name in site.data.tjansteprio.tjanster %} 
+                    {% for tjanst in site.tjanster %} 
+                    {% capture name -%}
+                    {{ tjanst.relative_path | replace_first: tjanst.collection, '' | replace_first: '_/', '' | replace_first: '.md', '' }}
+                    {%- endcapture %} 
+                    {% if name == tjanst_name %}
                     <li><a href="{{ tjanst.url }}">{{ tjanst.title }}</a></li>
-{% endfor %}
+                    
+                    {% break %} {% endif %} {% endfor %} {% endfor %}
+
                   </ul>
               <li><a href="/aktuellt/">Aktuellt</a></li>
               <li><a href="/#five" class="button primary">Kontakta oss</a></li>

@@ -8,9 +8,7 @@ hero_image: /images/cuttlefish_hero.svg
 cuttlefish_members:
   - mats
   - ulrika
-  - ny-rekryt
-tjanster:
-  - 
+  - ny-rekryt 
 layout: default
 ---
 
@@ -61,6 +59,7 @@ layout: default
     <header>
       <!-- Editor Link -->
       <a href="cloudcannon:collections/{{ tjanst.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Tjänst</a>
+      <a href="cloudcannon:collections/_data/tjansteprio.yml" rel="nofollow" class="editor-link cms-editor-link">Redigera ordning på tjänster</a>
       <h2>{{ tjanst.title}}</h2>
       <p>{{ tjanst.description }}</p>
     </header>
@@ -91,7 +90,7 @@ layout: default
           <h3>{{ member.namn }}</h3>
           <p>{{ member.bio_markdown | markdownify }}</p>
           <!-- Editor Link -->
-          <a href="cloudcannon:collections/{{ member.path }}" rel="nofollow" class="   cms-editor-link">Redigera Profil</a>
+          <a href="cloudcannon:collections/{{ member.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Profil</a>
         </section>
         {% break %} {% endif %} {% endfor %} {% endfor %}
       </div>

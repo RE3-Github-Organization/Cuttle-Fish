@@ -16,6 +16,8 @@ layout: default
         <section id="content">
           <a href="#" class="image fit"><img src="{{ page.image }}" alt="" /></a>
           {{ content }}
+          <h3>Missa inte nyheter på vår web! </h3>
+          <a href="/#five" class="button primary">Anmäl dig till vårt nyhetsbrev här!</a><br /><br />
           <div class="author">
             {% assign author_id = page.cuttlefish_member | prepend: "/cuttlefish_members/" | append: "/" %}
             {% assign author_name = site.cuttlefish_members | where: "url", author_id | first %}
@@ -77,7 +79,12 @@ layout: default
           </section>
           <hr />
 
-          {% for tjanst in site.tjanster %}
+          {% for tjanst_name in site.data.tjansteprio.tjanster %} 
+          {% for tjanst in site.tjanster %} 
+          {% capture name -%}
+          {{ tjanst.relative_path | replace_first: tjanst.collection, '' | replace_first: '_/', '' | replace_first: '.md', '' }}
+          {%- endcapture %} 
+          {% if name == tjanst_name %}
           {% if tjanst.url != page.url %}
 
           <section>
@@ -92,7 +99,7 @@ layout: default
           </section>
 
           {% endif %}
-          {% endfor %}
+          {% break %} {% endif %} {% endfor %} {% endfor %}
 
 
 

@@ -42,7 +42,12 @@ layout: default
           </section>
           <hr />
 
-          {% for tjanst in site.tjanster %}
+          {% for tjanst_name in site.data.tjansteprio.tjanster %} 
+          {% for tjanst in site.tjanster %} 
+          {% capture name -%}
+          {{ tjanst.relative_path | replace_first: tjanst.collection, '' | replace_first: '_/', '' | replace_first: '.md', '' }}
+          {%- endcapture %} 
+          {% if name == tjanst_name %}
           {% if tjanst.url != page.url %}
 
           <section>
@@ -57,7 +62,7 @@ layout: default
           </section>
 
           {% endif %}
-          {% endfor %}
+          {% break %} {% endif %} {% endfor %} {% endfor %}
 
 
 

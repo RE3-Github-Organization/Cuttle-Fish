@@ -5,11 +5,13 @@ description: >-
   privata sällskap.
 image: /images/denys-nevozhai-rrnbmipmtzy-unsplash.jpg
 hero_image: /images/cuttlefish_hero.svg
-layout: default
 cuttlefish_members:
   - mats
   - ulrika
   - ny-rekryt
+tjanster:
+  - 
+layout: default
 ---
 
 <!-- Banner -->
@@ -46,7 +48,12 @@ cuttlefish_members:
   </div>
 
 </section>
-{% for tjanst in site.tjanster %}
+{% for tjanst_name in site.data.tjansteprio.tjanster %} 
+{% for tjanst in site.tjanster %} 
+{% capture name -%}
+{{ tjanst.relative_path | replace_first: tjanst.collection, '' | replace_first: '_/', '' | replace_first: '.md', '' }}
+{%- endcapture %} 
+{% if name == tjanst_name %}
 <!-- Two -->
 <section class="spotlight style1 {% cycle 'right', 'left' %}">
   <span class="image fit main"><img src="{{ tjanst.image }}" alt="{{ tjanst.title }}" /></span>
@@ -64,7 +71,7 @@ cuttlefish_members:
   </div>
 
 </section>
-{% endfor %}
+{% break %} {% endif %} {% endfor %} {% endfor %}
 
 
 <!-- Four -->
@@ -84,7 +91,7 @@ cuttlefish_members:
           <h3>{{ member.namn }}</h3>
           <p>{{ member.bio_markdown | markdownify }}</p>
           <!-- Editor Link -->
-          <a href="cloudcannon:collections/{{ member.path }}" rel="nofollow" class="editor-link cms-editor-link">Redigera Profil</a>
+          <a href="cloudcannon:collections/{{ member.path }}" rel="nofollow" class="   cms-editor-link">Redigera Profil</a>
         </section>
         {% break %} {% endif %} {% endfor %} {% endfor %}
       </div>

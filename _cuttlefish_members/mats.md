@@ -1,8 +1,7 @@
 ---
 namn: Mats Kronbladh
 bio_markdown: >-
-  Mats vill og&auml;rna sitta still p&aring; sina resor - oavsett om det &auml;r
-  konferensresor eller privata resor... P&aring; arbetsresor och konferenser har
+  Mats vill og&auml;rna sitta still p&aring; sina resor... P&aring; arbetsresor och konferenser har
   han lyckats kl&auml;mma in b&aring;de mountainbike i Barcelona, dykning i
   Adriatiska havet och 4 mil rullskridskor söder om Berlin.
 
